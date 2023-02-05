@@ -1,5 +1,4 @@
-# Capstone
-Capstone Project 
+# Capstone Project 
 
 ## Current Questions
 * Clustering of movie keywords by gender of movie crew
