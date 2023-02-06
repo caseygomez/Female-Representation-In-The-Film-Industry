@@ -1,4 +1,4 @@
-movie_id,original_title,release_date,original_language,vote_average,vote_count
+movie_id,title,release_date,language,vote_average,vote_count
 862,Toy Story,1995-10-30,en,7.7,5415.0
 8844,Jumanji,1995-12-15,en,6.9,2413.0
 15602,Grumpier Old Men,1995-12-22,en,6.5,92.0
