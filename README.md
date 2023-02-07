@@ -21,7 +21,7 @@ orginally pulled form [TMDB](https://www.themoviesdb.org)
 ### Concept:
 The source data includes many files, this project specifically examines the movie credits, keywords, and metadata. All three datasets contain a movie id which will be the unique identifier.
 
-The **credits file** contains information for the cast as well as the crew. For this project the cast data will not be necessary. The crew data will be loaded into three tables based on department; Directing, Producing, and Writing. These tables will include the movie id, gender of the crew member and their job. Looking at the gender will be help to answer questions around equity, inclusion and diversity in the film industry. Additionally, this will provide context for relationships between cast members and movie themes. 
+The **credits file** contains information for the cast as well as the crew. For this project the cast data will not be necessary. The crew data will be loaded into three tables based on department; Directing, Producing, and Writing. These tables will include the movie id, gender of the crew member and their job. Looking at the gender will help to answer questions around equity, inclusion and diversity in the film industry. Additionally, this will provide context for relationships between cast members and movie themes. 
 
 The **keywords file** will be cleaned and loaded with the movie id and keywords associated with the film. This will provide context for themes and genres. Utilizing clusters to identify groups with potential for relationships such as female writers and common themes in film. 
 
