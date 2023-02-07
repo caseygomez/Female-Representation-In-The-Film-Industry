@@ -12,7 +12,7 @@
 
 ---
 ### Resources:
-* Source Code: [Keywords](keyword_ETL.ipynb), [Movies_Metadata](movies_metadata.ipynb)
+* Source Code: [Keywords](keyword_ETL.ipynb), [Movies_Metadata](movies_metadata.ipynb), [Credits](credits.ipynb)
 * Source Data: [The Movies Dataset](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=keywords.csv)
 orginally pulled form [TMDB](https://www.themoviesdb.org)
 * Technology: [Pandas](https://pandas.pydata.org/), [Amazon S3](https://aws.amazon.com/s3/?did=ap_card&trk=ap_card), [PostgreSQL](https://www.postgresql.org/), [pgAgmin](https://www.pgadmin.org/) 
