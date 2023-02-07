@@ -21,9 +21,32 @@ orginally pulled form [TMDB](https://www.themoviesdb.org)
 ### Concept:
 The source data includes many files, this project specifically examines the movie credits, keywords, and metadata. All three datasets contain a movie id which will be the unique identifier.
 
-The **credits file** contains information for the cast as well as the crew. For this project the cast data will not be necessary. The crew data will be loaded into three tables based on department; Directing, Producing, and Writing. These tables will include the movie id, gender of the crew member and their job. Looking at the gender will help to answer questions around equity, inclusion and diversity in the film industry. Additionally, this will provide context for relationships between cast members and movie themes. 
+The **credits file** contains information for the cast as well as the crew. For this project the cast data will not be necessary. The crew data will be loaded into three tables based on department; Directing, Producing, and Writing. Looking at the gender will help to answer questions around equity, inclusion and diversity in the film industry. Additionally, this will provide context for relationships between cast members and movie themes. 
 
-The **keywords file** will be cleaned and loaded with the movie id and keywords associated with the film. This will provide context for themes and genres. Utilizing clusters to identify groups with potential for relationships such as female writers and common themes in film. 
+The **keywords file** will provide context for themes and genres. Utilizing clusters to identify groups with potential for relationships such as female writers and common themes in film. 
 
 The **metadata file** has several columns, this project focuses on; genre, title, production company, production country, original langauge, release date, vote average and vote count. It will be interesting to compare trends between countries or production companies. 
 
+---
+### Database Structure:
+
+The database is hosted on Amazon S3, the cloud allows for quick and easy access for the team. The data has been divided into 8 tables. The structure allows for joins on the movie_id. 
+
+The companies table consists of two columns, movie_id and companies. One movie_id can have many companies involved in the production. It will be interesting to see if there are trends around production companies and number of female crew members. 
+
+ ![Production Companies](images/companies_table.png)
+
+
+The countries table consists of three columns, movie_id, country code and country name. Is one country producing more films about diversity, equity or inclusion? 
+
+ ![Production Countries](images/countries_table.png)
+
+
+The genres table with provide context for determining the theme of the movie. One movie_id can be associated with more than one genre. 
+
+ ![Genres](images/genre_table.png)
+
+
+The keywords table has the most rows and one movie_id can have several keywords. It is important to capture the number of occurences to provide context to the other data sets. 
+
+ ![Keywords](images/keywords_table.png)
