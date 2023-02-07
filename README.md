@@ -34,19 +34,16 @@ The database is hosted on Amazon S3, the cloud allows for quick and easy access 
 
 The companies table consists of two columns, movie_id and companies. One movie_id can have many companies involved in the production. It will be interesting to see if there are trends around production companies and number of female crew members. 
 
- ![Production Companies](img src="Images/companies_table.png" width = "250")
-
+<img src="https://github.com/caseygomez/Capstone/raw/images/Images/companies_table.png" height="400">
 
 The countries table consists of three columns, movie_id, country code and country name. Is one country producing more films about diversity, equity or inclusion? 
 
- ![Production Countries](Images/countries_table.png)
-
+<img src="https://github.com/caseygomez/Capstone/raw/images/Images/countries_table.png" height="400">
 
 The genres table with provide context for determining the theme of the movie. One movie_id can be associated with more than one genre. 
 
- ![Genres](Images/genre_table.png)
-
+<img src="https://github.com/caseygomez/Capstone/raw/images/Images/genre_table.png" height="400">
 
 The keywords table has the most rows and one movie_id can have several keywords. It is important to capture the number of occurences to provide context to the other data sets. 
 
- ![Keywords](Images/keywords_table.png)
+<img src="https://github.com/caseygomez/Capstone/raw/images/Images/keywords_table.png" height="400">
