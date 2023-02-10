@@ -100,3 +100,28 @@ SELECT COUNT(DISTINCT movie_id) FROM male_directing;
 --16115 unique movie_ids vs 163044 total rows 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- Carolyn's Notes
+
+tables
+- joined_gender_directing - imports csv from same name
+- directing_percent - inner join from metadata and joined_gender_directing
+	- results in movie_id, release_date, and percent_female
