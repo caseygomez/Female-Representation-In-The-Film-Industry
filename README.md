@@ -1,10 +1,7 @@
 # Equity and Film 
 
-## Current Questions
-* Clustering of movie keywords by gender of movie crew
-* Is cinema more inclusive in recent years? 
-* Are there patterns around diversity and inclusion? 
-* Has the percentage of female cast members increased over time? 
+## Current Question
+* How is the percentage of female crew members changing over time? 
 
 ---
 ### Relevance
