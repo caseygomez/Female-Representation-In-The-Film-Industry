@@ -12,8 +12,7 @@
 * Source Code: [Keywords](keyword_ETL.ipynb), [Movies_Metadata](movies_metadata.ipynb), [Crew Credits](crew_ETL.ipynb)
 * Source Data: [The Movies Dataset](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=keywords.csv)
 originally pulled from [TMDB](https://www.themoviesdb.org)
-* Technology: [Pandas](https://pandas.pydata.org/), [Amazon S3](https://aws.amazon.com/s3/?did=ap_card&trk=ap_card), [PostgreSQL](https://www.postgresql.org/), [pgAgmin](https://www.pgadmin.org/) 
-
+* Technology: [Pandas](https://pandas.pydata.org/), [Amazon S3](https://aws.amazon.com/s3/?did=ap_card&trk=ap_card), [PostgreSQL](https://www.postgresql.org/), [pgAgmin](https://www.pgadmin.org/), Excel, Python, scikit-learn, matplotlib, tableau
 ---
 ### Concept:
 The source data includes many files, this project specifically examines the movie credits, keywords, and metadata. All three datasets contain a movie id which will be the unique identifier.
