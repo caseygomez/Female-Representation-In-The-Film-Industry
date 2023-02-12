@@ -121,7 +121,29 @@ SELECT COUNT(DISTINCT movie_id) FROM male_directing;
 
 -- Carolyn's Notes
 
-tables
+-- tables
 - joined_gender_directing - imports csv from same name
+	- joined_gender_directing.csv has movie_id, sum_gender, total_gender, and percent_female
 - directing_percent - inner join from metadata and joined_gender_directing
 	- results in movie_id, release_date, and percent_female
+
+
+
+
+-- queries
+
+create table joined_gender_all_departments(
+	movie_id int not null,
+	sum_gender float not null,
+	total_gender float not null,
+	percent_female float not null,
+	primary key(movie_id)
+)
+
+select md.movie_id,
+	md.release_date,
+	jgad.percent_female
+into all_departments_percent
+from joined_gender_all_departments as jgad
+inner join metadata as md
+	on(md.movie_id=jgad.movie_id)
