@@ -30,7 +30,7 @@ The database is hosted on Amazon S3, the cloud allows for quick and easy access 
 
 The most important table for this project is the all_departments_percent table. This table has three columns; movie_id, release_date, percent_female. With the release date and percent of female crew members, one is able to track trends in the movie industry over the past 70 years. 
 
-<img src="https://github.com/caseygomez/Capstone/blob/main/Images/all_depart_percent.png" width="400" height="400">
+<img src="https://github.com/caseygomez/Capstone/blob/main/Images/all_depart_percent.png" height="400">
 
 The keywords table has the most rows and one movie_id can have several keywords. It is important to capture the number of occurences to provide context to the other data sets. 
 
