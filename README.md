@@ -34,4 +34,4 @@ The most important table for this project is the all_departments_percent table. 
 
 The keywords table has the most rows and one movie_id can have several keywords. It is important to capture the number of occurences to provide context to the other data sets. 
 
-<img src="https://github.com/caseygomez/Capstone/blob/main/Images/keywords_table.png" height="400">
+<img src="https://github.com/caseygomez/Capstone/blob/main/Images/keywords_table.png" height="250">
