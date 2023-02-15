@@ -11,7 +11,7 @@ Diversity, equity, inclusion matters (see [slide 6](https://1drv.ms/p/s!AgY9SN2o
 ### Resources:
 * Source Code: [Keywords](keyword_ETL.ipynb), [Movies_Metadata](movies_metadata_ETL.ipynb), [Crew Credits](crew_ETL.ipynb)
 * Source Data: [The Movies Dataset](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=keywords.csv)
-originally pulled from [TMDB](https://www.themoviesdb.org)
+originally scraped from [TMDB](https://www.themoviesdb.org)
 * Technology: [Python](https://www.python.org/), [Jupyter](https://jupyter.org/), [Amazon S3](https://aws.amazon.com/s3/?did=ap_card&trk=ap_card), [PostgreSQL](https://www.postgresql.org/), [pgAgmin](https://www.pgadmin.org/), [Pandas](https://pandas.pydata.org/), [scikit-learn](https://scikit-learn.org/stable/), [matplotlib](https://matplotlib.org/), [tableau](https://www.tableau.com/), [Excel](https://www.microsoft.com/en-us/?ql=3)
 ---
 ### Concept:
