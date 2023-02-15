@@ -839,7 +839,6 @@ movie_id,code,countries
 29621,US,United States of America
 29621,MX,Mexico
 20762,US,United States of America
-48260,GB,United Kingdom
 12656,US,United States of America
 38867,US,United States of America
 25969,US,United States of America
@@ -951,7 +950,6 @@ movie_id,code,countries
 42005,HU,Hungary
 183955,PH,Philippines
 44535,US,United States of America
-44495,US,United States of America
 78285,FR,France
 11228,US,United States of America
 10779,NZ,New Zealand
@@ -1179,7 +1177,6 @@ movie_id,code,countries
 454,US,United States of America
 10218,US,United States of America
 819,US,United States of America
-38191,US,United States of America
 56830,US,United States of America
 11238,US,United States of America
 27256,GB,United Kingdom
@@ -1597,7 +1594,6 @@ movie_id,code,countries
 14832,DE,Germany
 14832,GB,United Kingdom
 9619,US,United States of America
-40506,US,United States of America
 31000,US,United States of America
 4104,US,United States of America
 26306,US,United States of America
@@ -1710,7 +1706,6 @@ movie_id,code,countries
 38523,FR,France
 16375,US,United States of America
 33660,US,United States of America
-59232,US,United States of America
 45671,GB,United Kingdom
 45671,US,United States of America
 45671,FR,France
@@ -1750,7 +1745,6 @@ movie_id,code,countries
 38225,US,United States of America
 17834,US,United States of America
 686,US,United States of America
-65046,AU,Australia
 4421,US,United States of America
 9387,US,United States of America
 10603,US,United States of America
@@ -2046,7 +2040,6 @@ movie_id,code,countries
 78373,US,United States of America
 77514,UA,Ukraine
 77514,FR,France
-49474,GB,United Kingdom
 4415,US,United States of America
 8656,US,United States of America
 58680,US,United States of America
@@ -2590,7 +2583,6 @@ movie_id,code,countries
 15596,US,United States of America
 13818,US,United States of America
 29968,US,United States of America
-44326,US,United States of America
 1885,US,United States of America
 8856,US,United States of America
 10495,US,United States of America
@@ -2956,7 +2948,6 @@ movie_id,code,countries
 10136,US,United States of America
 32060,US,United States of America
 48686,US,United States of America
-48259,US,United States of America
 873,US,United States of America
 48660,US,United States of America
 26789,US,United States of America
@@ -3294,7 +3285,6 @@ movie_id,code,countries
 37094,US,United States of America
 13555,US,United States of America
 24831,US,United States of America
-64963,US,United States of America
 85160,US,United States of America
 25560,IT,Italy
 25560,US,United States of America
@@ -4504,9 +4494,6 @@ movie_id,code,countries
 15658,US,United States of America
 4918,GB,United Kingdom
 28368,US,United States of America
-48149,FR,France
-48149,IT,Italy
-48149,US,United States of America
 32054,GB,United Kingdom
 32054,US,United States of America
 14464,MX,Mexico
@@ -4675,7 +4662,6 @@ movie_id,code,countries
 13166,US,United States of America
 32590,US,United States of America
 153141,GB,United Kingdom
-70282,US,United States of America
 47643,CA,Canada
 111,US,United States of America
 32488,US,United States of America
@@ -4746,9 +4732,6 @@ movie_id,code,countries
 14268,US,United States of America
 5852,US,United States of America
 808,US,United States of America
-49453,FR,France
-49453,IT,Italy
-49453,US,United States of America
 824,AU,Australia
 824,US,United States of America
 37558,FR,France
@@ -4822,7 +4805,6 @@ movie_id,code,countries
 16161,US,United States of America
 10691,US,United States of America
 10615,US,United States of America
-47596,US,United States of America
 21488,FR,France
 271462,AU,Australia
 11826,ES,Spain
@@ -5123,6 +5105,7 @@ movie_id,code,countries
 20006,US,United States of America
 8867,US,United States of America
 8867,AU,Australia
+12663,NA,Namibia
 12663,US,United States of America
 12663,ZA,South Africa
 331,US,United States of America
@@ -5541,7 +5524,6 @@ movie_id,code,countries
 11938,GB,United Kingdom
 43143,GB,United Kingdom
 35201,GB,United Kingdom
-42724,GB,United Kingdom
 27150,US,United States of America
 26978,US,United States of America
 19209,US,United States of America
@@ -5941,7 +5923,6 @@ movie_id,code,countries
 16643,US,United States of America
 1282,US,United States of America
 21220,US,United States of America
-52717,FR,France
 69324,NZ,New Zealand
 11468,US,United States of America
 19085,US,United States of America
@@ -5957,7 +5938,6 @@ movie_id,code,countries
 26725,US,United States of America
 17168,US,United States of America
 48482,US,United States of America
-56179,US,United States of America
 5203,US,United States of America
 13201,DE,Germany
 13201,US,United States of America
@@ -6729,7 +6709,6 @@ movie_id,code,countries
 23626,US,United States of America
 12090,DE,Germany
 12090,US,United States of America
-44233,US,United States of America
 35172,BE,Belgium
 35172,FR,France
 36273,JP,Japan
@@ -6958,8 +6937,6 @@ movie_id,code,countries
 210938,US,United States of America
 42035,GB,United Kingdom
 21867,GB,United Kingdom
-49680,IL,Israel
-49680,FR,France
 6524,US,United States of America
 11244,US,United States of America
 21801,US,United States of America
@@ -7049,7 +7026,6 @@ movie_id,code,countries
 17057,US,United States of America
 41938,US,United States of America
 79615,US,United States of America
-42178,US,United States of America
 203252,FR,France
 203252,IT,Italy
 203252,GB,United Kingdom
@@ -7151,10 +7127,8 @@ movie_id,code,countries
 17464,US,United States of America
 15259,US,United States of America
 10515,JP,Japan
-45069,US,United States of America
 117269,US,United States of America
 21024,US,United States of America
-42792,US,United States of America
 43232,US,United States of America
 22201,US,United States of America
 11424,US,United States of America
@@ -7298,7 +7272,6 @@ movie_id,code,countries
 39088,DE,Germany
 17813,US,United States of America
 42995,US,United States of America
-115665,ES,Spain
 4708,FR,France
 4708,US,United States of America
 35068,GB,United Kingdom
@@ -7331,7 +7304,6 @@ movie_id,code,countries
 20645,JP,Japan
 33454,US,United States of America
 19753,US,United States of America
-48451,US,United States of America
 11482,FR,France
 42492,US,United States of America
 6949,US,United States of America
@@ -8331,7 +8303,6 @@ movie_id,code,countries
 10338,GB,United Kingdom
 33839,US,United States of America
 133919,SE,Sweden
-95548,US,United States of America
 50549,US,United States of America
 38978,GB,United Kingdom
 92331,US,United States of America
@@ -8431,8 +8402,6 @@ movie_id,code,countries
 18872,JP,Japan
 44864,SE,Sweden
 28290,US,United States of America
-50363,GB,United Kingdom
-50363,US,United States of America
 633,BE,Belgium
 633,NL,Netherlands
 5511,FR,France
@@ -8558,7 +8527,6 @@ movie_id,code,countries
 10916,US,United States of America
 10921,US,United States of America
 10941,US,United States of America
-42204,US,United States of America
 33157,IT,Italy
 33157,RU,Russia
 24798,US,United States of America
@@ -8994,7 +8962,6 @@ movie_id,code,countries
 36561,DE,Germany
 36561,NO,Norway
 36561,SE,Sweden
-49814,GB,United Kingdom
 15484,US,United States of America
 36672,DE,Germany
 2330,FR,France
@@ -9256,7 +9223,6 @@ movie_id,code,countries
 13559,US,United States of America
 42694,US,United States of America
 32298,US,United States of America
-66566,US,United States of America
 124029,US,United States of America
 42164,PL,Poland
 124,PL,Poland
@@ -9604,7 +9570,6 @@ movie_id,code,countries
 39495,US,United States of America
 15263,US,United States of America
 751,GB,United Kingdom
-42798,US,United States of America
 4025,US,United States of America
 61892,US,United States of America
 25253,FR,France
@@ -9946,7 +9911,6 @@ movie_id,code,countries
 29903,AR,Argentina
 29903,US,United States of America
 54407,AU,Australia
-41243,US,United States of America
 12615,US,United States of America
 14029,IT,Italy
 10372,US,United States of America
@@ -10291,7 +10255,6 @@ movie_id,code,countries
 344,DE,Germany
 15805,US,United States of America
 14439,US,United States of America
-41227,CA,Canada
 13428,AU,Australia
 27260,US,United States of America
 11508,US,United States of America
@@ -10963,7 +10926,6 @@ movie_id,code,countries
 30923,DE,Germany
 30923,GB,United Kingdom
 30923,US,United States of America
-41851,US,United States of America
 58918,US,United States of America
 11343,US,United States of America
 661,DE,Germany
@@ -11073,7 +11035,6 @@ movie_id,code,countries
 4235,FR,France
 34614,DK,Denmark
 34614,SE,Sweden
-51177,US,United States of America
 10012,DE,Germany
 10012,US,United States of America
 65967,CZ,Czech Republic
@@ -11331,7 +11292,6 @@ movie_id,code,countries
 16250,US,United States of America
 10065,US,United States of America
 30863,US,United States of America
-49920,US,United States of America
 31065,NZ,New Zealand
 31065,US,United States of America
 22033,GB,United Kingdom
@@ -11626,6 +11586,7 @@ movie_id,code,countries
 12497,GR,Greece
 12497,TR,Turkey
 5237,GB,United Kingdom
+5237,NA,Namibia
 5237,US,United States of America
 5237,ZA,South Africa
 32242,KR,South Korea
@@ -11905,7 +11866,6 @@ movie_id,code,countries
 142,US,United States of America
 9621,US,United States of America
 9701,US,United States of America
-45899,IR,Iran
 3291,FR,France
 3291,JP,Japan
 3291,GB,United Kingdom
@@ -12235,9 +12195,6 @@ movie_id,code,countries
 12701,NO,Norway
 12701,GB,United Kingdom
 21519,HK,Hong Kong
-43626,CA,Canada
-43626,US,United States of America
-43626,FR,France
 16553,US,United States of America
 25652,KR,South Korea
 39788,PL,Poland
@@ -12608,7 +12565,6 @@ movie_id,code,countries
 2295,US,United States of America
 9697,US,United States of America
 4474,US,United States of America
-43240,US,United States of America
 28673,IT,Italy
 20556,GB,United Kingdom
 4962,FR,France
@@ -12970,7 +12926,6 @@ movie_id,code,countries
 1523,US,United States of America
 14201,US,United States of America
 1378,US,United States of America
-49481,GB,United Kingdom
 9693,GB,United Kingdom
 9693,US,United States of America
 1124,US,United States of America
@@ -13218,7 +13173,6 @@ movie_id,code,countries
 26594,AU,Australia
 22473,CA,Canada
 22473,US,United States of America
-51863,GB,United Kingdom
 50754,GB,United Kingdom
 16138,KR,South Korea
 13668,US,United States of America
@@ -14637,7 +14591,6 @@ movie_id,code,countries
 23676,FI,Finland
 23676,GB,United Kingdom
 1938,US,United States of America
-42473,US,United States of America
 13993,US,United States of America
 11665,CA,Canada
 11665,RU,Russia
@@ -14737,7 +14690,6 @@ movie_id,code,countries
 16007,JP,Japan
 158800,US,United States of America
 18035,US,United States of America
-43253,US,United States of America
 14820,US,United States of America
 6687,DE,Germany
 6687,ES,Spain
@@ -15620,7 +15572,6 @@ movie_id,code,countries
 33974,DK,Denmark
 33974,DE,Germany
 33974,SE,Sweden
-45949,DE,Germany
 18320,GB,United Kingdom
 18320,US,United States of America
 49571,JP,Japan
@@ -16394,7 +16345,6 @@ movie_id,code,countries
 71171,US,United States of America
 31021,PL,Poland
 173171,PL,Poland
-48329,CA,Canada
 44338,DE,Germany
 36577,JP,Japan
 22447,GB,United Kingdom
@@ -16619,8 +16569,6 @@ movie_id,code,countries
 17591,GB,United Kingdom
 49687,IT,Italy
 49687,FR,France
-44808,US,United States of America
-44808,ZA,South Africa
 41886,US,United States of America
 24050,US,United States of America
 24050,CA,Canada
@@ -16741,7 +16689,6 @@ movie_id,code,countries
 40229,US,United States of America
 10800,FR,France
 25676,HK,Hong Kong
-44941,US,United States of America
 25205,RU,Russia
 25205,FR,France
 25205,IT,Italy
@@ -17032,7 +16979,6 @@ movie_id,code,countries
 16436,DE,Germany
 31867,CA,Canada
 31867,US,United States of America
-42451,CA,Canada
 43138,US,United States of America
 4933,US,United States of America
 28355,CA,Canada
@@ -17090,7 +17036,6 @@ movie_id,code,countries
 34769,GB,United Kingdom
 34769,US,United States of America
 39830,US,United States of America
-132744,IN,India
 35939,GB,United Kingdom
 23483,GB,United Kingdom
 23483,US,United States of America
@@ -17781,8 +17726,6 @@ movie_id,code,countries
 113458,PL,Poland
 42085,ES,Spain
 42085,AR,Argentina
-42495,DK,Denmark
-42495,GB,United Kingdom
 95597,SN,Senegal
 95597,FR,France
 55562,DE,Germany
@@ -17914,13 +17857,11 @@ movie_id,code,countries
 34145,FR,France
 34145,IT,Italy
 40911,TW,Taiwan
-54720,US,United States of America
 43923,US,United States of America
 5719,US,United States of America
 71575,US,United States of America
 2754,NL,Netherlands
 166204,IN,India
-40970,GB,United Kingdom
 38842,US,United States of America
 45261,US,United States of America
 73682,RO,Romania
@@ -18062,7 +18003,6 @@ movie_id,code,countries
 13548,US,United States of America
 21431,BR,Brazil
 21431,US,United States of America
-25073,US,United States of America
 155445,DE,Germany
 155445,PL,Poland
 20700,US,United States of America
@@ -18101,7 +18041,6 @@ movie_id,code,countries
 49207,DK,Denmark
 46103,US,United States of America
 79743,FI,Finland
-44076,IR,Iran
 48015,GB,United Kingdom
 35957,US,United States of America
 51241,CA,Canada
@@ -18166,8 +18105,6 @@ movie_id,code,countries
 44442,FR,France
 44442,PL,Poland
 48466,US,United States of America
-47065,AR,Argentina
-47065,US,United States of America
 38325,RU,Russia
 71317,RU,Russia
 137504,JP,Japan
@@ -18273,7 +18210,6 @@ movie_id,code,countries
 34764,IN,India
 37234,GB,United Kingdom
 42483,US,United States of America
-42561,US,United States of America
 52320,DE,Germany
 52320,NO,Norway
 52320,SE,Sweden
@@ -18709,7 +18645,6 @@ movie_id,code,countries
 71732,BE,Belgium
 85550,KR,South Korea
 85550,FR,France
-116751,FR,France
 72852,FR,France
 48954,GB,United Kingdom
 32122,AU,Australia
@@ -18926,9 +18861,6 @@ movie_id,code,countries
 42167,FR,France
 57409,CA,Canada
 2010,JP,Japan
-47215,TR,Turkey
-47215,DE,Germany
-47215,NL,Netherlands
 45715,AU,Australia
 45715,GR,Greece
 58232,AT,Austria
@@ -18949,7 +18881,6 @@ movie_id,code,countries
 16179,US,United States of America
 153041,JP,Japan
 153041,FR,France
-85769,GR,Greece
 211331,CA,Canada
 211331,ZA,South Africa
 45046,US,United States of America
@@ -19333,7 +19264,6 @@ movie_id,code,countries
 70862,US,United States of America
 48996,SE,Sweden
 45658,US,United States of America
-127818,US,United States of America
 41827,US,United States of America
 55347,US,United States of America
 37686,US,United States of America
@@ -19356,7 +19286,6 @@ movie_id,code,countries
 84823,FR,France
 34835,GB,United Kingdom
 37523,TR,Turkey
-44104,IT,Italy
 13137,GB,United Kingdom
 56231,IT,Italy
 47171,AU,Australia
@@ -19428,7 +19357,6 @@ movie_id,code,countries
 55759,FI,Finland
 114514,US,United States of America
 12513,FR,France
-73884,HK,Hong Kong
 60302,DE,Germany
 60302,US,United States of America
 52605,US,United States of America
@@ -19468,7 +19396,6 @@ movie_id,code,countries
 1482,US,United States of America
 40047,US,United States of America
 98060,IT,Italy
-68200,US,United States of America
 94725,US,United States of America
 95482,KR,South Korea
 67236,CA,Canada
@@ -19697,7 +19624,6 @@ movie_id,code,countries
 56288,US,United States of America
 73930,PT,Portugal
 42692,SE,Sweden
-64964,HU,Hungary
 46998,GR,Greece
 46261,US,United States of America
 46261,AU,Australia
@@ -19740,7 +19666,6 @@ movie_id,code,countries
 37430,US,United States of America
 50023,US,United States of America
 51588,US,United States of America
-57211,US,United States of America
 11388,US,United States of America
 16335,US,United States of America
 16335,FR,France
@@ -19762,7 +19687,6 @@ movie_id,code,countries
 40016,US,United States of America
 100794,IT,Italy
 17236,US,United States of America
-48199,HU,Hungary
 73358,GB,United Kingdom
 69798,GB,United Kingdom
 79775,GB,United Kingdom
@@ -19932,8 +19856,6 @@ movie_id,code,countries
 85743,SE,Sweden
 100784,RU,Russia
 100784,FR,France
-41822,HK,Hong Kong
-41822,TW,Taiwan
 45590,RU,Russia
 103590,GE,Georgia
 55863,US,United States of America
@@ -19987,7 +19909,6 @@ movie_id,code,countries
 85365,FR,France
 11383,US,United States of America
 28858,US,United States of America
-43981,IR,Iran
 80115,JP,Japan
 80115,NL,Netherlands
 80115,RO,Romania
@@ -20148,7 +20069,6 @@ movie_id,code,countries
 36261,HK,Hong Kong
 65229,FR,France
 25656,JP,Japan
-64347,FR,France
 6360,FR,France
 47189,CZ,Czech Republic
 52472,US,United States of America
@@ -20160,11 +20080,9 @@ movie_id,code,countries
 44826,FR,France
 44826,US,United States of America
 44826,GB,United Kingdom
-50875,US,United States of America
 70578,US,United States of America
 14673,US,United States of America
 36142,PL,Poland
-56489,AT,Austria
 37958,US,United States of America
 71880,US,United States of America
 37736,US,United States of America
@@ -20179,8 +20097,6 @@ movie_id,code,countries
 94336,DE,Germany
 51994,GB,United Kingdom
 51994,US,United States of America
-47099,FR,France
-47099,KZ,Kazakhstan
 121462,KR,South Korea
 51248,US,United States of America
 77365,US,United States of America
@@ -20193,7 +20109,6 @@ movie_id,code,countries
 17495,CA,Canada
 17495,FR,France
 80607,US,United States of America
-53328,US,United States of America
 72875,ES,Spain
 72875,IT,Italy
 60422,US,United States of America
@@ -20217,8 +20132,6 @@ movie_id,code,countries
 64328,US,United States of America
 10109,HK,Hong Kong
 50619,US,United States of America
-65002,DE,Germany
-65002,FR,France
 107327,GB,United Kingdom
 20859,CA,Canada
 57212,US,United States of America
@@ -20231,8 +20144,6 @@ movie_id,code,countries
 30784,GB,United Kingdom
 24185,IT,Italy
 79120,GB,United Kingdom
-46770,AR,Argentina
-46770,FR,France
 84473,FR,France
 83233,PT,Portugal
 39693,HK,Hong Kong
@@ -20396,7 +20307,6 @@ movie_id,code,countries
 293114,FI,Finland
 116537,FI,Finland
 118955,US,United States of America
-82698,IN,India
 73939,US,United States of America
 13247,US,United States of America
 50393,US,United States of America
@@ -20924,8 +20834,6 @@ movie_id,code,countries
 73211,FR,France
 73211,SE,Sweden
 73211,PL,Poland
-40720,FR,France
-40720,US,United States of America
 60405,CA,Canada
 60405,US,United States of America
 91356,US,United States of America
@@ -21284,7 +21192,6 @@ movie_id,code,countries
 279159,KR,South Korea
 44125,BR,Brazil
 73567,US,United States of America
-82877,US,United States of America
 44251,JP,Japan
 50388,JP,Japan
 19575,US,United States of America
@@ -21656,11 +21563,9 @@ movie_id,code,countries
 170517,US,United States of America
 110336,US,United States of America
 91250,US,United States of America
-131671,US,United States of America
 262243,US,United States of America
 537,FR,France
 84180,US,United States of America
-47405,NO,Norway
 135547,FI,Finland
 135547,EE,Estonia
 135547,KE,Kenya
@@ -21698,7 +21603,6 @@ movie_id,code,countries
 109843,GB,United Kingdom
 84306,US,United States of America
 40075,IT,Italy
-39779,US,United States of America
 86726,US,United States of America
 116463,US,United States of America
 99579,FR,France
@@ -21796,7 +21700,6 @@ movie_id,code,countries
 128158,FR,France
 128158,DE,Germany
 128158,GB,United Kingdom
-43761,IR,Iran
 82684,US,United States of America
 117266,US,United States of America
 87826,US,United States of America
@@ -21848,7 +21751,6 @@ movie_id,code,countries
 123105,US,United States of America
 102640,US,United States of America
 133458,SE,Sweden
-138122,IN,India
 84308,ES,Spain
 35683,US,United States of America
 135647,US,United States of America
@@ -22202,7 +22104,6 @@ movie_id,code,countries
 115400,IT,Italy
 115400,US,United States of America
 115400,CN,China
-130736,DE,Germany
 24446,CA,Canada
 44244,US,United States of America
 41592,GB,United Kingdom
@@ -22608,14 +22509,12 @@ movie_id,code,countries
 170657,CN,China
 156937,US,United States of America
 14591,US,United States of America
-56744,US,United States of America
 28090,US,United States of America
 236035,CA,Canada
 128682,US,United States of America
 126132,US,United States of America
 159480,SE,Sweden
 24479,US,United States of America
-67556,FR,France
 90228,FR,France
 143796,FR,France
 81005,US,United States of America
@@ -22694,7 +22593,6 @@ movie_id,code,countries
 122081,FR,France
 122081,US,United States of America
 30198,JP,Japan
-62301,JP,Japan
 81225,AT,Austria
 126186,US,United States of America
 126186,CN,China
@@ -22811,8 +22709,6 @@ movie_id,code,countries
 58483,DK,Denmark
 173294,GB,United Kingdom
 81619,US,United States of America
-40798,ES,Spain
-40798,US,United States of America
 85449,FR,France
 57993,US,United States of America
 64875,US,United States of America
@@ -23080,7 +22976,6 @@ movie_id,code,countries
 28424,US,United States of America
 137182,NL,Netherlands
 137182,BE,Belgium
-118931,JP,Japan
 121725,JP,Japan
 100493,US,United States of America
 121986,BR,Brazil
@@ -23090,7 +22985,6 @@ movie_id,code,countries
 104755,GB,United Kingdom
 18146,US,United States of America
 70757,DE,Germany
-94841,US,United States of America
 119675,US,United States of America
 128873,IT,Italy
 128873,FR,France
@@ -23233,7 +23127,6 @@ movie_id,code,countries
 38178,US,United States of America
 39982,US,United States of America
 159154,US,United States of America
-127373,US,United States of America
 185562,DE,Germany
 106049,US,United States of America
 58293,GB,United Kingdom
@@ -23542,7 +23435,6 @@ movie_id,code,countries
 128133,AT,Austria
 128133,US,United States of America
 152748,US,United States of America
-133108,US,United States of America
 200063,US,United States of America
 49542,US,United States of America
 35895,US,United States of America
@@ -23682,7 +23574,6 @@ movie_id,code,countries
 104634,ES,Spain
 104634,BR,Brazil
 28735,US,United States of America
-115199,US,United States of America
 146233,US,United States of America
 164457,US,United States of America
 133369,CA,Canada
@@ -24074,7 +23965,6 @@ movie_id,code,countries
 191421,CN,China
 243860,DE,Germany
 225703,US,United States of America
-49914,US,United States of America
 124581,US,United States of America
 110674,US,United States of America
 84324,US,United States of America
@@ -24248,8 +24138,6 @@ movie_id,code,countries
 90563,US,United States of America
 35637,JO,Jordan
 35637,US,United States of America
-86817,ES,Spain
-86817,RU,Russia
 184314,FR,France
 107916,ES,Spain
 54236,ES,Spain
@@ -24527,7 +24415,6 @@ movie_id,code,countries
 183654,IN,India
 257618,ES,Spain
 31013,US,United States of America
-41932,US,United States of America
 54229,IS,Iceland
 15826,DK,Denmark
 40593,US,United States of America
@@ -25094,7 +24981,6 @@ movie_id,code,countries
 118769,GB,United Kingdom
 177494,US,United States of America
 40346,HK,Hong Kong
-45514,FR,France
 68827,FR,France
 182827,JP,Japan
 74343,US,United States of America
@@ -25122,13 +25008,11 @@ movie_id,code,countries
 134350,JP,Japan
 236737,ES,Spain
 118915,US,United States of America
-116760,US,United States of America
 39293,GB,United Kingdom
 101242,US,United States of America
 157690,FR,France
 186971,FR,France
 186971,DE,Germany
-199740,SE,Sweden
 214250,AU,Australia
 86133,US,United States of America
 46460,US,United States of America
@@ -25288,7 +25172,6 @@ movie_id,code,countries
 46667,US,United States of America
 90590,US,United States of America
 77528,CA,Canada
-44369,PH,Philippines
 39214,US,United States of America
 35057,US,United States of America
 67633,RS,Serbia
@@ -25671,7 +25554,6 @@ movie_id,code,countries
 227700,GB,United Kingdom
 227700,US,United States of America
 208182,US,United States of America
-228028,US,United States of America
 126676,FR,France
 114574,US,United States of America
 187017,US,United States of America
@@ -25825,7 +25707,6 @@ movie_id,code,countries
 265349,AU,Australia
 209920,US,United States of America
 253235,US,United States of America
-259233,JP,Japan
 227877,CA,Canada
 254143,AU,Australia
 44588,FR,France
@@ -25905,7 +25786,6 @@ movie_id,code,countries
 113091,US,United States of America
 136616,DE,Germany
 29313,ES,Spain
-191293,DK,Denmark
 215848,ES,Spain
 109913,US,United States of America
 108003,GB,United Kingdom
@@ -26025,7 +25905,6 @@ movie_id,code,countries
 174337,US,United States of America
 286709,US,United States of America
 53544,US,United States of America
-54487,AU,Australia
 81543,US,United States of America
 143295,US,United States of America
 143295,GB,United Kingdom
@@ -26151,7 +26030,6 @@ movie_id,code,countries
 76047,SE,Sweden
 57277,US,United States of America
 52686,JP,Japan
-124295,RU,Russia
 47860,FR,France
 238561,DE,Germany
 238561,SY,Syrian Arab Republic
@@ -26334,7 +26212,6 @@ movie_id,code,countries
 263855,US,United States of America
 263855,TR,Turkey
 246403,US,United States of America
-42416,IT,Italy
 37630,CZ,Czech Republic
 254375,GB,United Kingdom
 254375,ZA,South Africa
@@ -26517,7 +26394,6 @@ movie_id,code,countries
 115214,CA,Canada
 245844,NL,Netherlands
 245844,NO,Norway
-118658,BA,Bosnia and Herzegovina
 292445,CH,Switzerland
 224946,US,United States of America
 285025,DE,Germany
@@ -26536,8 +26412,6 @@ movie_id,code,countries
 242512,JP,Japan
 242512,US,United States of America
 273997,AU,Australia
-250578,GB,United Kingdom
-250578,US,United States of America
 274127,CA,Canada
 274127,FR,France
 15021,ES,Spain
@@ -26867,6 +26741,7 @@ movie_id,code,countries
 226948,US,United States of America
 249266,US,United States of America
 35632,ZA,South Africa
+35632,NA,Namibia
 35632,DE,Germany
 44888,US,United States of America
 11813,IT,Italy
@@ -26896,7 +26771,6 @@ movie_id,code,countries
 28768,FR,France
 85162,US,United States of America
 78522,US,United States of America
-65214,CA,Canada
 56929,US,United States of America
 40644,JP,Japan
 103236,IN,India
@@ -27398,7 +27272,6 @@ movie_id,code,countries
 23076,ES,Spain
 99261,IT,Italy
 46570,IT,Italy
-124207,IT,Italy
 89652,IT,Italy
 42438,IT,Italy
 74018,US,United States of America
@@ -27514,7 +27387,6 @@ movie_id,code,countries
 172391,ZA,South Africa
 252171,US,United States of America
 30174,CA,Canada
-280218,CA,Canada
 182528,BE,Belgium
 182528,NL,Netherlands
 20147,US,United States of America
@@ -27540,7 +27412,6 @@ movie_id,code,countries
 210126,CA,Canada
 94818,US,United States of America
 223243,CA,Canada
-51406,CA,Canada
 218658,CA,Canada
 211017,CA,Canada
 40210,GB,United Kingdom
@@ -27649,7 +27520,6 @@ movie_id,code,countries
 36294,US,United States of America
 11612,IT,Italy
 11612,ES,Spain
-114285,AR,Argentina
 225898,US,United States of America
 63727,ES,Spain
 40474,IT,Italy
@@ -27801,7 +27671,6 @@ movie_id,code,countries
 276908,US,United States of America
 240881,US,United States of America
 56539,US,United States of America
-106136,US,United States of America
 49391,GB,United Kingdom
 16365,CA,Canada
 16365,US,United States of America
@@ -27942,8 +27811,6 @@ movie_id,code,countries
 221437,JP,Japan
 255456,IT,Italy
 261768,US,United States of America
-199925,FR,France
-199925,JP,Japan
 267872,US,United States of America
 267872,AF,Afghanistan
 267872,IT,Italy
@@ -28238,7 +28105,6 @@ movie_id,code,countries
 100540,US,United States of America
 55190,US,United States of America
 37462,GB,United Kingdom
-79327,US,United States of America
 133716,US,United States of America
 220504,US,United States of America
 39442,US,United States of America
@@ -28472,7 +28338,6 @@ movie_id,code,countries
 218443,RU,Russia
 79190,CA,Canada
 79190,US,United States of America
-78094,AU,Australia
 1790,US,United States of America
 260535,US,United States of America
 90376,US,United States of America
@@ -28555,13 +28420,10 @@ movie_id,code,countries
 68735,JP,Japan
 68735,US,United States of America
 99861,US,United States of America
-76600,US,United States of America
 166426,US,United States of America
-141052,US,United States of America
 102899,US,United States of America
 166424,US,United States of America
 293660,US,United States of America
-284053,AU,Australia
 283995,US,United States of America
 271110,US,United States of America
 284052,US,United States of America
@@ -28672,7 +28534,6 @@ movie_id,code,countries
 228676,US,United States of America
 226672,CN,China
 226672,GB,United Kingdom
-44507,US,United States of America
 47536,IT,Italy
 47536,GB,United Kingdom
 38808,US,United States of America
@@ -28983,7 +28844,6 @@ movie_id,code,countries
 38964,GB,United Kingdom
 72946,US,United States of America
 63612,ES,Spain
-102256,SE,Sweden
 129553,US,United States of America
 94510,US,United States of America
 198214,US,United States of America
@@ -29164,8 +29024,6 @@ movie_id,code,countries
 44697,US,United States of America
 44989,AR,Argentina
 71511,CA,Canada
-46869,US,United States of America
-46869,CA,Canada
 75012,US,United States of America
 37123,GB,United Kingdom
 37123,US,United States of America
@@ -29350,7 +29208,6 @@ movie_id,code,countries
 60233,US,United States of America
 48874,US,United States of America
 36129,RU,Russia
-104062,IS,Iceland
 93904,US,United States of America
 69168,US,United States of America
 58587,ES,Spain
@@ -29524,7 +29381,6 @@ movie_id,code,countries
 293461,NO,Norway
 293461,SE,Sweden
 12575,DE,Germany
-41571,CA,Canada
 317384,FR,France
 81981,SE,Sweden
 80337,US,United States of America
@@ -29573,7 +29429,6 @@ movie_id,code,countries
 1870,IT,Italy
 1875,FR,France
 1875,IT,Italy
-60769,NO,Norway
 92,AT,Austria
 20875,RU,Russia
 86823,JP,Japan
@@ -29644,7 +29499,6 @@ movie_id,code,countries
 307946,US,United States of America
 308369,US,United States of America
 308024,US,United States of America
-308027,US,United States of America
 294132,US,United States of America
 308032,US,United States of America
 306197,US,United States of America
@@ -29930,7 +29784,6 @@ movie_id,code,countries
 256779,FI,Finland
 134463,FR,France
 261814,CA,Canada
-82649,US,United States of America
 270045,SE,Sweden
 36769,FI,Finland
 273248,US,United States of America
@@ -30151,7 +30004,6 @@ movie_id,code,countries
 52868,US,United States of America
 134656,AU,Australia
 42153,DE,Germany
-42081,DE,Germany
 83209,AT,Austria
 83209,DE,Germany
 70322,JP,Japan
@@ -30277,7 +30129,6 @@ movie_id,code,countries
 104935,DE,Germany
 90015,IT,Italy
 90015,ES,Spain
-41934,US,United States of America
 125472,US,United States of America
 21742,CA,Canada
 21742,US,United States of America
@@ -30332,7 +30183,6 @@ movie_id,code,countries
 83909,DK,Denmark
 233863,US,United States of America
 69517,FR,France
-220620,ES,Spain
 290764,US,United States of America
 228203,US,United States of America
 105156,IT,Italy
@@ -30492,7 +30342,6 @@ movie_id,code,countries
 32941,GB,United Kingdom
 179715,GR,Greece
 179715,TR,Turkey
-48719,US,United States of America
 40681,US,United States of America
 71507,US,United States of America
 39001,US,United States of America
@@ -30541,7 +30390,6 @@ movie_id,code,countries
 328233,GB,United Kingdom
 47467,US,United States of America
 221488,GB,United Kingdom
-69999,US,United States of America
 121830,US,United States of America
 121830,NZ,New Zealand
 121830,PG,Papua New Guinea
@@ -30575,7 +30423,6 @@ movie_id,code,countries
 257444,US,United States of America
 322378,SE,Sweden
 272634,SE,Sweden
-100205,US,United States of America
 271674,BE,Belgium
 271674,GB,United Kingdom
 271674,FR,France
@@ -30754,7 +30601,6 @@ movie_id,code,countries
 143928,TH,Thailand
 326665,US,United States of America
 322518,CA,Canada
-130100,US,United States of America
 53915,IT,Italy
 328032,DE,Germany
 80527,CA,Canada
@@ -30844,7 +30690,6 @@ movie_id,code,countries
 9274,DE,Germany
 285213,KR,South Korea
 32099,FI,Finland
-286971,US,United States of America
 47745,US,United States of America
 290864,HK,Hong Kong
 290864,CN,China
@@ -30940,7 +30785,6 @@ movie_id,code,countries
 88338,US,United States of America
 169379,CA,Canada
 46578,US,United States of America
-62545,IT,Italy
 177354,GB,United Kingdom
 12601,DE,Germany
 151123,DE,Germany
@@ -31180,7 +31024,6 @@ movie_id,code,countries
 96337,US,United States of America
 55044,US,United States of America
 85644,US,United States of America
-84511,US,United States of America
 144498,US,United States of America
 290865,KR,South Korea
 75989,SE,Sweden
@@ -31286,8 +31129,6 @@ movie_id,code,countries
 142150,US,United States of America
 52702,CA,Canada
 204686,US,United States of America
-134608,ES,Spain
-134608,US,United States of America
 170315,US,United States of America
 309889,US,United States of America
 10037,US,United States of America
@@ -31621,7 +31462,6 @@ movie_id,code,countries
 305088,CN,China
 245846,AU,Australia
 31139,RU,Russia
-123969,DK,Denmark
 42279,RU,Russia
 191608,RU,Russia
 78478,FR,France
@@ -31877,13 +31717,11 @@ movie_id,code,countries
 26861,US,United States of America
 229702,US,United States of America
 58611,IT,Italy
-43211,IT,Italy
 38262,IT,Italy
 58613,IT,Italy
 57918,IT,Italy
 43646,IT,Italy
 173177,IT,Italy
-43648,IT,Italy
 43649,IT,Italy
 75001,IT,Italy
 328720,IT,Italy
@@ -31910,7 +31748,6 @@ movie_id,code,countries
 268100,BR,Brazil
 280276,US,United States of America
 222936,US,United States of America
-44486,DE,Germany
 39309,GB,United Kingdom
 132551,HR,Croatia
 34449,HR,Croatia
@@ -32076,7 +31913,6 @@ movie_id,code,countries
 15956,DK,Denmark
 192028,US,United States of America
 154793,US,United States of America
-87851,US,United States of America
 39060,ID,Indonesia
 5302,US,United States of America
 107052,IT,Italy
@@ -32118,7 +31954,6 @@ movie_id,code,countries
 262504,US,United States of America
 259316,GB,United Kingdom
 259316,US,United States of America
-38700,US,United States of America
 270919,FR,France
 321315,GR,Greece
 25506,US,United States of America
@@ -32206,7 +32041,6 @@ movie_id,code,countries
 60142,BR,Brazil
 85739,IT,Italy
 85739,FR,France
-319188,US,United States of America
 57011,JP,Japan
 18839,JP,Japan
 153153,US,United States of America
@@ -32235,8 +32069,6 @@ movie_id,code,countries
 28851,US,United States of America
 238615,US,United States of America
 321068,US,United States of America
-245842,FR,France
-245842,AU,Australia
 78338,IL,Israel
 212934,CA,Canada
 25318,YU,Yugoslavia
@@ -32246,7 +32078,6 @@ movie_id,code,countries
 274854,US,United States of America
 287903,US,United States of America
 297761,US,United States of America
-335676,CH,Switzerland
 44511,IL,Israel
 300900,US,United States of America
 120194,ES,Spain
@@ -32395,7 +32226,6 @@ movie_id,code,countries
 35926,US,United States of America
 40793,US,United States of America
 42685,US,United States of America
-172457,ES,Spain
 227690,ES,Spain
 264085,IN,India
 27637,DE,Germany
@@ -32627,8 +32457,6 @@ movie_id,code,countries
 46983,FR,France
 162320,FR,France
 44461,FR,France
-49097,PL,Poland
-49112,PL,Poland
 227679,JP,Japan
 39057,JP,Japan
 39057,US,United States of America
@@ -32912,7 +32740,6 @@ movie_id,code,countries
 199753,US,United States of America
 139374,FR,France
 39408,US,United States of America
-45302,US,United States of America
 124042,US,United States of America
 202722,US,United States of America
 58487,FR,France
@@ -33112,7 +32939,6 @@ movie_id,code,countries
 300671,MT,Malta
 300671,MA,Morocco
 300671,US,United States of America
-324670,US,United States of America
 273169,FR,France
 74645,IT,Italy
 154980,CH,Switzerland
@@ -33232,7 +33058,6 @@ movie_id,code,countries
 257975,GB,United Kingdom
 301748,US,United States of America
 82115,CA,Canada
-89847,US,United States of America
 273084,US,United States of America
 191094,US,United States of America
 38162,US,United States of America
@@ -33368,7 +33193,6 @@ movie_id,code,countries
 77939,FR,France
 55853,FR,France
 55853,CH,Switzerland
-44508,US,United States of America
 103753,KR,South Korea
 214699,DE,Germany
 65040,FR,France
@@ -33377,7 +33201,6 @@ movie_id,code,countries
 259963,US,United States of America
 54734,US,United States of America
 54685,US,United States of America
-54692,US,United States of America
 233466,US,United States of America
 163814,US,United States of America
 336804,QA,Qatar
@@ -33574,7 +33397,6 @@ movie_id,code,countries
 300686,US,United States of America
 300686,CA,Canada
 312131,US,United States of America
-67362,US,United States of America
 311615,US,United States of America
 8460,US,United States of America
 229582,BE,Belgium
@@ -33620,7 +33442,6 @@ movie_id,code,countries
 211711,CN,China
 270842,CN,China
 317720,IN,India
-306758,CN,China
 272875,CN,China
 320132,HK,Hong Kong
 148652,US,United States of America
@@ -33686,7 +33507,6 @@ movie_id,code,countries
 338676,ES,Spain
 338676,US,United States of America
 27412,US,United States of America
-209413,IT,Italy
 104242,FR,France
 140208,US,United States of America
 210923,IN,India
@@ -33831,7 +33651,6 @@ movie_id,code,countries
 278604,US,United States of America
 23331,US,United States of America
 225958,US,United States of America
-39015,US,United States of America
 85827,US,United States of America
 56067,US,United States of America
 128795,AU,Australia
@@ -33862,8 +33681,6 @@ movie_id,code,countries
 38666,US,United States of America
 155685,US,United States of America
 107427,US,United States of America
-105687,DE,Germany
-105687,IT,Italy
 15531,US,United States of America
 347528,US,United States of America
 234931,GB,United Kingdom
@@ -33963,7 +33780,6 @@ movie_id,code,countries
 261036,US,United States of America
 44320,ES,Spain
 268917,US,United States of America
-347035,GB,United Kingdom
 262782,BR,Brazil
 258034,MX,Mexico
 60850,DE,Germany
@@ -34099,9 +33915,6 @@ movie_id,code,countries
 68115,US,United States of America
 21836,US,United States of America
 206461,JP,Japan
-49978,HU,Hungary
-49978,DE,Germany
-49978,CU,Cuba
 42132,HU,Hungary
 318922,GB,United Kingdom
 323694,GB,United Kingdom
@@ -34120,9 +33933,6 @@ movie_id,code,countries
 319373,JP,Japan
 290316,BE,Belgium
 290316,FR,France
-336655,LB,Lebanon
-336655,FR,France
-336655,PS,Palestinian Territory
 295111,CH,Switzerland
 260313,ES,Spain
 284048,ES,Spain
@@ -34197,7 +34007,6 @@ movie_id,code,countries
 62409,MX,Mexico
 112130,US,United States of America
 146949,KR,South Korea
-91691,PL,Poland
 323272,US,United States of America
 180900,JP,Japan
 284290,FR,France
@@ -34304,8 +34113,6 @@ movie_id,code,countries
 273261,AR,Argentina
 273261,US,United States of America
 333344,US,United States of America
-242462,FR,France
-242462,US,United States of America
 356216,GB,United Kingdom
 296503,US,United States of America
 233490,US,United States of America
@@ -34683,8 +34490,6 @@ movie_id,code,countries
 322614,FI,Finland
 322614,ET,Ethiopia
 322614,ES,Spain
-336805,FR,France
-336805,MA,Morocco
 341077,ZA,South Africa
 341077,GB,United Kingdom
 293941,IE,Ireland
@@ -34700,7 +34505,6 @@ movie_id,code,countries
 20361,IT,Italy
 295314,DZ,Algeria
 295314,FR,France
-337730,FR,France
 95807,US,United States of America
 336149,GB,United Kingdom
 32707,US,United States of America
@@ -34824,7 +34628,6 @@ movie_id,code,countries
 3145,GB,United Kingdom
 46581,FR,France
 31927,IL,Israel
-136146,US,United States of America
 157161,US,United States of America
 36550,US,United States of America
 339530,US,United States of America
@@ -34868,11 +34671,6 @@ movie_id,code,countries
 47211,FR,France
 318954,US,United States of America
 297762,US,United States of America
-252983,CA,Canada
-252983,US,United States of America
-302349,BE,Belgium
-302349,FI,Finland
-302349,DE,Germany
 340488,BO,Bolivia
 340488,FR,France
 340488,DE,Germany
@@ -34965,7 +34763,6 @@ movie_id,code,countries
 323792,GB,United Kingdom
 323792,US,United States of America
 359471,US,United States of America
-248633,US,United States of America
 258665,IN,India
 258665,GB,United Kingdom
 80105,ES,Spain
@@ -35006,7 +34803,6 @@ movie_id,code,countries
 89659,US,United States of America
 194720,US,United States of America
 267428,US,United States of America
-41809,AU,Australia
 360339,MY,Malaysia
 360339,ES,Spain
 360339,US,United States of America
@@ -35098,7 +34894,6 @@ movie_id,code,countries
 10094,US,United States of America
 70553,US,United States of America
 58106,US,United States of America
-44848,US,United States of America
 20381,US,United States of America
 97108,US,United States of America
 91001,US,United States of America
@@ -35295,7 +35090,6 @@ movie_id,code,countries
 75931,KR,South Korea
 124294,KR,South Korea
 284063,KR,South Korea
-70131,KR,South Korea
 16313,TH,Thailand
 68252,KR,South Korea
 32272,KR,South Korea
@@ -35426,8 +35220,6 @@ movie_id,code,countries
 319993,BG,Bulgaria
 319993,CZ,Czech Republic
 319993,FR,France
-51935,LU,Luxembourg
-51935,DE,Germany
 128848,US,United States of America
 125666,US,United States of America
 260886,IT,Italy
@@ -35492,9 +35284,6 @@ movie_id,code,countries
 266639,US,United States of America
 293646,US,United States of America
 293646,CL,Chile
-314400,CH,Switzerland
-314400,IT,Italy
-314400,FR,France
 334991,JP,Japan
 48615,DE,Germany
 284343,IL,Israel
@@ -35530,7 +35319,6 @@ movie_id,code,countries
 32329,GB,United Kingdom
 337473,CA,Canada
 77241,TR,Turkey
-52183,TR,Turkey
 236317,TR,Turkey
 171160,TR,Turkey
 254172,IT,Italy
@@ -35628,7 +35416,6 @@ movie_id,code,countries
 238781,FR,France
 247720,US,United States of America
 20323,AU,Australia
-60278,HK,Hong Kong
 352157,BE,Belgium
 352157,FR,France
 352157,CZ,Czech Republic
@@ -35788,7 +35575,6 @@ movie_id,code,countries
 25499,IN,India
 21462,IN,India
 54256,IN,India
-122895,IN,India
 188719,IN,India
 96112,IN,India
 170845,IN,India
@@ -36472,7 +36258,6 @@ movie_id,code,countries
 353257,US,United States of America
 302666,US,United States of America
 246594,US,United States of America
-340275,US,United States of America
 197599,US,United States of America
 10124,CA,Canada
 221801,US,United States of America
@@ -36500,7 +36285,6 @@ movie_id,code,countries
 301816,US,United States of America
 338438,FR,France
 338438,IT,Italy
-107100,US,United States of America
 81409,IT,Italy
 74082,IT,Italy
 74082,FR,France
@@ -36643,7 +36427,6 @@ movie_id,code,countries
 270646,FR,France
 270646,IL,Israel
 157239,HK,Hong Kong
-52776,HK,Hong Kong
 29960,GB,United Kingdom
 357681,US,United States of America
 259694,US,United States of America
@@ -36701,7 +36484,6 @@ movie_id,code,countries
 282069,JP,Japan
 282070,JP,Japan
 373541,US,United States of America
-252028,BE,Belgium
 299585,CA,Canada
 36771,FI,Finland
 62900,FI,Finland
@@ -36720,7 +36502,6 @@ movie_id,code,countries
 26028,US,United States of America
 140595,GB,United Kingdom
 140595,US,United States of America
-83728,US,United States of America
 55534,CA,Canada
 55534,DE,Germany
 55534,US,United States of America
@@ -37000,8 +36781,6 @@ movie_id,code,countries
 287344,NL,Netherlands
 287344,BE,Belgium
 287344,DK,Denmark
-75578,NL,Netherlands
-75578,BE,Belgium
 52260,BE,Belgium
 36712,US,United States of America
 182545,BE,Belgium
@@ -37024,7 +36803,6 @@ movie_id,code,countries
 178189,CA,Canada
 325712,MX,Mexico
 325712,US,United States of America
-317198,CA,Canada
 84105,US,United States of America
 84105,CA,Canada
 286987,US,United States of America
@@ -37241,7 +37019,6 @@ movie_id,code,countries
 85434,LT,Lithuania
 63654,IN,India
 71918,IN,India
-156981,US,United States of America
 284514,ES,Spain
 351145,ES,Spain
 38057,CN,China
@@ -37508,14 +37285,6 @@ movie_id,code,countries
 205221,CA,Canada
 205221,NZ,New Zealand
 356057,US,United States of America
-135713,US,United States of America
-135713,ES,Spain
-135713,HU,Hungary
-135713,IT,Italy
-135713,FR,France
-135713,DE,Germany
-135713,CH,Switzerland
-135713,HR,Croatia
 298986,IT,Italy
 333888,IT,Italy
 332709,IT,Italy
@@ -37616,7 +37385,6 @@ movie_id,code,countries
 365187,IN,India
 360387,CO,Colombia
 366249,FI,Finland
-78340,FR,France
 125414,IS,Iceland
 168228,US,United States of America
 361183,BE,Belgium
@@ -37636,8 +37404,6 @@ movie_id,code,countries
 381353,FR,France
 329809,FR,France
 336199,FR,France
-337107,BE,Belgium
-337107,FR,France
 315865,CH,Switzerland
 315865,FR,France
 352025,FR,France
@@ -37661,7 +37427,6 @@ movie_id,code,countries
 43292,IT,Italy
 211317,IT,Italy
 100669,US,United States of America
-257450,US,United States of America
 165404,IN,India
 97437,IN,India
 83902,IN,India
@@ -37803,7 +37568,6 @@ movie_id,code,countries
 101783,IN,India
 86576,IN,India
 257087,US,United States of America
-49098,PL,Poland
 104548,JP,Japan
 313108,KR,South Korea
 382155,PL,Poland
@@ -37910,7 +37674,6 @@ movie_id,code,countries
 52701,JP,Japan
 52701,RU,Russia
 10749,DE,Germany
-131398,AT,Austria
 62759,DK,Denmark
 336970,SE,Sweden
 155052,RU,Russia
@@ -37970,7 +37733,6 @@ movie_id,code,countries
 271667,CZ,Czech Republic
 123406,LV,Latvia
 123406,DE,Germany
-125795,SI,Slovenia
 49695,FR,France
 49695,JP,Japan
 79860,JP,Japan
@@ -38225,9 +37987,6 @@ movie_id,code,countries
 69016,US,United States of America
 69016,CA,Canada
 83299,JP,Japan
-44517,CL,Chile
-44517,MX,Mexico
-44517,ES,Spain
 61699,IL,Israel
 182768,JP,Japan
 10129,DE,Germany
@@ -38322,25 +38081,18 @@ movie_id,code,countries
 347184,LT,Lithuania
 250919,DE,Germany
 31319,JP,Japan
-123707,FR,France
-123707,RO,Romania
-123707,IT,Italy
 227481,FR,France
 105572,FR,France
 18508,NO,Norway
 20934,RU,Russia
 19759,CZ,Czech Republic
 185354,PL,Poland
-64190,FR,France
-64190,GB,United Kingdom
-64190,ZA,South Africa
 41039,US,United States of America
 64935,FR,France
 2764,NL,Netherlands
 286512,FR,France
 326305,DK,Denmark
 57983,CZ,Czech Republic
-48489,TH,Thailand
 78539,FR,France
 296225,DE,Germany
 369366,US,United States of America
@@ -38381,7 +38133,6 @@ movie_id,code,countries
 65188,DE,Germany
 334495,US,United States of America
 78202,DE,Germany
-73123,NL,Netherlands
 107767,FR,France
 220154,GB,United Kingdom
 119816,DE,Germany
@@ -38555,7 +38306,6 @@ movie_id,code,countries
 31957,NL,Netherlands
 116318,JP,Japan
 128061,NL,Netherlands
-361131,IN,India
 105304,FR,France
 64437,FR,France
 357959,AM,Armenia
@@ -38698,7 +38448,6 @@ movie_id,code,countries
 338065,IN,India
 333352,GB,United Kingdom
 367524,US,United States of America
-63224,FR,France
 98302,FR,France
 359025,US,United States of America
 347752,FR,France
@@ -38829,7 +38578,6 @@ movie_id,code,countries
 242546,JP,Japan
 300403,CA,Canada
 300403,CH,Switzerland
-228109,US,United States of America
 302688,CA,Canada
 302688,US,United States of America
 327528,CA,Canada
@@ -39104,7 +38852,6 @@ movie_id,code,countries
 197175,DE,Germany
 355230,US,United States of America
 107641,JP,Japan
-122270,DE,Germany
 3102,RU,Russia
 62729,RU,Russia
 112558,US,United States of America
@@ -39135,8 +38882,6 @@ movie_id,code,countries
 353326,US,United States of America
 361841,SE,Sweden
 24450,US,United States of America
-366901,GB,United Kingdom
-366901,RS,Serbia
 161143,US,United States of America
 85693,US,United States of America
 118251,US,United States of America
@@ -39158,9 +38903,6 @@ movie_id,code,countries
 7237,US,United States of America
 62880,US,United States of America
 62880,GB,United Kingdom
-332283,IE,Ireland
-332283,LU,Luxembourg
-332283,GB,United Kingdom
 103073,IN,India
 58792,US,United States of America
 375572,IT,Italy
@@ -39393,8 +39135,6 @@ movie_id,code,countries
 65887,DE,Germany
 210615,FR,France
 210615,IT,Italy
-66187,IT,Italy
-66187,FR,France
 271919,FR,France
 12266,FR,France
 334889,SE,Sweden
@@ -39423,9 +39163,6 @@ movie_id,code,countries
 386891,GB,United Kingdom
 176915,FR,France
 380254,KR,South Korea
-132166,DE,Germany
-132166,FR,France
-132166,IT,Italy
 126234,CN,China
 245917,JP,Japan
 257291,DE,Germany
@@ -39606,8 +39343,6 @@ movie_id,code,countries
 93006,GB,United Kingdom
 295273,CN,China
 85327,US,United States of America
-55134,FR,France
-55134,GB,United Kingdom
 299582,US,United States of America
 371451,HK,Hong Kong
 334557,HK,Hong Kong
@@ -39846,8 +39581,6 @@ movie_id,code,countries
 362699,GB,United Kingdom
 118792,UZ,Uzbekistan
 396292,US,United States of America
-299782,IR,Iran
-299782,US,United States of America
 24398,GB,United Kingdom
 46178,DK,Denmark
 345069,US,United States of America
@@ -40006,7 +39739,6 @@ movie_id,code,countries
 32790,CA,Canada
 30641,CA,Canada
 257345,US,United States of America
-256771,NL,Netherlands
 34598,US,United States of America
 41962,JP,Japan
 110283,JP,Japan
@@ -40144,7 +39876,6 @@ movie_id,code,countries
 397003,TH,Thailand
 138705,FI,Finland
 150208,FI,Finland
-61123,FI,Finland
 80256,FI,Finland
 41454,DK,Denmark
 297721,KR,South Korea
@@ -40182,7 +39913,6 @@ movie_id,code,countries
 139582,IN,India
 14751,IN,India
 14751,TH,Thailand
-53284,IN,India
 379275,HR,Croatia
 305309,US,United States of America
 377462,US,United States of America
@@ -40384,7 +40114,6 @@ movie_id,code,countries
 349441,IL,Israel
 373479,DE,Germany
 373479,FR,France
-373922,HK,Hong Kong
 359641,AR,Argentina
 359641,FR,France
 359641,ES,Spain
@@ -40449,7 +40178,6 @@ movie_id,code,countries
 360249,NO,Norway
 28406,ES,Spain
 362765,US,United States of America
-50186,RU,Russia
 362876,BR,Brazil
 361249,IN,India
 4279,FR,France
@@ -40460,7 +40188,6 @@ movie_id,code,countries
 349086,AU,Australia
 349086,CA,Canada
 86320,BR,Brazil
-86531,BR,Brazil
 397278,US,United States of America
 67303,PT,Portugal
 68895,US,United States of America
@@ -40522,8 +40249,6 @@ movie_id,code,countries
 282024,RU,Russia
 42498,IN,India
 257006,IT,Italy
-367816,CA,Canada
-367816,US,United States of America
 347647,IE,Ireland
 76348,FR,France
 76348,CA,Canada
@@ -41058,7 +40783,6 @@ movie_id,code,countries
 77137,IT,Italy
 77147,IT,Italy
 46028,IT,Italy
-41583,IT,Italy
 124202,IT,Italy
 73755,IT,Italy
 42290,IT,Italy
@@ -41086,14 +40810,12 @@ movie_id,code,countries
 55430,JP,Japan
 55435,JP,Japan
 55437,JP,Japan
-55438,JP,Japan
 225745,JP,Japan
 40627,FR,France
 20072,FR,France
 357390,JP,Japan
 296917,JP,Japan
 412214,FI,Finland
-357837,US,United States of America
 316784,US,United States of America
 33714,RU,Russia
 287623,GB,United Kingdom
@@ -41184,7 +40906,6 @@ movie_id,code,countries
 22240,FR,France
 22623,FR,France
 36162,RU,Russia
-375573,NZ,New Zealand
 336212,IR,Iran
 114499,US,United States of America
 111326,US,United States of America
@@ -41331,7 +41052,6 @@ movie_id,code,countries
 77946,GB,United Kingdom
 77946,US,United States of America
 60085,US,United States of America
-43422,CL,Chile
 197725,US,United States of America
 245003,US,United States of America
 105325,US,United States of America
@@ -41409,7 +41129,6 @@ movie_id,code,countries
 56391,RU,Russia
 405040,ID,Indonesia
 56109,CA,Canada
-355066,TR,Turkey
 24007,FR,France
 24007,PL,Poland
 24007,US,United States of America
@@ -41438,7 +41157,6 @@ movie_id,code,countries
 394412,FR,France
 394412,IT,Italy
 390669,IT,Italy
-352199,IT,Italy
 375167,IT,Italy
 393857,FR,France
 393857,IT,Italy
@@ -41505,7 +41223,6 @@ movie_id,code,countries
 170967,US,United States of America
 413017,IR,Iran
 399621,IR,Iran
-339116,US,United States of America
 382511,FR,France
 57924,DE,Germany
 24799,US,United States of America
@@ -41543,7 +41260,6 @@ movie_id,code,countries
 325385,JP,Japan
 325385,CL,Chile
 336776,JP,Japan
-311215,AR,Argentina
 250278,JP,Japan
 68972,FR,France
 286313,FR,France
@@ -41662,7 +41378,6 @@ movie_id,code,countries
 322455,ES,Spain
 382170,JP,Japan
 84195,BR,Brazil
-377492,US,United States of America
 411638,ES,Spain
 241639,FR,France
 241639,CN,China
@@ -41674,7 +41389,6 @@ movie_id,code,countries
 390376,RU,Russia
 370203,SE,Sweden
 185564,US,United States of America
-352917,HU,Hungary
 402612,HU,Hungary
 412437,FI,Finland
 414771,IL,Israel
@@ -41898,7 +41612,6 @@ movie_id,code,countries
 412924,GB,United Kingdom
 292510,US,United States of America
 52949,US,United States of America
-42100,US,United States of America
 97128,ES,Spain
 359805,FR,France
 417028,US,United States of America
@@ -41926,7 +41639,6 @@ movie_id,code,countries
 291356,US,United States of America
 121111,US,United States of America
 421958,DE,Germany
-333072,JP,Japan
 269057,CA,Canada
 385722,KR,South Korea
 348320,BE,Belgium
@@ -41999,7 +41711,6 @@ movie_id,code,countries
 164827,GR,Greece
 185111,GR,Greece
 296344,GR,Greece
-300321,US,United States of America
 294409,US,United States of America
 403450,IT,Italy
 39340,IT,Italy
@@ -42039,7 +41750,6 @@ movie_id,code,countries
 168647,US,United States of America
 419330,GB,United Kingdom
 413471,US,United States of America
-413361,CA,Canada
 355065,DE,Germany
 289180,US,United States of America
 289180,AR,Argentina
@@ -42108,7 +41818,6 @@ movie_id,code,countries
 16766,JP,Japan
 358924,US,United States of America
 362579,ES,Spain
-336271,CA,Canada
 396004,CA,Canada
 394684,ES,Spain
 361777,ES,Spain
@@ -42236,7 +41945,6 @@ movie_id,code,countries
 167644,FI,Finland
 167644,SE,Sweden
 59853,IT,Italy
-73077,IT,Italy
 150065,US,United States of America
 49927,CN,China
 129383,JP,Japan
@@ -42299,12 +42007,10 @@ movie_id,code,countries
 41973,US,United States of America
 276578,CA,Canada
 27211,TR,Turkey
-345470,GB,United Kingdom
 419471,US,United States of America
 355506,US,United States of America
 421313,GB,United Kingdom
 421313,US,United States of America
-140491,US,United States of America
 26370,GB,United Kingdom
 376866,CL,Chile
 376866,FR,France
@@ -42377,7 +42083,6 @@ movie_id,code,countries
 217428,PH,Philippines
 75450,KH,Cambodia
 74302,TR,Turkey
-42496,US,United States of America
 274870,US,United States of America
 78174,FR,France
 296633,KR,South Korea
@@ -42403,7 +42108,6 @@ movie_id,code,countries
 408203,FI,Finland
 210052,LT,Lithuania
 210052,DE,Germany
-344039,US,United States of America
 332979,US,United States of America
 187897,HK,Hong Kong
 424889,US,United States of America
@@ -42441,7 +42145,6 @@ movie_id,code,countries
 418691,US,United States of America
 210653,MX,Mexico
 412213,IL,Israel
-406431,US,United States of America
 389044,FR,France
 389044,IS,Iceland
 64191,US,United States of America
@@ -42618,7 +42321,6 @@ movie_id,code,countries
 381707,ES,Spain
 381289,US,United States of America
 247446,CZ,Czech Republic
-37376,US,United States of America
 393521,IL,Israel
 360814,IN,India
 261439,GB,United Kingdom
@@ -42733,7 +42435,6 @@ movie_id,code,countries
 382501,BE,Belgium
 382501,FR,France
 173189,US,United States of America
-134680,US,United States of America
 375872,ES,Spain
 404791,SE,Sweden
 369698,RU,Russia
@@ -42860,7 +42561,6 @@ movie_id,code,countries
 76535,US,United States of America
 427045,US,United States of America
 420967,US,United States of America
-421623,CA,Canada
 410315,US,United States of America
 382207,US,United States of America
 24068,CA,Canada
@@ -42869,7 +42569,6 @@ movie_id,code,countries
 367206,CN,China
 28670,GB,United Kingdom
 28670,US,United States of America
-48346,CA,Canada
 61341,US,United States of America
 72268,SE,Sweden
 270047,SE,Sweden
@@ -42880,7 +42579,6 @@ movie_id,code,countries
 228987,SE,Sweden
 362584,JP,Japan
 116988,MX,Mexico
-42467,HU,Hungary
 226236,US,United States of America
 267466,KR,South Korea
 91618,US,United States of America
@@ -42989,7 +42687,6 @@ movie_id,code,countries
 170548,GB,United Kingdom
 385261,KR,South Korea
 44519,IN,India
-380124,US,United States of America
 18955,FR,France
 72822,FR,France
 295693,US,United States of America
@@ -43032,7 +42729,6 @@ movie_id,code,countries
 388791,UA,Ukraine
 174000,US,United States of America
 176032,PL,Poland
-394723,AR,Argentina
 416680,UY,Uruguay
 416680,AR,Argentina
 132298,AR,Argentina
@@ -43265,7 +42961,6 @@ movie_id,code,countries
 167858,RO,Romania
 364379,AU,Australia
 89403,US,United States of America
-388410,US,United States of America
 359245,CA,Canada
 359245,FR,France
 120115,US,United States of America
@@ -43344,7 +43039,6 @@ movie_id,code,countries
 437623,GE,Georgia
 437623,RU,Russia
 36140,FR,France
-422972,US,United States of America
 362409,US,United States of America
 32532,US,United States of America
 24140,AT,Austria
@@ -43527,7 +43221,6 @@ movie_id,code,countries
 439263,FI,Finland
 442752,FI,Finland
 393732,CA,Canada
-427451,US,United States of America
 378018,CA,Canada
 22817,US,United States of America
 443007,US,United States of America
@@ -43544,7 +43237,6 @@ movie_id,code,countries
 390409,NO,Norway
 47291,HK,Hong Kong
 433082,DK,Denmark
-42539,PL,Poland
 110001,ES,Spain
 381009,US,United States of America
 24948,US,United States of America
@@ -43575,7 +43267,6 @@ movie_id,code,countries
 75944,FR,France
 56947,FR,France
 327231,SE,Sweden
-416166,US,United States of America
 352845,US,United States of America
 430128,BR,Brazil
 400610,BE,Belgium
@@ -43651,7 +43342,6 @@ movie_id,code,countries
 126889,NZ,New Zealand
 126889,GB,United Kingdom
 126889,US,United States of America
-419522,IT,Italy
 173631,DE,Germany
 154718,DE,Germany
 334521,FR,France
@@ -43686,11 +43376,9 @@ movie_id,code,countries
 291577,CL,Chile
 255635,TR,Turkey
 300490,TR,Turkey
-439695,FI,Finland
 371899,RU,Russia
 47616,GB,United Kingdom
 167618,AT,Austria
-99343,CA,Canada
 351863,JP,Japan
 351863,AT,Austria
 126919,GB,United Kingdom
@@ -43741,9 +43429,7 @@ movie_id,code,countries
 356200,DE,Germany
 408219,US,United States of America
 1848,US,United States of America
-412302,US,United States of America
 421962,CA,Canada
-392790,PH,Philippines
 440767,US,United States of America
 27551,IT,Italy
 27551,US,United States of America
@@ -43857,7 +43543,6 @@ movie_id,code,countries
 232078,US,United States of America
 157123,IT,Italy
 397415,US,United States of America
-64403,IT,Italy
 133964,KR,South Korea
 27969,US,United States of America
 74336,KR,South Korea
@@ -43905,7 +43590,6 @@ movie_id,code,countries
 66628,JP,Japan
 54970,RU,Russia
 54970,UA,Ukraine
-446076,CN,China
 289222,CZ,Czech Republic
 289222,GB,United Kingdom
 289222,US,United States of America
@@ -43989,7 +43673,6 @@ movie_id,code,countries
 9810,US,United States of America
 404584,ZA,South Africa
 36968,US,United States of America
-348375,FR,France
 34057,US,United States of America
 37049,JP,Japan
 37049,US,United States of America
@@ -44033,7 +43716,6 @@ movie_id,code,countries
 397442,US,United States of America
 268531,US,United States of America
 346034,MX,Mexico
-426230,US,United States of America
 418078,US,United States of America
 424488,US,United States of America
 413998,GB,United Kingdom
@@ -44126,7 +43808,6 @@ movie_id,code,countries
 85901,UA,Ukraine
 401689,US,United States of America
 156045,HK,Hong Kong
-271404,SG,Singapore
 321757,US,United States of America
 61708,US,United States of America
 49160,US,United States of America
@@ -44201,13 +43882,10 @@ movie_id,code,countries
 220002,TR,Turkey
 64468,TR,Turkey
 296901,TR,Turkey
-48763,TR,Turkey
 452606,TR,Turkey
 65010,TR,Turkey
-53206,TR,Turkey
 236053,TR,Turkey
 109671,TR,Turkey
-69319,TR,Turkey
 110029,TR,Turkey
 327935,TR,Turkey
 86256,TR,Turkey
@@ -44316,7 +43994,6 @@ movie_id,code,countries
 441652,CA,Canada
 34325,US,United States of America
 34521,US,United States of America
-439998,IT,Italy
 77534,RU,Russia
 20543,US,United States of America
 72386,US,United States of America
@@ -44533,7 +44210,6 @@ movie_id,code,countries
 49579,RU,Russia
 38332,RU,Russia
 49574,RU,Russia
-126555,CZ,Czech Republic
 57204,US,United States of America
 152989,FR,France
 4644,US,United States of America
@@ -44565,12 +44241,10 @@ movie_id,code,countries
 24881,US,United States of America
 55694,US,United States of America
 59807,US,United States of America
-39084,CA,Canada
 71288,BE,Belgium
 10572,FR,France
 393196,US,United States of America
 41301,CA,Canada
-76059,BE,Belgium
 387999,US,United States of America
 26264,AU,Australia
 26264,US,United States of America
@@ -44662,7 +44336,6 @@ movie_id,code,countries
 66084,RU,Russia
 37851,RU,Russia
 36699,RU,Russia
-62732,RU,Russia
 47812,RU,Russia
 36698,RU,Russia
 37656,RU,Russia
@@ -44720,8 +44393,6 @@ movie_id,code,countries
 40886,JP,Japan
 294682,JP,Japan
 415132,FR,France
-56147,IT,Italy
-56147,FR,France
 384371,FR,France
 17101,JP,Japan
 153556,PT,Portugal
@@ -44747,7 +44418,6 @@ movie_id,code,countries
 406107,US,United States of America
 29361,RU,Russia
 56820,RU,Russia
-71322,RU,Russia
 57779,RU,Russia
 56759,FR,France
 26920,CA,Canada
@@ -44779,8 +44449,6 @@ movie_id,code,countries
 197057,RU,Russia
 143005,RU,Russia
 53086,RU,Russia
-62997,RU,Russia
-62731,RU,Russia
 336484,RU,Russia
 160046,RU,Russia
 90001,RU,Russia
@@ -44815,7 +44483,6 @@ movie_id,code,countries
 68954,US,United States of America
 19312,US,United States of America
 57207,RU,Russia
-62787,KZ,Kazakhstan
 51275,RU,Russia
 111332,US,United States of America
 34417,US,United States of America
@@ -45021,7 +44688,6 @@ movie_id,code,countries
 447236,HU,Hungary
 110131,HU,Hungary
 41075,HU,Hungary
-37587,HU,Hungary
 8776,HU,Hungary
 354296,RU,Russia
 165095,AM,Armenia
@@ -45090,7 +44756,6 @@ movie_id,code,countries
 401359,CA,Canada
 382589,FR,France
 76812,US,United States of America
-430448,US,United States of America
 419601,RU,Russia
 59738,US,United States of America
 66526,IN,India
@@ -45187,7 +44852,6 @@ movie_id,code,countries
 83481,ES,Spain
 51424,CZ,Czech Republic
 327982,RU,Russia
-453053,US,United States of America
 176167,DE,Germany
 264389,MX,Mexico
 377278,BE,Belgium
@@ -45200,8 +44864,6 @@ movie_id,code,countries
 402919,GB,United Kingdom
 402919,NL,Netherlands
 402919,DK,Denmark
-412059,FR,France
-412059,CA,Canada
 436305,IE,Ireland
 181564,RU,Russia
 151652,KZ,Kazakhstan
@@ -45220,8 +44882,6 @@ movie_id,code,countries
 383526,CL,Chile
 408616,GB,United Kingdom
 419192,NZ,New Zealand
-44105,GR,Greece
-44105,TR,Turkey
 142881,RU,Russia
 392794,FR,France
 326011,RU,Russia
@@ -45236,7 +44896,6 @@ movie_id,code,countries
 72811,RU,Russia
 73545,RU,Russia
 63299,RU,Russia
-63584,RU,Russia
 195503,RU,Russia
 448879,RU,Russia
 37174,RU,Russia
@@ -45479,13 +45138,10 @@ movie_id,code,countries
 255391,JP,Japan
 116336,US,United States of America
 446345,FR,France
-429200,US,United States of America
 37991,IT,Italy
 37991,FR,France
 37991,DE,Germany
-412758,GB,United Kingdom
 331110,ES,Spain
-436882,NL,Netherlands
 445840,ES,Spain
 2286,NL,Netherlands
 2286,BE,Belgium
@@ -45504,7 +45160,6 @@ movie_id,code,countries
 345914,US,United States of America
 257698,FR,France
 449758,US,United States of America
-433054,US,United States of America
 381519,JP,Japan
 438634,ES,Spain
 50387,NL,Netherlands
@@ -45540,7 +45195,6 @@ movie_id,code,countries
 399823,RU,Russia
 394260,FR,France
 394260,IT,Italy
-352494,US,United States of America
 463800,CA,Canada
 26147,FI,Finland
 273059,US,United States of America
@@ -45598,7 +45252,6 @@ movie_id,code,countries
 16839,GB,United Kingdom
 126314,HU,Hungary
 18359,US,United States of America
-394185,CA,Canada
 404733,FR,France
 77519,FR,France
 32593,CA,Canada
@@ -45630,8 +45283,6 @@ movie_id,code,countries
 14247,US,United States of America
 83486,RU,Russia
 314238,US,United States of America
-355193,US,United States of America
-355193,CA,Canada
 465044,GB,United Kingdom
 390747,US,United States of America
 76498,US,United States of America
@@ -45642,7 +45293,6 @@ movie_id,code,countries
 73799,JP,Japan
 296779,NL,Netherlands
 296779,DE,Germany
-128268,DE,Germany
 40544,FR,France
 152155,RU,Russia
 53456,FR,France
@@ -45662,7 +45312,6 @@ movie_id,code,countries
 79728,GR,Greece
 21044,US,United States of America
 307649,RU,Russia
-63568,RU,Russia
 75232,ES,Spain
 10524,FR,France
 72363,FR,France
@@ -45707,7 +45356,6 @@ movie_id,code,countries
 34000,GB,United Kingdom
 442750,GB,United Kingdom
 69560,US,United States of America
-41811,US,United States of America
 65662,US,United States of America
 222383,US,United States of America
 137180,IN,India
@@ -45752,7 +45400,6 @@ movie_id,code,countries
 417870,US,United States of America
 419459,US,United States of America
 407448,US,United States of America
-414453,US,United States of America
 213204,US,United States of America
 117800,JP,Japan
 384594,CA,Canada
@@ -45816,7 +45463,6 @@ movie_id,code,countries
 59958,GB,United Kingdom
 432025,PL,Poland
 36391,PL,Poland
-87229,IS,Iceland
 383618,NL,Netherlands
 383618,SE,Sweden
 10819,PL,Poland

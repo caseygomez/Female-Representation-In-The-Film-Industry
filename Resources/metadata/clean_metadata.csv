@@ -188,7 +188,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 58372,Reckless,1995-11-17,en,10.0,1.0
 32646,Safe,1995-06-23,en,7.2,62.0
 10533,The Scarlet Letter,1995-10-13,en,5.5,111.0
-56088,The Show,1995-08-25,en,5.3,2.0
 10802,Showgirls,1995-09-22,en,4.9,261.0
 10149,Smoke,1995-06-09,en,7.2,115.0
 18402,Something to Talk About,1995-08-04,en,5.7,60.0
@@ -679,7 +678,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 117730,Etz Hadomim Tafus,1994-01-01,he,6.5,2.0
 20762,The Substitute,1996-04-19,en,5.8,60.0
 37144,True Crime,1996-03-12,en,5.1,7.0
-48260,Butterfly Kiss,1995-08-18,en,7.4,5.0
 12656,Feeling Minnesota,1996-09-13,en,5.5,29.0
 38867,Delta of Venus,1995-06-09,en,3.3,5.0
 277270,To Cross the Rubicon,1991-01-01,en,0.0,0.0
@@ -760,7 +758,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 9894,The Cable Guy,1996-06-10,en,5.7,603.0
 11543,Kingpin,1996-07-04,en,6.7,248.0
 9268,Eraser,1996-06-21,en,5.6,553.0
-52059,The Gate of Heavenly Peace,1995-01-01,en,6.7,3.0
 9327,The Nutty Professor,1996-06-26,en,5.4,717.0
 123763,"Yo, la peor de todas",1990-08-09,es,6.8,3.0
 81949,Un été inoubliable,1994-05-15,ro,7.2,6.0
@@ -768,7 +765,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 124306,En compagnie d'Antonin Artaud,1993-01-01,en,8.0,1.0
 183955,Sibak,1994-09-09,en,7.0,1.0
 44535,Somebody to Love,1994-09-27,en,5.1,2.0
-44495,A Very Natural Thing,1974-01-01,en,6.3,3.0
 78285,La vieille qui marchait dans la mer,1991-09-18,fr,0.0,0.0
 11228,Daylight,1996-12-06,en,5.8,385.0
 10779,The Frighteners,1996-07-18,en,6.7,413.0
@@ -971,7 +967,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 454,Romeo + Juliet,1996-10-31,en,6.7,1406.0
 10218,Swingers,1996-10-18,en,6.8,255.0
 819,Sleepers,1996-10-18,en,7.3,729.0
-38191,The Sunchaser,1996-05-29,en,6.1,8.0
 56830,Johns,1996-12-10,en,6.0,6.0
 11238,Aladdin and the King of Thieves,1996-05-20,en,6.1,494.0
 27256,The Woman in Question,1952-02-18,en,5.2,3.0
@@ -1299,7 +1294,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 66597,Falling in Love Again,1980-11-21,en,6.1,4.0
 14832,The Cement Garden,1993-02-20,en,7.2,23.0
 9619,Dante's Peak,1997-02-07,en,5.8,445.0
-40506,Meet Wally Sparks,1997-01-01,en,5.3,10.0
 31000,Amos & Andrew,1993-03-05,en,5.0,47.0
 4104,Benny & Joon,1993-04-16,en,6.9,220.0
 26306,Prefontaine,1997-01-24,en,6.7,21.0
@@ -1392,7 +1386,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 38523,Ponette,1996-09-10,fr,7.5,11.0
 16375,Schizopolis,1996-09-13,en,6.4,22.0
 33660,Shiloh,1996-11-30,en,5.7,17.0
-59232,The War at Home,1996-11-20,en,6.9,7.0
 45671,Rough Magic,1995-09-07,en,6.3,7.0
 17770,Trial and Error,1997-05-30,en,5.3,17.0
 15170,Buddy,1997-06-06,en,3.9,13.0
@@ -1427,7 +1420,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 38225,Wild America,1997-07-02,en,5.8,28.0
 17834,A Simple Wish,1997-07-11,en,5.5,46.0
 686,Contact,1997-07-11,en,7.2,1338.0
-65046,Love Serenade,1996-10-10,en,6.0,4.0
 4421,G.I. Jane,1997-08-22,en,6.0,404.0
 9387,Conan the Barbarian,1982-04-02,en,6.6,663.0
 10603,George of the Jungle,1997-07-15,en,5.4,508.0
@@ -1521,7 +1513,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 37165,The Truman Show,1998-06-04,en,7.8,4702.0
 45609,The Wings of the Dove,1997-11-07,en,6.9,34.0
 38904,Mrs. Dalloway,1997-09-01,en,5.4,7.0
-45565,"I Love You, I Love You Not",1996-08-28,en,5.0,10.0
 9407,Red Corner,1997-10-30,en,5.9,79.0
 4824,The Jackal,1997-11-14,en,6.1,536.0
 9444,Anastasia,1997-11-20,en,7.4,1481.0
@@ -1677,7 +1668,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 18316,Black Dog,1998-05-01,en,5.2,45.0
 78373,"Dancer, Texas Pop. 81",1998-05-01,en,10.0,1.0
 77514,Priyatel Pokoynika,1997-09-10,en,5.0,3.0
-49474,Go Now,1995-09-16,en,0.0,0.0
 4415,Les Misérables,1998-05-01,en,7.1,157.0
 39467,Still Breathing,1997-09-01,en,5.2,9.0
 55561,Clockwatchers,1997-01-01,en,5.6,13.0
@@ -2002,7 +1992,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 2028,Say Anything...,1989-04-14,en,7.2,244.0
 16384,My Blue Heaven,1990-08-17,en,6.0,72.0
 91217,Men Don't Leave,1990-02-02,en,6.6,10.0
-77314,The Cabinet of Dr. Ramirez,1991-12-04,fr,0.0,0.0
 10699,Hero,1992-10-02,en,6.3,100.0
 11597,Toys,1992-12-18,en,5.0,173.0
 218624,Choices,1981-10-01,en,0.0,0.0
@@ -2166,7 +2155,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 15596,Back to School,1986-06-13,en,6.4,113.0
 13818,Heartburn,1986-07-25,en,5.9,48.0
 29968,Nothing in Common,1986-07-29,en,6.1,30.0
-44326,Extremities,1986-08-22,en,6.0,13.0
 1885,The Karate Kid,1984-06-22,en,6.9,913.0
 8856,"The Karate Kid, Part II",1986-06-18,en,5.9,457.0
 10495,"The Karate Kid, Part III",1989-06-29,en,5.5,311.0
@@ -2467,7 +2455,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 10136,The Golden Child,1986-12-12,en,5.6,311.0
 32060,Brighton Beach Memoirs,1986-01-01,en,6.2,20.0
 48686,Assassination,1987-01-09,en,5.6,11.0
-48259,Crimes of the Heart,1986-12-12,en,6.0,17.0
 873,The Color Purple,1985-12-18,en,7.7,345.0
 48660,The Kindred,1987-01-09,en,5.9,7.0
 26789,No Mercy,1986-12-19,en,5.7,38.0
@@ -2737,7 +2724,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 37094,Falling Down,1993-02-26,en,7.2,837.0
 13555,The Funhouse,1981-03-13,en,5.8,69.0
 24831,Piranha,1978-08-03,en,5.7,120.0
-64963,Rough Night in Jericho,1967-01-01,en,7.3,5.0
 85160,Slaughterhouse,1987-08-28,fr,5.3,12.0
 25560,The Taming of the Shrew,1967-03-07,en,6.9,35.0
 21610,Nighthawks,1981-03-17,en,6.4,87.0
@@ -3133,7 +3119,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 33516,Gothic,1986-11-30,en,5.8,33.0
 99008,Hillbillys in a Haunted House,1967-05-01,en,1.5,6.0
 9960,Lord of the Flies,1963-08-13,en,6.6,164.0
-49338,National Lampoon's Last Resort,1994-04-29,en,4.6,8.0
 2102,Solar Crisis,1990-07-14,en,4.4,7.0
 52961,That's Life!,1986-10-10,en,4.7,3.0
 12187,Heart and Souls,1993-08-13,en,6.6,84.0
@@ -3745,7 +3730,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 28368,Gardens of Stone,1987-05-05,en,5.5,25.0
 58084,Giulia e Giulia,1987-01-01,it,6.0,5.0
 52780,The Glass Menagerie,1987-10-23,en,6.2,9.0
-48149,"Good Morning, Babilonia",1987-05-13,it,5.8,5.0
 26156,Hiding Out,1987-11-06,en,5.2,14.0
 34101,Hollywood Shuffle,1987-03-20,en,5.7,20.0
 32054,Hope and Glory,1987-09-03,en,6.5,44.0
@@ -3884,10 +3868,8 @@ movie_id,title,release_date,language,vote_average,vote_count
 9290,Crocodile Dundee in Los Angeles,2001-04-12,en,4.7,149.0
 13166,Freddy Got Fingered,2001-04-18,en,4.5,117.0
 32590,The Center of the World,2001-04-19,en,4.4,14.0
-109472,Ek Je Aachhe Kanya,2001-06-06,en,0.0,0.0
 153141,The Low Down,2001-01-26,en,0.0,0.0
 52654,The Luzhin Defence,2000-08-21,en,6.6,15.0
-70282,The Visit,2000-01-01,en,0.0,0.0
 47643,Lilies - Les feluettes,1996-09-07,en,7.3,14.0
 111,Scarface,1983-12-08,en,8.0,3017.0
 32488,Days of Wine and Roses,1962-12-26,en,7.5,39.0
@@ -3931,7 +3913,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 14268,Startup.com,2001-01-01,en,6.3,7.0
 5852,Angel Eyes,2001-05-15,en,5.5,91.0
 808,Shrek,2001-05-16,en,7.3,4183.0
-49453,Fast Food Fast Women,2000-05-15,en,5.8,8.0
 824,Moulin Rouge!,2001-03-09,en,7.4,1348.0
 37558,Petits Frères,1999-04-06,fr,5.4,4.0
 676,Pearl Harbor,2001-05-21,en,6.6,1833.0
@@ -3996,7 +3977,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 16161,Baby Boy,2001-06-27,en,7.3,57.0
 10691,Crazy/Beautiful,2001-06-29,en,6.6,98.0
 10615,Pootie Tang,2001-06-29,en,5.4,43.0
-47596,Snow days,1999-01-01,en,5.0,1.0
 21488,Drôle de Félix,2000-04-19,fr,5.1,7.0
 59733,Down from the Mountain,2001-06-05,en,7.0,1.0
 271462,Russian Doll,2001-06-14,en,0.0,0.0
@@ -4593,7 +4573,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 11938,Clockwise,1986-03-01,en,6.3,59.0
 43143,The Trollenberg Terror,1958-07-07,en,4.7,23.0
 35201,The Holcroft Covenant,1985-09-20,en,5.2,18.0
-42724,Morgan: A Suitable Case for Treatment,1966-01-01,en,5.7,9.0
 24264,Sheena,1984-08-17,en,5.0,22.0
 27150,Silent Rage,1982-04-02,en,5.0,22.0
 26978,Spacehunter: Adventures in the Forbidden Zone,1983-05-20,en,5.1,37.0
@@ -4915,7 +4894,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 16643,Life or Something Like It,2002-04-26,en,5.7,126.0
 1282,Dogtown and Z-Boys,2001-01-18,en,7.2,53.0
 21220,"Frank McKlusky, C.I.",2002-04-26,en,3.3,4.0
-52717,Éloge de l'amour,2001-05-16,fr,6.7,8.0
 69324,Rain,2001-05-14,en,5.8,5.0
 11468,Salton Sea,2002-01-01,en,7.0,109.0
 292917,Some Body,2001-01-19,en,8.0,1.0
@@ -4933,7 +4911,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 26725,Nomads,1986-03-07,en,5.3,20.0
 17168,The Temp,1993-02-12,en,5.5,8.0
 48482,Thief of Hearts,1984-10-19,en,5.5,16.0
-56179,Triumph of the Spirit,1989-01-01,en,7.3,12.0
 5203,Wild Orchid,1989-12-22,en,4.6,50.0
 13201,Deuces Wild,2002-05-03,en,5.5,34.0
 9689,Hollywood Ending,2002-05-03,en,6.4,114.0
@@ -5576,7 +5553,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 107693,Vale Abraão,1993-09-01,pt,7.0,4.0
 23626,Blue Collar Comedy Tour: The Movie,2003-03-28,en,6.0,16.0
 12090,Just Married,2003-01-09,en,5.3,415.0
-44233,P.S. Your Cat Is Dead!,2002-01-01,en,4.2,3.0
 35172,Le fils,2002-05-23,fr,6.5,34.0
 36273,Hyôryû-gai,2000-09-15,ja,6.6,9.0
 14390,Double Whammy,2001-01-20,en,5.6,18.0
@@ -5765,7 +5741,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 210938,Edie & Pen,1996-05-10,en,6.7,3.0
 42035,Insignificance,1985-01-01,en,6.2,18.0
 21867,Lady Jane,1986-02-07,en,6.9,22.0
-49680,Hatuna Meuheret,2001-01-01,he,6.0,7.0
 6524,Life Stinks,1991-07-26,en,5.5,48.0
 11244,The Meteor Man,1993-08-06,en,4.6,33.0
 77233,Mr. North,1988-07-22,en,4.5,3.0
@@ -5828,14 +5803,12 @@ movie_id,title,release_date,language,vote_average,vote_count
 10735,What a Girl Wants,2003-03-27,en,5.8,377.0
 16425,Assassination Tango,2002-09-11,en,5.3,8.0
 25461,Raising Victor Vargas,2002-05-16,en,7.8,14.0
-51927,Stevie,2002-09-09,en,6.7,13.0
 12516,夢,1990-05-11,ja,7.5,100.0
 1675,La nuit américaine,1973-05-24,fr,8.0,100.0
 62184,Eye of God,1997-10-17,en,6.0,3.0
 17057,In a Lonely Place,1950-05-17,en,7.5,103.0
 41938,Physical Evidence,1989-01-27,en,4.8,12.0
 79615,Square Dance,1987-03-01,sv,5.3,3.0
-42178,Winter Kills,1979-05-11,en,6.1,5.0
 203252,Fellini: Je suis un grand menteur,2003-06-20,it,5.7,3.0
 6016,The Good Thief,2003-04-03,en,6.0,32.0
 8409,A Man Apart,2003-04-04,en,5.8,261.0
@@ -5909,10 +5882,8 @@ movie_id,title,release_date,language,vote_average,vote_count
 17464,Breakin' 2: Electric Boogaloo,1984-12-21,en,5.1,28.0
 15259,Breakin',1984-01-10,en,5.8,32.0
 10515,天空の城ラピュタ,1986-08-02,ja,7.8,877.0
-45069,Hysterical Blindness,2002-01-01,en,4.9,8.0
 117269,Lambada,1990-03-19,en,4.6,5.0
 21024,Roadie,1980-06-13,en,6.8,12.0
-42792,The Carpetbaggers,1964-04-08,en,5.3,7.0
 43232,Les Girls,1957-01-01,en,6.4,11.0
 22201,Gunfight at the O.K. Corral,1957-05-30,en,6.9,64.0
 11424,High Society,1956-07-17,en,7.2,48.0
@@ -6033,7 +6004,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 17813,Alex & Emma,2003-06-16,en,5.0,71.0
 94996,On_Line,2002-02-28,en,6.0,1.0
 42995,Experiment in Terror,1962-04-12,en,6.5,26.0
-115665,Éxtasis,1996-02-16,es,6.3,4.0
 4708,Paris brûle-t-il?,1966-10-26,fr,7.2,25.0
 35068,Murphy's War,1971-07-01,en,6.4,15.0
 35669,The Satanic Rites of Dracula,1973-11-03,en,5.1,29.0
@@ -6063,7 +6033,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 20645,八月の狂詩曲,1991-05-25,ja,6.8,33.0
 33454,Scaramouche,1952-05-08,en,6.9,13.0
 19753,Start the Revolution Without Me,1970-08-14,en,5.5,12.0
-48451,Strange Bedfellows,1965-02-09,en,6.8,6.0
 11482,Le locataire,1976-05-26,fr,7.7,181.0
 70912,The Advocate,1993-09-25,en,5.8,8.0
 42492,Up the Sandbox,1972-12-21,en,7.3,2.0
@@ -6242,7 +6211,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 1428,Once Upon a Time in Mexico,2003-09-11,en,6.2,605.0
 17906,Dummy,2002-09-12,en,6.1,15.0
 153,Lost in Translation,2003-08-31,en,7.3,1943.0
-66111,Luster,2010-12-12,en,4.8,4.0
 33320,千年女優,2001-07-28,ja,7.8,123.0
 15136,夕陽天使,2002-08-22,cn,6.4,47.0
 61054,Children Of The Night,1991-09-06,en,4.4,8.0
@@ -6289,7 +6257,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 278813,Esmeraldero,2003-11-17,es,0.0,0.0
 20321,Doctor Sleep,2002-02-01,en,5.6,13.0
 36791,In This World,2002-11-17,en,6.3,14.0
-61401,Tibet: Cry of the Snow Lion,2002-09-13,en,8.0,4.0
 17614,יוסי וג'אגר,2002-08-28,he,6.7,28.0
 7288,Duplex,2003-09-26,en,5.9,500.0
 10159,The Rundown,2003-09-26,en,6.4,523.0
@@ -6462,7 +6429,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 508,Love Actually,2003-09-07,en,7.0,1917.0
 197563,Défense d'aimer,2002-05-28,en,6.0,3.0
 11846,Father of the Bride,1991-12-20,en,6.2,355.0
-50314,My Architect,2003-11-12,en,7.0,8.0
 10715,Looney Tunes: Back in Action,2003-11-14,en,5.6,302.0
 8619,Master and Commander: The Far Side of the World,2003-11-14,en,6.9,808.0
 21525,Tupac: Resurrection,2003-01-23,en,8.0,26.0
@@ -6858,7 +6824,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 10338,Those Magnificent Men in Their Flying Machines or How I Flew from London to Paris in 25 hours 11 minutes,1965-06-03,en,6.4,40.0
 33839,Cheaper by the Dozen,1950-03-31,en,6.4,25.0
 133919,Scener ur ett äktenskap,1973-04-11,sv,8.3,44.0
-95548,Baby the Rain Must Fall,1965-01-12,en,5.3,8.0
 50549,Belles on their Toes,1952-05-01,en,7.1,4.0
 38978,Ned Kelly,1970-07-01,en,4.7,3.0
 92331,Beyond the Stars,1989-01-01,en,5.8,4.0
@@ -6948,7 +6913,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 18872,幻の光,1995-10-01,ja,7.2,26.0
 44864,Trollflöjten,1975-01-01,sv,7.1,15.0
 28290,The Man in the Gray Flannel Suit,1956-05-08,en,6.7,15.0
-50363,Summertime,1955-01-01,en,6.6,29.0
 633,Soldaat van Oranje,1977-09-22,nl,7.4,39.0
 5511,Le Samouraï,1967-10-25,fr,7.9,187.0
 41003,White Palace,1990-10-19,en,6.2,33.0
@@ -7043,7 +7007,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 10916,Babylon 5: A Call to Arms,1999-01-03,en,6.9,36.0
 10921,Babylon 5: The River of Souls,1998-11-08,en,6.1,29.0
 10941,Babylon 5: Thirdspace,1998-07-19,en,6.4,39.0
-42204,FM,1978-04-20,en,6.7,6.0
 33157,Waterloo,1970-10-26,en,7.1,33.0
 24798,True Stories,1986-10-10,en,6.1,22.0
 277073,North Beach,2000-06-07,en,0.0,0.0
@@ -7393,7 +7356,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 6081,Revenge of the Pink Panther,1978-07-19,en,6.4,121.0
 12577,Riders,2002-05-08,en,5.4,44.0
 36561,Jeg er Dina,2002-03-08,da,5.5,10.0
-49814,The Escapist,2002-01-01,en,5.9,7.0
 15484,Shadows,1959-11-11,en,7.2,39.0
 36672,Coming Out,1989-11-08,de,7.0,10.0
 2330,Taxi,1998-04-04,fr,6.5,653.0
@@ -7604,7 +7566,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 13559,The Mangler,1995-03-03,en,4.4,59.0
 42694,Who's That Knocking at My Door,1967-11-15,en,5.9,30.0
 32298,Seeing Other People,2004-01-01,en,5.6,8.0
-66566,Past Midnight,1991-01-01,en,6.3,3.0
 124029,A Million to Juan,1994-05-15,en,4.3,3.0
 42164,Amator,1979-11-16,pl,7.3,17.0
 124,Bez Konca,1985-06-17,pl,7.0,5.0
@@ -7875,7 +7836,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 39495,Love with the Proper Stranger,1963-12-25,en,6.2,17.0
 15263,McLintock!,1963-11-13,en,6.2,54.0
 751,Murder at the Gallop,1963-01-01,en,6.3,23.0
-42798,A New Kind of Love,1963-10-10,en,6.5,2.0
 4025,The Prize,1963-12-25,en,6.4,17.0
 61892,Sunday in New York,1963-11-13,en,5.3,10.0
 25253,Les Tontons Flingueurs,1963-11-27,fr,7.8,96.0
@@ -8171,7 +8131,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 29903,Barbarian Queen,1985-11-30,en,4.6,9.0
 92802,Beer,1985-08-30,en,6.0,1.0
 54407,Bliss,1985-10-04,en,5.2,5.0
-41243,Creator,1985-09-20,en,6.2,18.0
 12615,Death of a Salesman,1985-08-16,en,5.9,33.0
 14029,Dèmoni,1985-10-04,fr,6.5,112.0
 10372,Ewoks: The Battle for Endor,1985-11-24,en,5.4,43.0
@@ -8447,7 +8406,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 344,Bang Boom Bang - Ein todsicheres Ding,1999-08-26,de,7.5,52.0
 15805,Batman & Mr. Freeze: SubZero,1998-03-17,en,6.9,79.0
 14439,The Pentagon Wars,1998-02-28,en,6.8,12.0
-41227,A Place Called Chiapas,1998-02-20,en,6.9,5.0
 13428,Two Hands,1999-07-29,en,6.4,48.0
 27260,Brave New World,1998-04-19,en,6.5,13.0
 11508,Addams Family Reunion,1998-09-22,en,3.9,46.0
@@ -8951,7 +8909,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 56655,Mustafa Hakkında Her Şey,2004-03-19,en,8.0,9.0
 22383,The Professionals,1966-11-01,en,6.8,66.0
 30923,Alice in Wonderland,1999-02-28,en,6.1,71.0
-41851,Everyday People,2004-01-18,en,7.3,4.0
 58918,Backflash,2002-01-22,en,4.8,7.0
 11343,Salem's Lot,1979-11-17,en,6.2,124.0
 661,Die Ehe der Maria Braun,1979-02-20,de,7.1,39.0
@@ -9034,7 +8991,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 37601,La noche del terror ciego,1972-04-10,es,5.6,32.0
 4235,Le Clan des Siciliens,1969-12-01,fr,7.1,38.0
 34614,Ett hål i mitt hjärta,2004-01-01,sv,4.5,22.0
-51177,Bigger Than the Sky,2005-02-18,en,4.7,6.0
 16186,Diary of a Mad Black Woman,2005-02-25,en,6.4,71.0
 10012,Cursed,2005-02-25,en,5.1,168.0
 65967,Horem pádem,2004-09-16,cs,8.2,5.0
@@ -9236,7 +9192,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 16250,Love Comes Softly,2003-04-13,en,6.2,25.0
 10065,The Amityville Horror,2005-04-15,en,6.0,606.0
 30863,Mutant Aliens,2002-01-09,en,7.8,4.0
-49920,Acts of Worship,2001-01-01,en,6.3,4.0
 31065,Ike: Countdown to D-Day,2004-05-31,en,5.7,10.0
 22033,Cry of the Banshee,1970-07-22,en,5.5,12.0
 68883,胭脂扣,1987-01-07,cn,6.8,14.0
@@ -9648,7 +9603,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 56778,Blue Vinyl,2002-01-01,en,6.0,3.0
 9621,Elizabethtown,2005-10-06,en,6.1,335.0
 9701,North Country,2005-02-12,en,6.9,127.0
-45899,لیلا,1997-04-25,fa,6.7,5.0
 3291,"Good Night, and Good Luck.",2005-09-16,en,6.8,274.0
 34662,Li'l Abner,1959-12-11,en,10.0,1.0
 12920,Dreamer: Inspired By a True Story,2005-09-10,en,6.4,72.0
@@ -9859,7 +9813,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 38785,The Boys of Baraka,2005-03-11,en,6.5,2.0
 4550,친절한 금자씨,2005-07-29,ko,7.4,362.0
 36380,Chlopaki nie placza,2000-02-25,pl,7.5,19.0
-68646,Superprodukcja,2002-02-28,pl,2.0,1.0
 16433,Grand Theft Parsons,2003-06-18,en,6.0,11.0
 30669,Devil's Pond,2003-12-16,en,5.2,9.0
 44345,The Cutting Edge: The Magic of Movie Editing,2004-01-01,en,7.1,28.0
@@ -9888,7 +9841,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 2455,Vivement dimanche!,1983-08-10,fr,7.1,25.0
 12701,Revolution,1985-12-25,en,5.3,22.0
 21519,A計劃,1983-12-22,cn,7.1,93.0
-43626,Sword of Gideon,1986-09-01,en,4.0,3.0
 16553,Little Manhattan,2005-09-30,en,6.9,181.0
 25652,악어,1996-11-16,ko,6.3,12.0
 39788,Vinci,2004-09-17,en,6.9,16.0
@@ -9956,7 +9908,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 5145,The Business,2005-09-02,en,6.6,42.0
 9975,Curious George,2006-02-10,en,6.1,109.0
 9754,Firewall,2006-02-10,en,5.6,270.0
-52612,Le créateur,1999-06-16,en,6.0,11.0
 23965,The White Diamond,2004-11-13,en,6.5,17.0
 29269,トニー滝谷,2004-08-10,ja,6.7,16.0
 10053,When a Stranger Calls,2006-02-03,en,5.4,273.0
@@ -10156,7 +10107,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 2295,Clerks II,2006-05-25,en,6.9,407.0
 9697,Lady in the Water,2006-07-21,en,5.3,415.0
 4474,My Super Ex-Girlfriend,2006-06-20,en,4.8,453.0
-43240,Tammy and the Bachelor,1957-06-14,en,7.8,7.0
 28673,Amanti d'oltretomba,1965-06-16,en,4.3,7.0
 20556,Let It Be,1970-05-13,en,7.6,32.0
 4962,"Adieu, plancher des vaches!",1999-12-01,fr,3.5,4.0
@@ -10429,7 +10379,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 1523,The Last King of Scotland,2006-09-01,en,7.4,568.0
 14201,The U.S. vs. John Lennon,2006-09-15,en,6.5,17.0
 1378,Shortbus,2006-05-20,en,6.3,141.0
-49481,3 Blind Mice,2003-10-08,en,4.9,8.0
 9693,Children of Men,2006-09-22,en,7.4,2120.0
 1124,The Prestige,2006-10-19,en,8.0,4510.0
 3683,Flags of Our Fathers,2006-10-18,en,6.7,532.0
@@ -10605,7 +10554,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 10758,Waitress,2007-05-25,en,6.6,132.0
 26594,The Secret,2006-03-26,en,5.5,58.0
 22473,Neverwas,2005-09-09,en,6.4,31.0
-51863,Seven Up!,1964-05-05,en,7.5,21.0
 50754,7 Plus Seven,1970-01-01,en,7.5,20.0
 16138,알포인트,2004-08-13,ko,6.3,38.0
 13668,Catch and Release,2006-10-20,en,5.8,109.0
@@ -11679,7 +11627,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 23676,Ten Minutes Older: The Trumpet,2002-05-18,en,6.8,8.0
 1938,Angel Face,1952-12-10,en,6.9,29.0
 75141,Huckleberry Finn,1974-05-24,en,6.1,4.0
-42473,Tom Sawyer,1973-01-01,en,6.3,21.0
 13993,Turn the River,2008-05-09,en,5.5,10.0
 11665,Get Smart,2008-06-19,en,6.0,1072.0
 13019,Young People Fucking,2007-09-05,en,5.9,73.0
@@ -11764,7 +11711,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 16007,デスノート,2006-06-17,ja,6.8,163.0
 158800,A Majority of One,1961-12-27,en,5.5,2.0
 18035,Moving McAllister,2007-09-13,en,4.9,15.0
-43253,The Tall T,1957-04-02,en,7.1,26.0
 14820,Music Within,2007-01-05,en,6.7,18.0
 6687,Transsiberian,2008-01-18,en,6.5,197.0
 11802,Space Chimps,2008-07-17,en,5.1,102.0
@@ -12492,12 +12438,10 @@ movie_id,title,release_date,language,vote_average,vote_count
 38872,Kiler-ów 2-óch,1999-01-08,en,8.1,10.0
 95977,The Man Behind The Gun,1953-01-31,en,6.0,1.0
 17431,Moon,2009-06-12,en,7.6,1831.0
-38870,Komedia malzenska,1994-05-07,en,0.0,0.0
 67849,Break Up,1998-08-20,en,3.8,9.0
 112582,Fraternity Demon,1992-01-01,en,3.3,2.0
 13123,Aamir,2008-06-06,hi,6.7,12.0
 33974,Mammoth,2009-01-19,en,6.1,41.0
-45949,In den Tag hinein,2001-08-01,de,6.3,3.0
 18320,The Young Victoria,2009-03-04,en,7.1,330.0
 49571,Akai satsui,1964-06-28,ja,6.6,12.0
 53204,Amazing Journey: The Story of The Who,2007-09-14,en,7.0,1.0
@@ -12756,7 +12700,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 18696,La battaglia di Maratona,1959-12-03,it,4.8,4.0
 3478,Ludwig,1972-12-29,en,7.5,20.0
 30713,Eskalofrío,2008-02-08,es,5.4,27.0
-54759,Haaveiden kehä,2002-10-11,fi,0.0,0.0
 30121,Winter of Frozen Dreams,2009-06-01,en,4.5,4.0
 64901,L'eau froide,1994-07-06,fr,8.0,4.0
 23720,Humpday,2009-09-16,en,5.6,27.0
@@ -12779,7 +12722,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 39415,Loulou,1980-09-03,fr,6.3,9.0
 20407,Arlen Faber,2009-01-18,en,6.2,34.0
 22408,Rage at Dawn,1955-03-26,en,7.3,3.0
-69166,A Perfect Fake,2005-04-15,en,0.0,0.0
 21208,Orphan,2009-07-24,en,6.7,1296.0
 131351,Afterburn,1992-05-30,en,4.3,2.0
 16056,Winged Creatures,2008-06-24,en,6.2,39.0
@@ -13138,7 +13080,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 84089,"Maradona, la mano di Dio",2007-03-29,it,5.6,7.0
 31021,Komornik,2005-09-14,pl,6.1,5.0
 173171,Nie ma róży bez ognia,1974-12-24,pl,7.0,4.0
-48329,Ryan,2004-01-01,en,7.8,12.0
 44338,Balance,1989-01-01,de,7.7,32.0
 36577,吸血少女対少女フランケン,2009-09-09,ja,5.2,23.0
 22447,Is Anybody There?,2009-04-17,en,5.8,25.0
@@ -13332,7 +13273,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 17591,The Battle of the River Plate,1956-10-30,en,6.1,9.0
 49687,Matrimonio all'italiana,1964-12-18,it,7.8,59.0
 51831,The Minion,1998-09-26,fr,4.8,6.0
-44808,Sweepers,1999-03-23,en,1.8,5.0
 41886,Not Your Typical Bigfoot Movie,2008-10-17,en,6.3,2.0
 24050,The Good Life,2007-01-18,en,6.9,13.0
 156015,Out 1: Spectre,1972-01-01,fr,7.0,2.0
@@ -13430,7 +13370,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 10800,Chasseurs de dragons,2008-03-19,fr,6.5,131.0
 277622,The 27 Club,2008-04-26,en,8.0,1.0
 25676,Bo bui gai wak,2006-09-28,cn,6.6,107.0
-44941,Year of the Comet,1992-04-24,en,6.9,4.0
 25205,Le Concert,2009-09-01,fr,6.9,129.0
 17602,Macheads,2009-01-01,en,5.5,4.0
 14981,Welcome To Macintosh,2008-05-06,en,5.2,5.0
@@ -13672,7 +13611,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 66953,"Qui êtes-vous, Polly Maggoo?",1966-10-21,fr,7.8,4.0
 16436,Nordwand,2008-10-23,de,7.4,77.0
 31867,Repo Men,2010-03-18,en,6.2,627.0
-42451,The Apprenticeship of Duddy Kravitz,1974-04-11,en,6.6,5.0
 43138,The Brothers Karamazov,1958-02-20,en,6.8,6.0
 4933,The Buccaneer,1958-12-11,en,5.8,9.0
 28355,Case 39,2009-08-13,en,6.1,580.0
@@ -13719,7 +13657,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 18352,Spalovač mrtvol,1969-03-14,cs,8.0,39.0
 34769,Defendor,2009-09-12,en,6.5,197.0
 39830,Bass Ackwards,2010-01-23,en,4.9,5.0
-132744,One 2 Ka 4,2001-03-29,hi,5.3,12.0
 161179,Shakti: The Power,2002-09-19,hi,5.0,3.0
 35939,Glorious 39,2009-11-20,en,5.3,35.0
 23483,Kick-Ass,2010-03-22,en,7.1,4747.0
@@ -14317,7 +14254,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 38358,The Last Exorcism,2010-08-27,en,5.6,330.0
 113458,Matka Joanna od aniolów,1961-02-09,pl,7.2,21.0
 42085,Camila,1984-05-17,es,7.0,4.0
-42495,King Lear,1971-02-04,en,8.0,3.0
 95597,La noire de…,1966-01-01,fr,7.6,15.0
 55562,Rosa Luxemburg,1986-04-10,de,5.1,7.0
 49943,Syostry,2001-05-10,ru,6.5,12.0
@@ -14441,14 +14377,12 @@ movie_id,title,release_date,language,vote_average,vote_count
 56168,The Oscar,1966-03-04,en,6.3,3.0
 34145,Classe tous risques,1960-03-23,fr,6.3,15.0
 40911,艋舺,2010-02-05,zh,6.7,16.0
-54720,Killing Kasztner,2008-10-01,en,0.0,0.0
 43923,It's Kind of a Funny Story,2010-07-06,en,6.9,691.0
 5719,Mudhoney,1965-05-25,en,7.5,9.0
 71575,Entre Nos,2009-04-25,es,6.9,11.0
 159186,Just Like Us,2011-10-06,en,0.0,0.0
 2754,Abel,1986-02-27,nl,6.7,11.0
 166204,কাঞ্চনজঙ্ঘা,1962-05-11,bn,7.5,4.0
-40970,The Jolly Boys' Last Stand,2000-01-01,en,0.0,0.0
 38842,Middle Men,2009-05-17,en,6.5,94.0
 45261,(Untitled),2009-10-25,en,6.6,16.0
 73682,Hîrtia va fi albastrã,2006-08-07,en,7.3,4.0
@@ -14565,7 +14499,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 32540,The Disappeared,2008-01-01,en,6.2,10.0
 74896,The Fox,1967-12-13,en,7.8,5.0
 44890,The Frogmen,1951-01-25,en,5.1,6.0
-44823,Jerry Springer: The Opera,2005-11-14,en,6.2,5.0
 39514,RED,2010-10-13,en,6.6,2858.0
 213864,Zeisters,1986-09-05,en,0.0,0.0
 90930,Strip-Tease,1963-05-29,fr,0.0,0.0
@@ -14579,7 +14512,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 37810,עיניים פקוחות,2009-05-20,he,5.4,22.0
 13548,Borderland,2007-11-09,en,5.2,53.0
 21431,Big Game,2008-01-01,en,3.0,1.0
-25073,Deadline,2009-01-01,en,5.2,31.0
 155445,Nicht alle waren Mörder,2006-10-31,de,4.0,2.0
 20700,A Day In The Life,2009-07-07,en,6.0,2.0
 114333,La caza,1966-11-07,es,7.0,8.0
@@ -14611,7 +14543,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 48016,The Maze,2010-10-19,en,5.0,6.0
 79743,Mitä meistä tuli,2009-12-11,en,0.0,0.0
 67232,Daughter from Danang,2002-01-11,en,6.5,2.0
-44076,"Booye kafoor, atre yas",2000-09-08,fa,5.0,1.0
 48015,13Hrs,2010-08-28,en,4.5,18.0
 35957,Dial 1119,1950-11-03,en,3.0,3.0
 51241,Les amours imaginaires,2010-05-16,fr,7.4,265.0
@@ -14662,7 +14593,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 41123,Lourdes,2009-09-11,fr,6.3,13.0
 44442,Cztery noce z Anną,2008-07-17,pl,5.2,7.0
 48466,Scared Shrekless,2010-10-28,en,6.3,80.0
-47065,Tales of an Ancient Empire,2010-07-31,en,2.5,7.0
 38325,Как я провёл этим летом,2010-02-17,ru,6.1,37.0
 103894,Thieves By Law,2010-04-22,en,7.7,3.0
 71317,Гамлет,1964-06-24,ru,7.5,14.0
@@ -14746,7 +14676,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 34764,Karthik Calling Karthik,2010-02-06,en,5.9,22.0
 37234,Sex & Drugs & Rock & Roll,2010-01-08,en,6.9,16.0
 42483,Last of the Red Hot Lovers,1972-01-01,en,6.1,4.0
-42561,Against the Current,2009-01-18,en,5.6,8.0
 42046,October Country,2009-06-01,en,8.5,2.0
 52320,Hjem til jul,2010-11-12,no,5.0,2.0
 36405,Rewers,2009-11-12,en,7.7,3.0
@@ -15113,7 +15042,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 44411,Singularidades de uma Rapariga Loura,2009-02-10,pt,6.1,12.0
 71732,La raison du plus faible,2006-07-19,fr,7.2,3.0
 85550,극장전,2005-05-27,ko,8.4,7.0
-116751,Le petit voleur,1999-09-12,fr,7.0,2.0
 72852,Hadewijch,2009-11-25,fr,6.8,16.0
 48954,The 'Maggie',1954-02-25,en,6.6,9.0
 32122,The Devil's Playground,1976-08-12,en,8.0,7.0
@@ -15235,7 +15163,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 14903,Pooh's Grand Adventure: The Search for Christopher Robin,1997-08-05,en,6.3,47.0
 60290,Corto Maltese: Sous le Signe du Capricorne,2002-01-01,fr,8.3,4.0
 60221,Corto Maltese: La maison dorée de Samarkand,2004-01-01,fr,6.9,7.0
-54793,Public Speaking,2010-11-22,en,6.4,13.0
 9706,Rasen,1998-01-31,ja,5.3,24.0
 57703,ノルウェイの森,2010-12-11,ja,6.6,61.0
 56831,The Sunset Limited,2011-02-12,en,7.1,110.0
@@ -15281,7 +15208,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 38322,"Big Mommas: Like Father, Like Son",2011-02-16,en,5.3,322.0
 45132,Super,2010-09-09,en,6.6,446.0
 77078,A Little Night Music,1977-12-01,en,7.5,1.0
-103751,Täällä Pohjantähden alla II,2010-09-24,fi,7.3,3.0
 46146,Trolljegeren,2010-10-29,nb,6.7,590.0
 45612,Source Code,2011-03-30,en,7.1,2752.0
 38684,Jane Eyre,2011-03-11,en,7.0,438.0
@@ -15298,7 +15224,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 42167,Bye Bye Brasil,1980-02-08,pt,5.6,7.0
 57409,"Hugh Hefner: Playboy, Activist and Rebel",2009-01-01,en,7.3,3.0
 2010,殯の森,2007-05-24,ja,6.2,13.0
-47215,Güneşe yolculuk,1999-02-16,tr,7.0,5.0
 45715,The Kings of Mykonos,2010-05-20,en,5.9,9.0
 58232,Chalet Girl,2011-02-02,en,6.4,209.0
 53364,Der letzte schöne Herbsttag,2010-11-11,de,7.0,3.0
@@ -15314,12 +15239,10 @@ movie_id,title,release_date,language,vote_average,vote_count
 19611,Bo chi tung wah,2008-09-25,cn,7.0,20.0
 16179,Breathing Room,2008-08-25,en,4.1,28.0
 153041,Otaku,1994-12-01,en,6.0,1.0
-85769,Αναπαράσταση,1970-08-31,el,6.3,5.0
 211331,Diamond Girl,1998-07-25,en,3.3,4.0
 45046,The Second Civil War,1997-03-15,en,4.7,3.0
 42273,Don't You Forget About Me,2010-07-13,en,4.7,3.0
 13413,BURN·E,2008-11-17,en,7.8,250.0
-81414,Ingrid,2010-04-30,es,0.0,0.0
 45189,Sube y baja,1959-01-01,es,5.3,3.0
 43418,Beneath Hill 60,2010-04-15,en,7.2,41.0
 41616,Formosa Betrayed,2010-02-26,en,6.5,2.0
@@ -15626,7 +15549,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 48996,Den enskilde medborgaren,2006-01-09,sv,4.5,2.0
 21616,Cautiva,2004-03-20,en,7.7,7.0
 45658,Everything Must Go,2010-10-15,en,6.0,210.0
-127818,Eyes of the Mothman,2011-02-22,en,3.0,2.0
 41827,Red White & Blue,2010-10-08,en,5.8,46.0
 55347,Beginners,2010-09-11,en,6.8,353.0
 37686,Super 8,2011-06-08,en,6.6,2496.0
@@ -15649,7 +15571,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 222600,Matinée,1977-09-18,en,6.3,2.0
 449677,The Year of Living Vicariously,2005-01-23,en,5.0,1.0
 37523,Kıskanmak,2009-08-08,tr,6.6,4.0
-44104,Private,2004-08-12,en,7.8,4.0
 13137,A Very British Gangster,2007-07-17,en,6.1,4.0
 56231,La classe operaia va in paradiso,1971-09-17,it,7.0,30.0
 47171,48 Shades,2006-08-31,en,3.2,3.0
@@ -15723,7 +15644,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 55759,Vääpeli Körmy ja kahtesti laukeava,1997-08-15,fi,4.5,2.0
 114514,Who Are the DeBolts? And Where Did They Get Nineteen Kids?,1977-12-01,en,0.0,0.0
 12513,Marie-Jo et ses deux amours,2002-06-26,en,5.7,3.0
-73884,麥兜故事,2001-12-15,zh,5.9,7.0
 32893,Broken Windows,2008-09-26,en,4.2,3.0
 60302,"Cougars, Inc.",2011-05-10,en,5.3,20.0
 52605,Strapped,2010-09-24,en,6.1,17.0
@@ -15767,7 +15687,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 40047,Elvis,1979-02-10,en,6.4,15.0
 98060,Il tempo si è fermato,1960-04-05,it,5.5,2.0
 63297,200 MPH,2011-04-26,en,3.7,13.0
-68200,Hot Coffee,2011-06-27,en,7.5,19.0
 94725,To Sleep with Anger,1990-09-11,en,5.6,7.0
 95482,초록물고기,1997-02-07,ko,6.8,17.0
 67236,Tiresia,2003-05-20,fr,5.6,5.0
@@ -15859,11 +15778,9 @@ movie_id,title,release_date,language,vote_average,vote_count
 51765,Dead Man's Walk,1996-05-12,en,6.3,3.0
 43935,Dylan Dog: Dead of Night,2011-03-16,en,4.5,142.0
 12446,L'Empreinte de l'ange,2008-06-13,fr,6.7,6.0
-80210,The Undefeated,2011-07-15,en,1.9,5.0
 17086,Chromophobia,2005-01-01,en,5.7,12.0
 50544,Friends with Benefits,2011-07-21,en,6.5,2306.0
 51735,Η Σκόνη του Χρόνου,2008-11-22,en,6.5,4.0
-47116,Víťaz,1979-03-09,en,0.0,0.0
 107246,Exposed,1983-04-22,en,4.0,3.0
 68412,3 Backyards,2010-01-01,en,4.8,4.0
 69794,Small Town Murder Songs,2010-09-14,en,5.0,17.0
@@ -15976,7 +15893,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 73930,Recordações da Casa Amarela,1989-01-01,pt,8.5,4.0
 105287,Super 8 Stories,2001-10-10,fr,4.4,4.0
 42692,Elvira Madigan,1967-04-24,sv,5.8,10.0
-64964,Rengeteg,2003-02-13,hu,6.8,4.0
 46998,Το Κακό - Στην εποχή των ηρώων,2009-10-01,en,5.4,6.0
 46261,Don't Be Afraid of the Dark,2010-11-06,en,5.4,347.0
 58151,Fright Night,2011-08-18,en,6.0,617.0
@@ -16016,7 +15932,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 37430,Conan the Barbarian,2011-08-17,en,5.2,612.0
 50023,Dead Awake,2010-12-03,en,4.3,12.0
 51588,Prom,2011-04-29,en,5.7,139.0
-57211,Magic Trip,2011-08-05,en,6.6,9.0
 11388,Stay Cool,2009-04-23,en,4.7,21.0
 16335,Walled In,2009-02-20,en,4.6,54.0
 52725,Fierce Light: When Spirit Meets Action,2008-01-01,en,0.0,0.0
@@ -16034,7 +15949,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 40016,Birdemic: Shock and Terror,2010-02-27,en,2.1,69.0
 100794,Cammina cammina,1983-05-12,it,0.0,0.0
 17236,Whirlygirl,2006-05-02,en,5.5,10.0
-48199,Woyzeck,1994-02-07,en,8.3,3.0
 60784,Win/Win,2010-05-20,en,4.5,3.0
 73358,Page Eight,2011-08-28,en,6.8,63.0
 69798,The Inbetweeners Movie,2011-08-19,en,6.2,341.0
@@ -16165,7 +16079,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 59852,Blinky™,2011-03-21,en,6.7,34.0
 85743,Play,2011-05-15,en,7.4,20.0
 100784,"Хрусталёв, машину!",1998-05-20,ru,5.3,8.0
-41822,客途秋恨,1990-04-27,cn,5.0,1.0
 45590,Segodnya uvolneniya ne budet,1959-05-09,en,6.3,3.0
 103590,ამბავი სურამის ციხისა,1986-09-08,ka,7.0,9.0
 55863,On the Double,1961-05-19,en,7.5,7.0
@@ -16215,7 +16128,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 85365,Tony Arzenta,1973-08-23,it,5.7,5.0
 11383,The Living Desert,1953-11-10,en,6.4,5.0
 28858,Brothers at War,2009-03-13,en,6.0,1.0
-43981,Salaam Cinema,1995-01-01,en,6.6,9.0
 80115,Cea mai fericita fata din lume,2009-05-08,en,6.7,3.0
 24566,Examined Life,2008-09-05,en,7.3,4.0
 125553,Wadd: The Life & Times of John C. Holmes,1999-09-09,en,5.3,3.0
@@ -16252,7 +16164,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 60935,The Thing,2011-10-12,en,6.0,876.0
 53344,Lemmy,2010-03-15,en,7.5,34.0
 59437,Beautiful Boy,2010-09-12,en,6.1,29.0
-70875,The Harvest (La Cosecha),2011-07-29,en,0.0,0.0
 76543,Tyrannosaur,2011-10-07,en,7.3,124.0
 75969,Männerherzen... und die ganz ganz große Liebe,2011-09-06,de,6.2,31.0
 71933,"O-bi, o-ba: Koniec cywilizacji",1985-06-28,pl,6.4,7.0
@@ -16359,7 +16270,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 36261,十三太保,1970-08-14,zh,6.6,7.0
 65229,Tomboy,2011-04-20,fr,7.2,181.0
 25656,めがね,2007-09-22,ja,7.3,10.0
-64347,Regarde les hommes tomber,1994-08-31,fr,6.0,5.0
 6360,Actrices,2007-05-19,fr,4.0,4.0
 157924,Pompeii: The Mystery of the People Frozen in Time,2013-03-27,en,4.5,2.0
 47189,Rozmarné léto,1968-05-24,cs,6.7,7.0
@@ -16372,11 +16282,9 @@ movie_id,title,release_date,language,vote_average,vote_count
 65044,Zhai bian,2005-09-15,zh,6.8,4.0
 75964,George Harrison: Living in the Material World,2011-10-05,en,7.8,39.0
 44826,Hugo,2011-11-22,en,7.0,2197.0
-50875,Higher Ground,2011-08-26,en,5.3,14.0
 70578,Trespass,2011-10-13,en,5.4,333.0
 14673,Savage Streets,1984-08-30,en,6.5,30.0
 36142,Dom zły,2009-11-27,en,6.0,11.0
-56489,Die letzten Männer,1995-10-03,de,8.0,2.0
 263600,Election Day,2007-03-10,en,0.0,0.0
 37958,Immortals,2011-11-10,en,5.7,898.0
 71880,Jack and Jill,2011-11-11,en,4.0,619.0
@@ -16391,7 +16299,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 84427,L'Apollonide : Souvenirs de la Maison Close,2011-09-20,fr,6.7,60.0
 94336,Dreileben: Etwas Besseres als den Tod,2011-04-13,de,9.0,2.0
 51994,The Deep Blue Sea,2011-09-11,en,5.8,82.0
-47099,Tueur à gages,1998-01-01,en,2.5,2.0
 121462,사랑방 손님과 어머니,1961-08-26,ko,5.5,2.0
 51248,11-11-11,2011-11-11,en,4.3,77.0
 77365,Into the Abyss,2011-11-11,en,7.2,80.0
@@ -16400,7 +16307,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 4790,Nada,1974-03-21,fr,6.3,4.0
 17495,Whatever Lola wants,2007-12-11,en,6.4,10.0
 80607,Daffy Duck's Movie: Fantastic Island,1983-08-05,en,6.0,12.0
-53328,The Last Mountain,2011-06-03,en,9.0,2.0
 65831,Sasha,2011-03-24,de,6.4,8.0
 72875,De mayor quiero ser soldado,2010-10-14,es,6.8,10.0
 60422,Another Happy Day,2011-11-18,en,6.2,37.0
@@ -16422,7 +16328,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 64328,The Muppets,2011-11-22,en,6.5,509.0
 10109,小白龍情海翻波,2004-10-28,zh,5.2,9.0
 50619,The Twilight Saga: Breaking Dawn - Part 1,2011-03-15,en,5.8,2622.0
-65002,Die Fälschung,1981-10-15,fr,5.4,4.0
 107327,Figures in a Landscape,1970-11-21,en,5.4,7.0
 64983,Barocco,1976-12-08,fr,6.0,3.0
 20859,Blown Away,1993-04-01,en,5.1,17.0
@@ -16438,7 +16343,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 30784,The Criminal,1960-09-13,en,7.1,7.0
 24185,Il regista di matrimoni,2006-04-21,en,5.8,9.0
 79120,Weekend,2011-09-22,en,7.5,164.0
-46770,Sur,1988-01-01,en,3.7,3.0
 22165,The Bridge to Nowhere,2009-08-17,en,4.5,7.0
 84473,La rose de fer,1973-04-12,fr,6.6,16.0
 83233,Silvestre,1982-05-06,pt,5.0,1.0
@@ -16577,7 +16481,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 293114,Taulukauppiaat,2010-09-03,fi,0.0,0.0
 116537,Kukkulan kuningas,2009-09-23,fi,0.0,0.0
 118955,The Chapman Report,1962-10-05,en,6.3,3.0
-82698,Ladies vs Ricky Bahl,2011-12-09,hi,6.0,23.0
 73939,Pariah,2011-12-27,en,7.0,33.0
 13247,A Muppet Family Christmas,1987-12-16,en,6.7,15.0
 50393,Kung Fu Panda Holiday,2010-11-26,en,6.5,53.0
@@ -17043,7 +16946,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 91292,Black Pond,2011-11-11,en,5.3,7.0
 109979,Diciotto anni dopo,2010-07-04,it,7.1,12.0
 73211,Kongen av Bastøy,2010-12-16,no,7.2,67.0
-40720,Twelve,2010-07-30,en,6.0,99.0
 60405,Sharpay's Fabulous Adventure,2011-04-19,en,5.3,110.0
 86455,"The Cartoonist: Jeff Smith, BONE and the Changing Face of Comics",2009-05-22,en,0.0,0.0
 91356,Comic-Con Episode IV: A Fan's Hope,2011-09-10,en,6.6,15.0
@@ -17209,7 +17111,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 49830,Contagion,2010-03-29,en,3.0,3.0
 13640,Superman: Doomsday,2007-09-18,en,6.5,138.0
 37000,Un Lac,2008-09-01,fr,6.9,8.0
-54484,Tracy Morgan: Black & Blue,2010-11-13,en,8.0,2.0
 60592,Hur många lingon finns det i världen?,2011-03-18,sv,5.9,13.0
 109379,Kradetzat na praskovi,1964-11-09,bg,6.0,3.0
 169652,Salomè,1972-02-19,it,8.0,3.0
@@ -17364,7 +17265,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 43580,The Cat in the Hat,1971-03-10,en,6.1,11.0
 61015,"UltraMarathon Man: 50 Marathons, 50 States, 50 Days",2008-07-31,en,5.5,2.0
 73567,Killer Joe,2011-09-10,en,6.4,433.0
-82877,The Gospel of Judas,2006-04-05,pt,7.0,2.0
 44251,ドラゴンボールＺ 危険なふたり！超戦士はねむれない,1994-03-12,ja,6.5,102.0
 50388,いばらの王,2009-10-09,ja,6.2,30.0
 19575,Bob Funk,2009-03-20,en,5.0,6.0
@@ -17471,7 +17371,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 82650,Diary of a Wimpy Kid: Dog Days,2012-08-02,en,6.0,229.0
 40572,How Bruce Lee Changed the World,2009-05-17,en,7.8,5.0
 208579,Itim,1977-01-13,tl,9.5,1.0
-36859,Bells of Innocence,2003-01-01,en,1.3,3.0
 75680,The PHD movie: Piled Higher and Deeper,2011-08-12,en,6.4,8.0
 458428,Operación Cannabis,2009-11-01,es,0.0,0.0
 79224,최종병기 활,2011-08-10,ko,6.7,68.0
@@ -17514,7 +17413,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 127521,6 Bullets,2012-09-11,en,5.5,91.0
 119698,The Dinosaur Project,2012-08-09,en,4.7,63.0
 48034,Les petits mouchoirs,2010-10-20,fr,7.1,396.0
-110491,The Manzanar Fishing Club,2012-03-30,en,0.0,0.0
 79694,The Apparition,2012-08-23,en,4.5,140.0
 83540,Dreams of a Life,2011-08-16,en,7.0,23.0
 108762,Kotirauha,2011-10-21,en,7.2,5.0
@@ -17571,7 +17469,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 24421,Stag Night,2008-06-26,en,4.3,19.0
 82510,Hollywood Sex Wars,2011-10-03,en,3.8,5.0
 117408,L'età di Cosimo de Medici,1972-12-26,it,5.0,1.0
-61854,Something Ventured,2011-04-01,en,6.7,9.0
 96973,Jesus Henry Christ,2012-05-04,en,6.2,44.0
 16640,Pirates of the Great Salt Lake,2006-01-01,en,5.0,1.0
 71679,Resident Evil: Retribution,2012-09-12,en,5.6,1618.0
@@ -17686,11 +17583,9 @@ movie_id,title,release_date,language,vote_average,vote_count
 170517,The Cool Ones,1967-04-11,en,6.3,2.0
 110336,Blood of Dracula,1957-11-01,en,4.3,6.0
 91250,I'm King Kong!: The Exploits of Merian C. Cooper,2005-11-22,en,0.0,0.0
-131671,Elia Kazan: A Director's Journey,1995-08-14,en,6.0,1.0
 262243,The John Garfield Story,2003-02-03,en,9.5,2.0
 537,Je ne suis pas là pour être aimé,2005-10-12,fr,5.2,8.0
 84180,California Solo,2012-11-30,en,5.8,12.0
-47405,Maskeblomstfamilien,2010-10-08,en,0.0,0.0
 135547,Suomen Marsalkka,2012-09-28,en,2.0,2.0
 90125,Marley,2012-04-20,en,7.5,107.0
 62214,Frankenweenie,2012-10-04,en,6.6,951.0
@@ -17733,7 +17628,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 84306,Liberal Arts,2012-09-14,en,6.1,179.0
 40075,Ator l'invincibile,1982-10-07,it,3.6,13.0
 80059,Den tatuerade änkan,1998-03-10,sv,0.0,0.0
-39779,Portrait in Black,1960-07-27,en,6.2,3.0
 340543,Vivien Leigh: Scarlett And Beyond,1990-05-17,en,0.0,0.0
 86726,Under the Boardwalk: The Monopoly Story,2011-03-04,en,6.5,9.0
 116463,Arachnoquake,2012-06-23,en,3.7,22.0
@@ -17825,7 +17719,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 37635,Witness to Murder,1954-04-15,en,6.6,14.0
 72245,Gang de qin,2011-07-15,zh,7.2,11.0
 128158,"Syngué sabour, pierre de patience",2012-09-08,fr,6.2,33.0
-43761,Hamoun,1990-01-01,fa,7.5,6.0
 82684,Chasing Mavericks,2012-10-25,en,7.0,219.0
 117266,Craigslist Joe,2012-08-02,en,6.3,31.0
 87826,Here Comes the Boom,2012-10-11,en,6.0,598.0
@@ -17877,7 +17770,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 123105,The Bay,2012-09-13,en,5.5,237.0
 102640,Union Square,2011-07-07,en,5.5,4.0
 133458,Hypnotisören,2012-09-28,sv,5.3,51.0
-138122,Student of the Year,2012-10-19,en,6.2,49.0
 84308,"Madrid, 1987",2011-09-22,en,6.3,15.0
 35683,Single White Female 2: The Psycho,2005-10-25,en,4.0,14.0
 135647,The Details,2012-11-02,en,5.9,64.0
@@ -18199,7 +18091,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 95511,Kevin Smith: Burn in Hell,2012-02-11,en,6.9,7.0
 22379,Slipstream,1989-06-22,en,4.2,16.0
 115400,The Woodmans,2011-01-19,en,5.0,1.0
-130736,3 Zimmer/Küche/Bad,2012-10-03,en,7.1,28.0
 24446,Holiday in Handcuffs,2007-12-09,en,6.2,52.0
 44244,Camp Rock 2: The Final Jam,2010-06-06,en,5.8,354.0
 41592,StreetDance 3D,2010-05-19,en,6.1,98.0
@@ -18294,7 +18185,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 82682,Gangster Squad,2013-01-10,en,6.2,1805.0
 147405,Dabangg 2,2012-12-21,hi,5.1,30.0
 22066,The Marsh,2006-05-18,en,5.0,21.0
-46016,Road to Redemption,2001-09-28,en,10.0,1.0
 26467,The Climb,2002-01-01,en,5.3,3.0
 46500,The Warrior and the Sorceress,1984-09-07,en,3.3,10.0
 87496,The Company You Keep,2012-09-06,en,5.9,261.0
@@ -18413,7 +18303,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 118557,Ладони,1994-02-01,ru,8.1,7.0
 288151,El acto en cuestión,1993-05-01,en,5.0,1.0
 83125,The Color Wheel,2011-04-01,en,6.4,11.0
-76686,The Green Wave,2012-08-10,de,8.5,2.0
 117974,Sightseers,2012-11-30,en,6.2,187.0
 28830,おっぱいバレー,2009-04-18,ja,5.7,6.0
 60304,Hansel & Gretel: Witch Hunters,2013-01-17,en,5.7,3290.0
@@ -18593,7 +18482,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 170657,西遊降魔篇,2013-02-01,zh,6.8,95.0
 156937,Holy Wars,2010-01-01,en,8.0,1.0
 14591,911 in Plane Site,2004-01-01,en,8.0,5.0
-56744,Murder in Greenwich,2002-11-15,en,4.0,6.0
 28090,Maniac Cop 2,1990-12-13,en,5.3,42.0
 236035,Gunfighter's Moon,1997-03-25,en,5.5,2.0
 128682,A Movie,1958-04-07,en,7.3,12.0
@@ -18601,7 +18489,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 159480,På Sista Versen - En Liten Film om Döden,1999-04-15,sv,2.5,2.0
 24479,"Look, Up in the Sky: The Amazing Story of Superman",2006-06-12,en,6.9,5.0
 203329,ARAL. Fishing in an Invisible Sea,2004-06-23,en,7.7,3.0
-67556,Le soupirant,1962-11-12,fr,6.4,6.0
 90228,Yoyo,1965-02-19,fr,5.9,9.0
 143796,Tant qu'on a la santé,1966-02-25,fr,6.3,4.0
 81005,Jack the Giant Slayer,2013-02-27,en,5.5,2634.0
@@ -18674,7 +18561,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 124459,The Incredible Burt Wonderstone,2013-03-14,en,5.3,732.0
 122081,Spring Breakers,2013-01-24,en,5.0,1580.0
 30198,Jigoku no banken: akai megane,1987-02-07,ja,4.8,6.0
-62301,Jigoku no banken: kerubersu,1991-12-31,en,6.3,6.0
 81225,Abendland,2011-03-31,de,5.5,2.0
 126186,Shanghai Calling,2012-05-03,en,5.7,7.0
 144789,Los amantes pasajeros,2013-03-08,es,5.8,219.0
@@ -18777,7 +18663,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 55144,Lush Life,1993-10-01,en,3.8,2.0
 127544,009 RE：CYBORG,2012-10-27,ja,5.7,11.0
 91694,逆転裁判,2012-02-12,ja,5.8,29.0
-54356,Emmauksen tiellä,2001-09-26,fi,7.0,2.0
 14607,Loaded,2008-03-25,en,4.0,14.0
 148034,Varljivo leto '68,1984-01-30,sr,6.6,7.0
 25516,कोई मिल गया,2003-08-08,hi,6.4,37.0
@@ -18797,7 +18682,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 58483,En familie,2011-02-24,da,6.0,5.0
 173294,Papadopoulos & Sons,2012-12-20,el,5.7,15.0
 81619,Better This World,2011-04-23,en,6.8,6.0
-40798,Americano,2005-01-07,en,5.9,8.0
 85449,Le Skylab,2011-09-19,fr,6.3,23.0
 158231,Putzel,2012-10-10,en,1.0,1.0
 57993,The Mountain,1956-11-14,en,6.8,7.0
@@ -19036,14 +18920,12 @@ movie_id,title,release_date,language,vote_average,vote_count
 119933,The Merchant of Venice,1980-12-17,en,0.0,0.0
 28424,The Loss of a Teardrop Diamond,2008-01-01,en,5.5,11.0
 137182,The Broken Circle Breakdown,2012-10-09,nl,7.7,341.0
-118931,放課後ミッドナイターズ,2012-08-25,ja,6.5,2.0
 121725,アントキノイノチ,2011-11-19,ja,6.0,2.0
 100493,The Devil's Carnival,2012-04-05,en,5.3,33.0
 121986,Frances Ha,2013-05-17,en,7.3,358.0
 104755,The Lords of Salem,2012-09-10,en,5.1,244.0
 18146,Up Periscope,1959-03-04,en,5.6,9.0
 70757,Ein Tick anders,2011-07-07,de,6.2,18.0
-94841,Cell Count,2012-05-20,en,3.9,7.0
 119675,Behind the Candelabra,2013-05-26,en,6.6,307.0
 128873,India: Matri Bhumi,1959-06-27,it,5.5,2.0
 130824,As I Was Moving Ahead Occasionally I Saw Brief Glimpses of Beauty,2000-07-19,en,9.5,10.0
@@ -19179,7 +19061,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 38178,Sign 'o' the Times,1987-11-20,en,7.3,8.0
 39982,Just Before Dawn,1981-10-14,en,6.7,29.0
 159154,We Steal Secrets: The Story of WikiLeaks,2013-05-24,en,6.2,58.0
-127373,What Maisie Knew,2013-05-02,en,7.4,149.0
 31221,Dragon Hunter,2008-12-01,en,3.3,11.0
 185562,Hai-Alarm am Müggelsee,2013-03-12,de,6.1,12.0
 106049,The Revisionaries,2012-04-21,en,6.4,5.0
@@ -19362,7 +19243,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 117856,Bigfoot,2012-06-30,en,3.0,17.0
 65435,Consuming Kids: The Commercialization of Childhood,2007-12-31,en,7.6,5.0
 27957,Nefes: Vatan Sağolsun,2009-10-15,tr,7.1,24.0
-83566,Iran Is Not the Problem,2008-07-28,en,4.8,2.0
 173938,Mighty Uke,2011-01-11,en,0.0,0.0
 138308,The Hard Man,1957-12-01,en,3.3,2.0
 136400,2 Guns,2013-08-02,en,6.6,1611.0
@@ -19477,7 +19357,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 45109,Entre Lençóis,2008-12-05,pt,5.6,10.0
 128133,Museum Hours,2012-08-08,en,6.3,19.0
 152748,Ain't Them Bodies Saints,2013-07-03,en,6.1,144.0
-133108,Money Matters,2011-11-15,en,6.5,2.0
 200063,Sunset Strip,2012-03-16,en,7.4,7.0
 49542,Wartorn: 1861-2010,2010-11-11,en,5.5,3.0
 35895,A Cry in the Night,1956-08-17,en,3.6,4.0
@@ -19584,7 +19463,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 146227,Getaway,2013-08-29,en,4.9,248.0
 158884,A Teacher,2013-09-06,en,4.5,32.0
 89623,마당을 나온 암탉,2011-07-28,ko,6.9,11.0
-127451,"High Tech, Low Life",2012-04-19,en,7.0,1.0
 134756,Killjoy Goes To Hell,2012-10-09,en,5.7,7.0
 27651,Puppet Master: Axis of Evil,2010-01-15,en,3.1,8.0
 126321,Trois mondes,2012-12-05,fr,5.5,6.0
@@ -19616,7 +19494,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 122597,Ping Pong,2012-07-06,en,8.0,2.0
 104634,El Sexo de los Ángeles,2012-05-04,es,6.6,39.0
 28735,Deathsport,1978-04-01,en,4.6,11.0
-115199,The History of Future Folk,2012-06-15,en,6.6,27.0
 146233,Prisoners,2013-09-18,en,7.9,3183.0
 164457,Out of the Furnace,2013-12-06,en,6.5,731.0
 133369,The Conspiracy,2012-08-23,en,6.0,94.0
@@ -19639,7 +19516,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 27885,Just One of the Girls,1993-09-13,en,5.3,17.0
 28320,Aurora Borealis,2005-04-22,en,6.9,11.0
 106599,Imaginary Witness: Hollywood and the Holocaust,2004-01-01,en,5.0,2.0
-103713,Eminem AKA,2004-12-07,en,5.8,3.0
 180314,Salinger,2013-09-06,en,6.4,27.0
 133701,Tears of Steel,2012-09-25,en,5.3,18.0
 34188,The Jerk Theory,2009-02-05,en,5.2,33.0
@@ -19736,7 +19612,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 103168,Apache Country,1952-05-30,en,0.0,0.0
 25584,Varannan vecka,2006-01-13,sv,4.5,3.0
 172828,Bad Milo!,2013-08-28,en,5.8,97.0
-75757,America The Beautiful 2: The Thin Commandments,2011-10-12,en,6.5,2.0
 86049,Follow Me!,1972-07-18,en,6.0,1.0
 154413,Be Tartib ya Bedoun-e Tartib,1981-01-01,fa,4.5,2.0
 30244,Kabul Express,2006-12-15,en,5.8,6.0
@@ -19815,7 +19690,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 47369,Avenger,2006-04-09,en,4.8,6.0
 75735,Zombie Apocalypse,2011-10-29,en,3.7,33.0
 55539,Zombie High,1987-10-02,en,3.8,6.0
-128917,Voodoo Dawn,1991-01-24,en,2.3,3.0
 106747,Machete Kills,2013-09-12,en,5.3,642.0
 99279,I am Fishead,2011-09-11,en,4.0,1.0
 85889,Filth,2013-09-23,en,6.8,628.0
@@ -19911,7 +19785,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 293412,Running Wild,1995-01-01,en,10.0,1.0
 40221,The Borrower,1991-01-01,en,4.3,10.0
 50441,Boulevard,1994-12-28,en,3.7,3.0
-82627,Man On a Mission: Richard Garriott's Road to the Stars,2010-03-14,en,5.0,1.0
 103195,The Substance: Albert Hofmann's LSD,2011-11-17,de,6.6,8.0
 19594,Bartok the Magnificent,1999-11-15,en,5.8,52.0
 80274,Ender's Game,2013-10-23,en,6.6,2354.0
@@ -19956,7 +19829,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 124075,More Than Honey,2012-08-10,en,6.9,35.0
 193212,The Man Who Captured Eichmann,1996-11-08,en,4.3,4.0
 16242,Les patriotes,1994-06-01,en,6.4,6.0
-91325,Looking for Lenny,2011-01-01,en,4.0,1.0
 156566,Red Garters,1954-02-09,en,0.0,0.0
 265727,Gang-jeok,2006-06-22,en,0.0,0.0
 162215,How I Live Now,2013-09-10,en,6.4,270.0
@@ -20004,7 +19876,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 191421,致我们终将逝去的青春,2013-04-25,zh,6.1,48.0
 243860,Anders als du und ich (§ 175),1957-08-29,de,5.5,2.0
 225703,The Starving Games,2013-11-07,en,4.1,219.0
-49914,W.C. Fields and Me,1976-03-31,en,8.0,1.0
 124581,Outside the Law,2002-06-25,en,3.1,6.0
 110674,Apache Territory,1958-09-01,en,4.7,3.0
 198365,Apartment 4E,2012-12-01,en,7.0,1.0
@@ -20157,7 +20028,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 90563,The April Fools,1969-05-23,en,6.0,3.0
 35637,Captain Abu Raed,2007-12-11,en,7.4,5.0
 264113,The Man You Had in Mind,2008-06-10,en,0.0,0.0
-86817,The Cosmonaut,2013-05-17,en,4.9,6.0
 184314,Jeune & Jolie,2013-08-20,fr,6.3,360.0
 48880,The Life & Adventures of Santa Claus,1985-12-17,en,7.0,2.0
 107916,Carmina o revienta.,2012-07-05,es,6.5,27.0
@@ -20379,7 +20249,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 259311,Opera Australia: The Pirates of Penzance,2006-01-01,en,0.0,0.0
 252385,American Addict,2012-05-18,en,6.3,5.0
 209504,Bounty Killer,2013-09-05,en,5.8,84.0
-53500,Lomalla,2000-12-01,en,5.6,5.0
 240629,The Class of '92,2013-12-01,en,7.1,35.0
 195269,12 Rounds 2: Reloaded,2013-06-01,en,5.6,101.0
 35718,Nuda per Satana,1974-10-30,en,3.9,13.0
@@ -20389,7 +20258,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 159024,Ass Backwards,2013-01-21,en,4.6,31.0
 84152,Dollman vs. Demonic Toys,1993-10-13,en,4.2,12.0
 66469,Dream Machine,1991-11-13,en,4.8,6.0
-44432,The Dungeon Masters,2008-09-08,en,6.0,5.0
 227348,Paranormal Activity: The Marked Ones,2014-01-01,en,5.2,455.0
 152603,Only Lovers Left Alive,2013-12-12,en,7.2,585.0
 101740,Inochi bô ni furô,1971-09-11,ja,0.0,0.0
@@ -20402,7 +20270,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 183654,गर्म हवा,1973-01-05,ur,6.2,3.0
 257618,Ditirambo,1969-03-12,es,5.0,1.0
 31013,Earth vs. the Spider,2001-10-07,en,5.0,17.0
-41932,Easy Wheels,1989-01-01,en,3.0,2.0
 54229,Köld slóð,2006-12-29,is,6.0,1.0
 83678,Glasblåsarns barn,1998-02-27,sv,6.0,3.0
 15826,Bag det stille ydre,2005-05-27,en,4.8,5.0
@@ -20908,7 +20775,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 3162,Blackenstein,1973-01-01,en,2.6,7.0
 24775,Blast,2004-01-01,en,4.6,12.0
 20695,Blessed,2004-05-16,en,5.8,5.0
-74579,Blessed & Cursed,2010-01-01,en,8.0,1.0
 82703,Mr. Peabody & Sherman,2014-02-07,en,6.7,861.0
 97370,Under the Skin,2014-03-14,en,6.0,1118.0
 136797,Need for Speed,2014-03-13,en,6.1,1560.0
@@ -20917,7 +20783,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 118769,You've Been Trumped,2012-07-06,en,6.7,16.0
 177494,Veronica Mars,2014-03-13,en,6.5,482.0
 40346,賭聖,1990-01-01,cn,6.9,17.0
-45514,8,2008-10-23,en,0.0,0.0
 109404,8,2012-03-03,en,7.0,1.0
 68827,"Elle boit pas, elle fume pas, elle drague pas, mais... elle cause !",1970-04-17,fr,5.5,3.0
 182827,舟を編む,2013-04-04,ja,7.6,12.0
@@ -20948,14 +20813,12 @@ movie_id,title,release_date,language,vote_average,vote_count
 134350,地獄でなぜ悪い,2013-09-14,ja,7.0,73.0
 236737,Ocho apellidos vascos,2014-03-14,es,6.8,220.0
 118915,Such Good Friends,1971-12-16,en,4.8,4.0
-116760,Sextette,1978-03-03,en,1.5,2.0
 39293,The Human Factor,1979-12-18,en,5.9,5.0
 101242,Love Simple,2009-07-31,en,0.0,0.0
 157690,Elle s'en va,2013-05-16,fr,6.1,24.0
 55825,Spider,2007-06-17,it,6.8,14.0
 72962,George & A.J.,2009-11-10,en,5.9,24.0
 186971,Michael Kohlhaas,2013-08-14,fr,6.0,63.0
-199740,Mig äger ingen,2013-11-08,sv,6.1,5.0
 214250,Cosmic Psychos: Blokes You Can Trust,2013-08-08,en,7.5,1.0
 86133,The Next Man,1976-11-10,en,6.5,2.0
 46460,Wanda Nevada,1979-06-01,en,6.5,9.0
@@ -21094,7 +20957,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 46667,Superdad,1973-12-14,en,4.8,4.0
 90590,Policewomen,1974-02-09,en,6.8,3.0
 77528,Bail Enforcers,2011-04-19,en,3.6,8.0
-44369,Boy,2009-01-01,en,5.0,3.0
 39214,"Boy, Did I Get a Wrong Number!",1966-06-08,en,5.4,7.0
 35057,Boys' Night Out,1962-06-21,en,5.9,7.0
 67633,Braća po materi,1988-09-10,sr,0.0,0.0
@@ -21433,7 +21295,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 227700,Mindscape,2013-10-13,en,6.5,202.0
 83406,Northeast,2012-01-12,en,0.0,0.0
 208182,Asylum,1997-05-09,en,0.0,0.0
-228028,Back in the Day,2014-01-07,en,5.4,9.0
 126676,Les toits de Paris,2007-08-10,fr,5.0,1.0
 114574,Bikini Spring Break,2012-06-26,en,3.8,20.0
 187017,22 Jump Street,2014-06-05,en,7.0,3375.0
@@ -21544,7 +21405,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 28440,Misterio en la isla de los monstruos,1981-04-03,en,4.8,4.0
 279661,Killer Legends,2014-07-01,en,5.7,30.0
 99647,ブルー,2002-09-09,ja,7.3,4.0
-108636,Blue,2003-02-07,en,0.0,0.0
 267999,Fehér Isten,2014-06-12,hu,6.6,105.0
 244786,Whiplash,2014-10-10,en,8.3,4376.0
 213635,Luther,1974-01-21,en,0.0,0.0
@@ -21554,7 +21414,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 152790,The Angriest Man in Brooklyn,2014-05-23,en,5.5,179.0
 250766,Life Itself,2014-07-04,en,7.7,160.0
 88059,Veljekset,2011-03-18,fi,0.0,0.0
-49445,Ride the Divide,2010-04-15,en,0.0,0.0
 250705,Finding Fela,2014-08-01,en,6.0,6.0
 159090,Duplicate,1998-05-08,hi,5.6,16.0
 257974,Missing William,2014-03-07,en,3.5,2.0
@@ -21595,7 +21454,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 209920,Finding Normal,2013-05-18,en,5.4,8.0
 85788,Margaret Thatcher: The Long Walk to Finchley,2008-01-01,en,7.0,1.0
 253235,And So It Goes,2014-07-20,en,5.7,166.0
-259233,呪怨: 終わりの始まり,2014-06-28,ja,6.0,20.0
 227877,Torment,2013-10-11,en,5.0,36.0
 254143,Healing,2014-04-03,en,6.6,8.0
 44588,Hellphone,2007-03-28,en,4.3,40.0
@@ -21660,7 +21518,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 113091,Lust for Love,2014-02-07,en,5.1,14.0
 136616,Anleitung zum Unglücklichsein,2012-11-29,de,6.7,4.0
 29313,Ella y el miedo,1964-06-17,en,0.0,0.0
-191293,Sorg og glæde,2013-09-25,da,7.8,9.0
 162372,Fugitivas,2000-10-06,en,0.0,0.0
 215848,La gran familia española,2013-09-13,en,6.1,36.0
 109913,California Conquest,1952-07-04,en,0.0,0.0
@@ -21761,7 +21618,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 286709,Revenge of the Green Dragons,2014-03-15,en,5.2,34.0
 53544,Unborn in the USA: Inside the War on Abortion,2007-06-15,en,7.0,1.0
 210739,Maniacts,2001-12-06,en,6.5,2.0
-54487,Cane Toads: The Conquest,2010-01-26,ru,6.8,8.0
 81543,So Much So Fast,2006-10-09,en,8.5,2.0
 143295,What About Dick?,2012-11-13,en,8.0,1.0
 193893,Let's Be Cops,2014-08-13,en,6.4,1234.0
@@ -21771,7 +21627,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 124069,Far Out Isn't Far Enough: The Tomi Ungerer Story,2012-10-15,en,7.2,3.0
 64129,D-Day The Sixth of June,1956-05-29,en,6.4,5.0
 30057,Direct from Brooklyn,1999-01-01,en,0.0,0.0
-57868,The Autobiography of Miss Jane Pittman,1974-01-01,en,3.3,4.0
 42796,The Strangler,1964-04-01,en,8.5,2.0
 146428,Ты и я,1971-10-25,en,7.0,3.0
 25032,Aleksandr. Nevskaya bitva,2008-05-01,en,3.8,2.0
@@ -21896,7 +21751,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 57277,Care Bears To the Rescue,2010-04-03,en,6.0,1.0
 107146,The Sell Out,1976-05-01,en,7.0,2.0
 52686,太陽の王子ホルスの大冒険,1968-07-24,ja,6.4,17.0
-124295,Anna: Ot shesti do vosemnadtsati,1994-02-16,en,3.8,4.0
 47860,Foutaises,1989-01-01,en,7.1,17.0
 238561,Return to Homs,2013-11-20,en,7.4,7.0
 204922,Before I Go to Sleep,2014-09-03,en,6.2,672.0
@@ -22052,7 +21906,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 190859,American Sniper,2014-12-11,en,7.4,4600.0
 263855,Fort Bliss,2014-09-05,en,6.3,29.0
 246403,Tusk,2014-09-19,en,5.1,374.0
-42416,Arrapaho,1984-01-01,it,4.5,4.0
 37630,Protektor,2009-09-22,en,5.1,5.0
 254375,Hector and the Search for Happiness,2014-08-14,en,6.9,317.0
 210911,殭屍,2013-09-06,cn,6.2,57.0
@@ -22136,7 +21989,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 146381,Justin and the Knights of Valour,2013-08-09,en,5.5,93.0
 108648,牡丹燈籠,1968-06-15,ja,10.0,1.0
 273641,Jackass Presents: Bad Grandpa .5,2014-06-03,en,5.8,90.0
-54113,The Swan Princess: Escape from Castle Mountain,1997-01-01,en,5.8,83.0
 34658,搏命單刀奪命搶,1979-08-09,cn,6.1,5.0
 62967,The Lady and the Reaper,2009-10-01,en,6.8,20.0
 48585,Ward 13,2003-01-01,en,8.2,5.0
@@ -22203,7 +22055,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 76207,Une partie de plaisir,1975-01-15,fr,0.0,0.0
 115214,My Father And The Man In Black,2013-09-06,en,7.0,1.0
 245844,Blind,2014-02-28,no,5.9,75.0
-118658,10 minuta,2002-01-01,bs,6.6,7.0
 292445,(Entlastungen) Pipilottis Fehler,1988-01-13,en,0.0,0.0
 224946,Motivational Growth,2013-02-15,en,8.5,4.0
 74790,"Dance Party, USA",2006-03-12,en,5.3,6.0
@@ -22224,7 +22075,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 2813,Violette Nozière,1978-05-24,fr,6.4,15.0
 242512,Ouija,2014-10-24,en,4.9,1006.0
 273997,Stop at Nothing: The Lance Armstrong Story,2014-05-27,en,7.0,25.0
-250578,Swedish House Mafia - Leave the World Behind,2014-03-12,en,7.3,21.0
 274127,A Star for Two,1991-08-10,es,0.0,0.0
 15021,La habitación del niño - Películas para no dormir,2006-07-31,es,6.3,32.0
 46314,Jungledyret Hugo 2: Den store filmhelt,1996-12-20,da,4.9,7.0
@@ -22539,7 +22389,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 28768,Faceless,1987-09-01,en,6.2,5.0
 85162,Deadly Dreams,1988-10-26,en,6.0,1.0
 78522,Prime Evil,1988-01-01,en,4.6,4.0
-65214,Dead Hooker in a Trunk,2009-04-20,en,5.6,8.0
 56929,Elle: A Modern Cinderella Tale,2011-04-26,en,4.6,22.0
 40644,座頭市,1989-02-04,ja,6.2,14.0
 103236,ज़ंजीर,1973-05-11,hi,6.3,8.0
@@ -23016,7 +22865,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 23076,"Texas, Addio",1966-08-28,it,4.0,4.0
 99261,Solamente nero,1978-06-02,it,7.3,3.0
 46570,Oggi a me... domani a te!,1968-03-28,it,5.6,12.0
-124207,Il diavolo e l'acquasanta,1983-09-01,it,5.0,1.0
 89652,Quelli della calibro 38,1976-07-24,it,0.0,0.0
 42438,Ricky e Barabba,1992-12-19,it,5.7,41.0
 99361,Sechs Schwedinnen von der Tankstelle,1980-09-19,de,3.7,3.0
@@ -23121,7 +22969,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 172391,Khumba,2013-07-18,en,5.8,74.0
 252171,A Girl Walks Home Alone at Night,2014-01-19,en,6.9,258.0
 30174,1981,2009-09-04,fr,6.9,12.0
-280218,1987,2014-08-06,fr,6.8,6.0
 182528,Crimi Clowns: De Movie,2013-04-03,en,6.0,4.0
 20147,Dave Chappelle: For What it's Worth,2004-09-04,en,8.2,23.0
 34505,Bill Hicks: Relentless,1992-01-01,en,8.7,16.0
@@ -23148,7 +22995,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 94818,The Aggression Scale,2012-05-29,en,6.1,28.0
 162755,Le merle,1959-06-05,fr,5.5,2.0
 223243,A Phantasy,1952-01-01,en,6.6,5.0
-51406,Neighbours,1952-01-01,en,7.8,19.0
 214948,New York Lightboard Record,1961-01-01,en,0.0,0.0
 218658,Lines: Horizontal,1962-01-01,en,5.5,2.0
 211017,Mosaic,1965-07-29,en,4.7,3.0
@@ -23261,7 +23107,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 168408,Esther and the King,1960-11-18,en,5.5,2.0
 36294,Evasive Action,1998-01-01,en,5.0,1.0
 11612,Anche gli angeli mangiano fagioli,1973-03-22,it,6.2,43.0
-114285,Todos tenemos un plan,2012-08-30,en,4.8,11.0
 82676,Everyday Sunshine:  The Story of Fishbone,2011-10-07,en,8.0,1.0
 225898,Exit to Hell,2013-09-30,en,4.5,2.0
 63727,Exorcismus,2010-12-29,en,5.3,49.0
@@ -23414,7 +23259,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 240881,Free Ride,2013-10-10,en,5.4,19.0
 274478,Freedom Strike,1998-09-26,en,4.8,4.0
 56539,Friday Foster,1975-12-25,en,5.8,13.0
-106136,Chasing Shakespeare,2014-02-03,en,0.5,2.0
 49391,From Time to Time,2009-01-01,en,6.2,24.0
 16365,Futuresport,1998-01-09,en,4.5,18.0
 142012,Gang in Blue,1996-09-08,en,6.0,1.0
@@ -23554,7 +23398,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 255456,Sotto una buona stella,2014-02-13,it,5.9,74.0
 43477,Shinbone Alley,1970-06-26,en,0.0,0.0
 261768,Lullaby,2014-06-13,en,5.3,20.0
-199925,喰女 ―クイメ―,2014-08-23,ja,7.1,12.0
 211710,Spacerek staromiejski,1958-12-31,en,7.0,1.0
 267872,Korengal,2014-05-30,en,7.1,27.0
 38187,The Hire: Powder Keg,2001-01-01,en,6.8,18.0
@@ -23711,7 +23554,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 209369,Into the Sun,1992-01-01,en,4.2,6.0
 177566,Jack the Giant Killer,2013-03-12,en,3.2,27.0
 23178,Elvis and Me,1988-02-07,en,3.5,2.0
-86131,Child of Rage,1992-09-24,en,4.8,8.0
 61550,Christmas Every Day,1996-11-30,en,5.8,7.0
 15671,Picture This,2008-07-13,en,5.4,109.0
 64084,Scorned,1994-07-13,en,4.9,7.0
@@ -23825,7 +23667,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 100540,The Kill Hole,2012-08-28,en,4.9,4.0
 55190,Princess and the Pony,2011-01-25,en,4.7,5.0
 37462,Wicked as They Come,1956-05-22,en,7.0,2.0
-79327,The Littlest Angel,2011-11-07,en,8.5,2.0
 133716,Valley of Head Hunters,1953-07-29,en,0.0,0.0
 220504,Voodoo Tiger,1952-11-15,en,0.0,0.0
 39442,Sergio,2009-01-20,en,0.0,0.0
@@ -24022,7 +23863,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 4529,The Defector,1966-10-20,en,7.0,2.0
 218443,Ночной продавец,2005-01-20,ru,5.9,4.0
 79190,Jabberwock,2011-09-09,en,3.0,5.0
-78094,Sunday Too Far Away,1975-06-01,en,6.5,2.0
 1790,Heaven with a Gun,1969-05-20,en,4.3,4.0
 112648,Stranded,2002-01-20,en,3.8,5.0
 44663,Moscow Chill,2007-01-01,en,3.5,5.0
@@ -24097,13 +23937,10 @@ movie_id,title,release_date,language,vote_average,vote_count
 271969,Ben-Hur,2016-08-17,en,5.3,642.0
 68735,Warcraft,2016-05-25,en,6.3,2325.0
 99861,Avengers: Age of Ultron,2015-04-22,en,7.3,6908.0
-76600,Avatar 2,2020-12-16,en,0.0,58.0
 166426,Pirates of the Caribbean: Dead Men Tell No Tales,2017-05-23,en,6.6,2814.0
-141052,Justice League,2017-11-15,en,0.0,0.0
 102899,Ant-Man,2015-07-14,en,7.0,6029.0
 166424,Fantastic Four,2015-08-05,en,4.4,2322.0
 293660,Deadpool,2016-02-09,en,7.4,11444.0
-284053,Thor: Ragnarok,2017-10-25,en,0.0,0.0
 283995,Guardians of the Galaxy Vol. 2,2017-04-19,en,7.6,4858.0
 271110,Captain America: Civil War,2016-04-27,en,7.1,7462.0
 284052,Doctor Strange,2016-10-25,en,7.1,5880.0
@@ -24207,7 +24044,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 43311,The Opposite Sex,1956-10-26,en,5.5,5.0
 228676,Mischief Night,2013-10-30,en,4.4,32.0
 226672,Legendary: Tomb of the Dragon,2013-05-16,en,4.0,22.0
-44507,Red Riding Hood,2006-06-27,en,4.2,5.0
 47536,Hitler: The Last Ten Days,1973-04-19,en,6.6,9.0
 38808,The Man from the Alamo,1953-08-07,en,6.4,8.0
 79892,La Tour de Nesle,1955-03-18,fr,5.3,2.0
@@ -24507,7 +24343,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 114570,Οι κυνηγοί,1977-10-19,el,6.0,2.0
 167198,The Midnight Game,2013-03-02,en,2.4,6.0
 173488,Spark: A Burning Man Story,2013-08-16,en,6.1,4.0
-106446,Todo lo que tú quieras,2010-09-10,en,6.5,4.0
 90291,Stalker,2010-10-17,en,4.3,8.0
 208434,The Scarlet Coat,1955-07-28,en,6.0,2.0
 65482,Tilaï,1990-09-24,fr,5.8,4.0
@@ -24530,7 +24365,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 38964,Stolen Face,1952-05-01,en,3.5,3.0
 72946,I Will Follow,2010-09-18,en,6.4,5.0
 63612,Bienvenido a casa,2006-04-07,es,5.0,1.0
-102256,Marianne,2011-11-04,en,5.3,2.0
 87820,Uncle Kent,2011-01-17,en,6.1,6.0
 129553,Song Without End,1960-08-11,en,5.2,3.0
 94510,The Crowded Sky,1960-09-02,en,6.0,1.0
@@ -24700,7 +24534,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 208495,Mission Park,2013-09-06,en,5.1,5.0
 92635,Snow White: A Deadly Summer,2012-03-16,en,4.8,11.0
 71511,Medium Raw,2010-08-06,en,3.9,7.0
-46869,Love on the Side,2004-09-30,en,5.7,6.0
 75012,Three Violent People,1957-02-09,fr,5.1,7.0
 37123,The Sheriff of Fractured Jaw,1958-10-28,en,7.1,8.0
 24002,Let's Make It Legal,1951-10-31,en,6.2,3.0
@@ -24901,7 +24734,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 48874,A Flintstones Christmas Carol,1994-11-24,en,5.3,14.0
 36129,Ёжик в тумане,1975-10-23,ru,7.4,44.0
 53543,Claymation Comedy of Horrors,1991-05-29,en,10.0,1.0
-104062,Síðasti bærinn,2004-08-21,en,7.6,7.0
 93904,Snowballs,2011-09-26,en,6.0,7.0
 36003,"Danger! 50,000 Zombies",2004-01-01,en,8.0,2.0
 69168,Stella: Live in Boston,2009-08-13,en,5.0,1.0
@@ -24941,7 +24773,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 44349,The Christmas Wish,1998-12-06,en,3.1,4.0
 201859,The Sex and Violence Family Hour,1983-01-01,en,0.0,0.0
 33489,Tout ça... pour ça !,1993-01-01,fr,6.3,5.0
-54052,Who Do I Gotta Kill?,1994-07-07,en,3.7,3.0
 105114,Rivelazioni di un maniaco sessuale al capo della squadra mobile,1972-07-18,en,7.0,5.0
 260884,Imputazione di omicidio per uno studente,1972-02-04,it,0.0,0.0
 60009,The Shadow Men,1997-09-24,en,3.6,4.0
@@ -25049,7 +24880,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 9948,The Fox and the Hound 2,2006-11-09,en,5.6,115.0
 293461,Monsterimies,2014-09-26,en,0.0,0.0
 12575,Long Hello and Short Goodbye,1999-07-15,de,0.0,0.0
-41571,The Heart of the World,2000-09-07,xx,7.6,22.0
 317384,P'tit Quinquin,2014-09-18,fr,7.9,16.0
 81981,Flicka och hyacinter,1950-03-06,sv,7.5,4.0
 80337,These Amazing Shadows,2011-01-22,en,7.5,25.0
@@ -25095,7 +24925,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 1871,Fantômas,1964-11-04,fr,6.8,125.0
 1870,Fantômas se déchaîne,1965-12-07,fr,6.7,77.0
 1875,Fantômas contre Scotland Yard,1967-03-16,fr,6.9,83.0
-60769,Radiopiratene,2007-09-14,en,0.0,0.0
 92,Megacities,1998-08-12,en,7.0,3.0
 20875,Операция «Ы» и другие приключения Шурика,1965-07-23,ru,7.5,36.0
 86823,ある脅迫,1960-03-23,ja,7.2,5.0
@@ -25171,7 +25000,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 307946,I Smile Back,2015-10-23,en,5.6,44.0
 308369,Me and Earl and the Dying Girl,2015-06-12,en,7.7,962.0
 308024,The Overnight,2015-06-19,en,6.1,131.0
-308027,"People, Places, Things",2015-08-14,en,6.8,63.0
 294132,Results,2015-05-29,en,5.2,66.0
 308640,Songs My Brothers Taught Me,2015-01-27,en,6.7,9.0
 308032,The Stanford Prison Experiment,2015-07-17,en,6.8,254.0
@@ -25416,7 +25244,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 158933,Charlie Victor Romeo,2014-01-29,en,6.0,1.0
 138394,Monty Python - Almost the Truth (The Lawyer's Cut),2009-10-04,en,7.0,2.0
 261814,Super Duper Alice Cooper,2014-04-17,en,6.4,6.0
-82649,Lunopolis,2009-01-01,en,5.3,11.0
 238792,The Mayor of Casterbridge,2003-12-28,en,6.3,3.0
 270045,Beck 04 - Öga för öga,1998-03-27,sv,6.3,6.0
 36769,Uuno Epsanjassa,1985-09-27,fi,6.5,8.0
@@ -25429,7 +25256,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 106622,Mark il poliziotto,1975-08-01,it,0.0,0.0
 106623,Mark il poliziotto spara per primo,1975-12-22,it,0.0,0.0
 196847,La Legge Violenta Della Squadra Anticrimine,1976-12-30,it,0.0,0.0
-90802,Il conto è chiuso,1976-12-30,en,0.0,0.0
 69569,Mark colpisce ancora,1976-10-20,it,0.0,0.0
 52912,La Banda Del Trucido,1977-10-01,it,7.5,2.0
 95096,Poliziotto sprint,1977-10-19,en,7.5,2.0
@@ -25566,11 +25392,9 @@ movie_id,title,release_date,language,vote_average,vote_count
 38421,Les félins,1964-06-12,fr,6.8,6.0
 142979,Che gioia vivere,1961-05-11,it,6.2,3.0
 163333,Monsieur Ripois,1954-09-30,fr,2.5,2.0
-44541,Reformat the Planet,2008-01-01,en,8.0,1.0
 131507,Scandali nudi,1968-12-22,it,0.0,0.0
 213831,Drew: The Man Behind the Poster,2013-08-16,en,7.5,11.0
 105403,Diamanti sporchi di sangue,1977-01-01,en,0.0,0.0
-127092,Gli amici di Nick Hezard,1976-09-14,en,8.5,2.0
 66178,Plastic Bag,2009-09-07,en,7.5,13.0
 206296,The Last Five Years,2014-11-03,en,5.5,145.0
 11925,Naken,2000-12-15,sv,5.0,4.0
@@ -25626,7 +25450,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 52868,House IV,1992-01-21,en,3.6,15.0
 134656,I Love Sarah Jane,2008-01-01,en,5.1,7.0
 42153,Céleste,1981-09-18,en,5.0,1.0
-42081,Zuckerbaby,1985-10-01,de,6.0,4.0
 83209,Mahler auf der Couch,2010-06-24,de,7.7,3.0
 70322,Gamera tai Shinkai kaijû Jigura,1971-07-17,ja,3.2,8.0
 15567,Stitch! The Movie,2003-08-26,en,6.2,112.0
@@ -25737,7 +25560,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 118390,Le malizie di Venere,1969-11-25,it,0.0,0.0
 104935,La morte non ha sesso,1968-08-11,it,5.4,4.0
 90015,Bandidos,1967-10-15,it,6.3,6.0
-41934,Heavy Petting,1989-01-01,en,0.0,0.0
 204090,If You Don't Stop It...You'll Go Blind!!!,1975-02-01,en,0.0,0.0
 125472,In God We Teach,2011-11-01,en,4.0,1.0
 21742,Into the Deep,1994-11-02,en,4.8,3.0
@@ -25786,11 +25608,9 @@ movie_id,title,release_date,language,vote_average,vote_count
 115972,Sword of Sherwood Forest,1960-12-26,en,5.4,7.0
 28771,The Masks of Death,1984-12-23,en,6.5,2.0
 201124,Vuonna 85,2013-01-24,fi,6.1,4.0
-40419,"Tel père, telle fille",2007-08-01,en,3.8,4.0
 13643,George Carlin: It's Bad for Ya!,2008-03-01,en,8.1,33.0
 65534,La poison,1951-11-30,fr,5.1,7.0
 70989,Pardonnez-moi,2006-11-22,fr,7.0,7.0
-59163,Papa,2005-06-01,en,6.1,11.0
 38017,Letters From a Killer,1998-08-21,en,5.0,22.0
 54064,Je m'appelle Elisabeth,2006-11-15,fr,5.5,2.0
 10119,Ikke naken,2004-08-27,no,5.0,2.0
@@ -25803,7 +25623,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 233863,Jimi Hendrix: Hear My Train A Comin',2013-11-05,en,6.6,12.0
 69517,Mort d'un pourri,1977-12-07,fr,6.2,15.0
 160874,The Third Reich: The Rise & Fall,2010-12-14,en,9.0,4.0
-220620,Ismael,2013-12-26,es,5.9,16.0
 290764,Tracers,2015-01-15,en,5.9,437.0
 228203,"McFarland, USA",2015-02-20,en,7.4,216.0
 105156,Un fiocco nero per Deborah,1974-09-01,it,0.0,0.0
@@ -25951,9 +25770,7 @@ movie_id,title,release_date,language,vote_average,vote_count
 110965,Après le sud,2011-05-19,en,4.5,4.0
 297850,Heat Wave,1990-08-13,en,0.0,0.0
 32941,The House Across the Lake,1954-04-16,en,6.0,2.0
-76794,Heaven Is a Playground,1991-10-04,en,6.5,2.0
 179715,Meleğin Düşüşü,2005-02-03,en,5.0,1.0
-48719,Illegally Yours,1988-01-01,en,4.0,3.0
 40681,Jailbait!,2000-04-16,en,4.7,3.0
 71507,Jailbait,2004-05-03,en,0.0,0.0
 39001,My Teacher's Wife,1999-11-10,en,5.6,9.0
@@ -25997,7 +25814,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 328233,India's Daughter,2015-03-08,en,8.3,13.0
 47467,Kill Speed,2010-07-02,en,3.7,9.0
 221488,8 Minutes Idle,2012-03-29,en,5.4,7.0
-69999,Absolute Aggression,2004-02-17,en,1.0,1.0
 121830,Mr. Pip,2012-09-08,en,6.0,21.0
 39522,Mega Piranha,2010-04-10,en,3.0,52.0
 154140,Men in White,1998-08-16,en,2.5,2.0
@@ -26008,7 +25824,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 25055,Transmorphers,2007-06-26,en,2.2,22.0
 101904,À travers la forêt,2005-10-12,fr,6.0,3.0
 31347,劇場版 カードキャプターさくら 封印されたカード,2000-07-15,ja,8.0,24.0
-71591,The Linguists,2008-01-17,en,8.0,2.0
 40261,Il gatto dagli occhi di giada,1977-08-06,it,6.7,3.0
 264321,A Rumor Of War,1980-09-24,en,0.0,1.0
 102938,Trackdown,1976-05-20,en,0.0,0.0
@@ -26030,7 +25845,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 257444,The Boy,2015-08-14,en,5.7,58.0
 322378,Filip & Fredrik presenterar Trevligt folk,2015-01-28,sv,9.0,2.0
 272634,Cirkeln,2015-02-18,sv,5.5,34.0
-100205,Baby Snakes,1979-12-21,en,8.3,2.0
 271674,Suite Française,2014-11-05,en,7.1,284.0
 59414,The Concert for Bangladesh,1972-03-23,en,7.1,5.0
 267481,Кухня в Париже,2014-05-01,ru,6.5,16.0
@@ -26201,7 +26015,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 322518,The Intruders,2015-02-24,en,4.7,46.0
 161064,Filmistaan,2012-07-10,en,7.0,3.0
 305091,That Sugar Film,2014-07-31,en,6.5,61.0
-130100,The Brass Legend,1956-12-01,en,7.0,2.0
 53915,Come te nessuno mai,1999-10-01,en,5.5,31.0
 328032,Mara und der Feuerbringer,2015-04-02,de,5.5,13.0
 96217,La liga no es cosa de hombres,1972-04-03,en,0.0,0.0
@@ -26240,7 +26053,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 71191,La Planque,2011-09-06,fr,7.9,4.0
 15713,La Première étoile,2009-01-01,fr,5.6,58.0
 10659,Siegfried,2005-07-28,de,3.7,12.0
-96872,Superstar Goofy,1991-01-01,it,4.8,4.0
 48411,어깨너머의 연인,2007-10-18,ko,3.0,1.0
 1615,Erkan & Stefan gegen die Mächte der Finsternis,2002-06-20,de,4.1,8.0
 1616,Erkan & Stefan in Der Tod kommt krass,2005-05-19,de,3.8,8.0
@@ -26263,7 +26075,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 51880,Oscar et la dame Rose,2009-11-15,en,6.7,26.0
 258751,Por un puñado de besos,2014-05-16,es,5.4,10.0
 208982,Vietnam in HD,2011-11-08,en,8.1,6.0
-56771,WWII IN HD,2009-11-15,en,6.0,4.0
 254578,Phoenix,2014-09-25,de,6.4,147.0
 328595,Parallels,2015-03-01,en,6.2,148.0
 160171,پرده,2013-02-12,fa,7.4,5.0
@@ -26290,7 +26101,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 9274,"Feuer, Eis & Dosenbier",2002-02-21,de,4.4,7.0
 285213,해적: 바다로 간 산적,2014-08-06,ko,6.4,45.0
 32099,Rentun Ruusu,2001-01-01,fi,6.6,5.0
-286971,Innocence,2014-09-05,en,4.3,13.0
 47745,Southside 1-1000,1950-11-16,en,5.0,1.0
 290864,一個人的武林,2014-10-31,cn,6.5,117.0
 22489,Last Flight Out,2004-05-06,en,0.0,0.0
@@ -26398,7 +26208,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 142216,Quarterback Princess,1983-12-03,en,5.3,4.0
 117509,Wimps,1986-01-01,en,5.0,1.0
 46578,The Great American Girl Robbery,1979-09-01,en,2.7,3.0
-62545,Casomai,2002-01-01,it,6.0,9.0
 177354,Stud Life,2012-03-22,en,5.0,1.0
 27200,Sherlock Holmes in New York,1976-10-18,en,6.0,5.0
 12601,Garden of Love,2003-03-03,de,3.8,5.0
@@ -26540,7 +26349,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 294083,Dead Girls,2014-09-21,en,2.5,2.0
 37582,Sleeping Dogs,1977-10-06,en,5.7,5.0
 322460,Crooks and Coronets,1969-04-02,en,10.0,1.0
-107525,Saippuaprinssi,2006-02-10,fi,0.0,0.0
 255157,The Forger,2014-09-10,en,5.4,124.0
 167221,Viva la libertà,2013-02-13,it,7.2,42.0
 229328,Electricity,2014-12-12,en,5.8,16.0
@@ -26665,7 +26473,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 96337,Zandy's Bride,1974-05-19,en,5.8,6.0
 55044,Cisco Pike,1972-01-14,en,4.6,4.0
 85644,Riot,1969-01-15,en,6.0,2.0
-84511,Banning,1967-12-13,en,0.0,0.0
 144498,To Find a Man,1972-01-31,en,5.0,1.0
 290865,타짜: 신의 손,2014-09-03,ko,7.3,25.0
 75989,Vita frun,1962-07-02,sv,6.0,2.0
@@ -26751,7 +26558,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 252845,I prosseneti,1976-04-28,it,0.0,0.0
 250349,Barbecue,2014-04-30,fr,5.8,217.0
 50113,Malice@Doll,2004-10-29,ja,4.7,3.0
-108309,Retratos en un mar de mentiras,2010-05-21,es,7.0,1.0
 261860,Dior and I,2015-03-27,en,7.3,50.0
 312793,Walking with the Dead,2015-03-20,en,4.2,35.0
 192712,Kite,2014-06-13,en,4.2,98.0
@@ -26787,7 +26593,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 56555,Life Support,2007-03-10,en,3.5,2.0
 52702,Superstition,1982-08-26,en,6.9,23.0
 204686,Ten Thousand Bedrooms,1957-04-03,en,5.5,2.0
-134608,El valle de las espadas,1963-04-13,es,0.0,0.0
 170315,The Ceremony,1963-12-18,en,4.8,2.0
 309889,The Culling,2015-03-15,en,4.0,20.0
 18819,The Hunt for Eagle One,2006-01-17,en,4.7,6.0
@@ -27106,7 +26911,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 305088,露水紅顏,2014-11-07,zh,0.0,0.0
 245846,Strangerland,2015-07-01,en,5.1,90.0
 31139,Служебный роман,1977-10-26,ru,8.1,47.0
-123969,The Backwater Gospel,2011-01-01,en,7.9,8.0
 42279,Самогонщики,1962-01-08,ru,7.6,20.0
 191608,Гарпастум,2005-10-27,ru,1.0,2.0
 78478,On ne choisit pas sa famille,2011-11-09,fr,5.8,48.0
@@ -27289,7 +27093,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 261419,No Trees in the Street,1959-01-01,en,6.0,2.0
 198312,A Man Could Get Killed,1966-03-25,en,5.0,1.0
 21297,Wake Up Sid,2009-10-02,hi,6.8,32.0
-46406,Mission Kashmir,2000-10-27,hi,5.8,15.0
 21175,Lakshya,2004-06-18,hi,6.7,29.0
 21567,Iqbal,2005-08-26,en,6.5,20.0
 51216,Ghulam,1998-06-19,en,6.1,17.0
@@ -27352,14 +27155,12 @@ movie_id,title,release_date,language,vote_average,vote_count
 26861,The Ministers,2009-10-16,en,5.0,11.0
 229702,Zephyr Springs,2013-06-01,en,4.1,8.0
 58611,È arrivato mio fratello,1985-03-19,it,5.4,18.0
-43211,7 chili in 7 giorni,1986-01-01,it,5.9,42.0
 38262,Grandi magazzini,1986-01-01,it,5.4,61.0
 58615,Noi uomini duri,1987-01-01,it,5.4,19.0
 58613,Roba da ricchi,1987-11-13,it,5.5,17.0
 57918,Da grande,1987-12-23,it,5.7,28.0
 43646,Le comiche,1990-01-01,it,5.7,59.0
 173177,Piedipiatti,1990-03-03,it,6.5,16.0
-43648,Le comiche 2,1991-10-19,it,5.5,47.0
 61303,Infelici e contenti,1992-12-18,it,4.6,21.0
 43649,Le nuove comiche,1994-01-01,it,5.0,32.0
 75001,Mollo tutto,1995-03-31,it,4.5,4.0
@@ -27385,9 +27186,7 @@ movie_id,title,release_date,language,vote_average,vote_count
 264525,La dictadura perfecta,2014-10-16,es,7.1,42.0
 268100,Casa Grande,2014-01-28,pt,7.3,23.0
 280276,Turtle Power: The Definitive History of the Teenage Mutant Ninja Turtles,2014-08-12,en,7.0,6.0
-86700,The Race Begins,2006-01-26,en,1.0,2.0
 222936,Aloha,2015-05-27,en,5.2,704.0
-44486,Mars,2010-11-03,en,5.5,4.0
 39309,Wonderwall,1968-05-17,en,5.7,6.0
 132551,Ljudožder vegetarijanac,2012-03-01,hr,4.5,4.0
 34449,Bitka na Neretvi,1969-10-07,sr,6.2,11.0
@@ -27543,7 +27342,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 15956,Hjemve,2007-03-30,da,5.0,1.0
 192028,Remote Area Medical,2013-04-06,en,0.0,0.0
 154793,The Listening Project,2008-02-08,en,4.0,1.0
-87851,New Muslim Cool,2009-10-14,en,0.0,0.0
 39060,Ada Apa Dengan Cinta?,2002-02-08,id,7.6,12.0
 5302,Without You I'm Nothing,1990-05-11,en,5.0,1.0
 107052,Cafè Express,1981-02-25,it,5.7,5.0
@@ -27572,7 +27370,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 105616,In nome del popolo sovrano,1990-12-21,it,0.0,0.0
 186630,Il Gaucho,1964-01-01,it,7.8,2.0
 81871,Le Bambole,1965-01-27,it,6.0,1.0
-61911,Alta infedeltà,1964-01-22,it,0.0,0.0
 221527,La Parmigiana,1963-09-14,it,0.0,0.0
 99916,I Motorizzati,1962-11-29,it,6.0,1.0
 63687,Circo,2011-04-01,en,7.5,2.0
@@ -27592,7 +27389,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 257344,Pixels,2015-07-16,en,5.6,2564.0
 262504,Allegiant,2016-03-09,en,5.9,2064.0
 259316,Fantastic Beasts and Where to Find Them,2016-11-16,en,7.2,5612.0
-38700,Bad Boys for Life,2018-11-07,en,0.0,12.0
 270919,Elle l'adore,2014-06-18,fr,6.0,77.0
 321315,Gia panta,2014-11-14,el,5.0,1.0
 25506,Slightly Scarlet,1956-02-29,en,6.2,6.0
@@ -27682,7 +27478,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 200938,Intangible Asset Number 82,2008-06-12,en,1.0,1.0
 76112,Jig,2011-11-30,en,8.0,1.0
 220782,Eco-Pirate: The Story of Paul Watson,2011-11-10,en,0.0,0.0
-128121,The Last White Knight,2012-09-11,en,6.0,1.0
 113284,"The Farm: Angola, USA",1998-01-17,en,7.6,5.0
 220731,Le métis de Dieu,2013-01-24,en,6.8,2.0
 315893,Khab-e talkh,2004-05-14,en,4.5,2.0
@@ -27693,7 +27488,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 172014,Underground,1976-05-09,en,0.0,0.0
 60142,Edifício Master,2002-11-22,pt,6.6,11.0
 85739,A.C.A.B.: All Cops Are Bastards,2012-01-27,it,6.7,163.0
-319188,Frankenstein vs. The Mummy,2015-02-10,en,3.9,8.0
 57011,Alien vs. Ninja,2010-07-03,en,4.0,24.0
 18839,攻殻機動隊 Stand Alone Complex The Laughing Man,2005-01-01,ja,7.9,31.0
 153153,Pablo,2012-10-17,en,6.3,2.0
@@ -27725,7 +27519,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 28851,Video Violence,1987-01-01,en,6.2,5.0
 238615,Self/less,2015-07-10,en,6.3,1122.0
 321068,Mythica: A Quest for Heroes,2014-12-08,en,5.7,53.0
-245842,The King's Daughter,2017-12-30,en,0.0,4.0
 78338,Alex Holeh Ahavah,1986-01-01,en,4.9,5.0
 212934,Behind the Camera: The Unauthorized Story of 'Mork & Mindy',2005-04-14,en,0.0,1.0
 25318,Escape from Sobibor,1987-04-12,en,6.7,50.0
@@ -27733,7 +27526,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 274854,The Last Witch Hunter,2015-10-21,en,5.7,1345.0
 287903,Krampus,2015-11-26,en,5.9,601.0
 297761,Suicide Squad,2016-08-02,en,5.9,7717.0
-335676,Aurora,2016-06-10,en,4.5,3.0
 44511,Noodle,2007-07-26,en,7.1,5.0
 300900,Ardennes Fury,2014-11-11,en,4.9,21.0
 21840,The Misfit Brigade,1987-07-02,en,6.4,11.0
@@ -27895,7 +27687,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 40793,The Nickel Ride,1975-01-15,en,5.3,3.0
 42685,The Stalking Moon,1968-12-25,en,4.6,13.0
 63887,The Great Impostor,1961-03-01,en,7.5,2.0
-172457,Afterparty,2013-09-13,en,3.9,10.0
 227690,"A la legión le gustan las mujeres... y a las mujeres, les gusta la legión",1976-03-16,es,0.0,0.0
 264085,भूतनाथ रिटर्न्स,2014-04-11,hi,6.7,16.0
 139075,Dance Me to My Song,1998-10-20,en,5.5,2.0
@@ -28141,8 +27932,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 46983,Le chant du Styrène,1959-09-30,fr,5.8,5.0
 162320,L'amour existe,1960-02-11,fr,5.0,1.0
 44461,Charlotte et son Jules,1960-10-21,en,6.2,6.0
-49097,Urzad,1966-01-01,pl,6.0,5.0
-49112,Tramwaj,1966-01-01,pl,5.8,6.0
 227679,神速のゲノセクト ミュウツー覚醒,2013-07-13,ja,5.9,27.0
 39057,アルセウス 超克の時空へ,2009-07-18,ja,6.7,35.0
 25961,ディアルガVSパルキアVSダークライ,2007-07-14,ja,6.4,41.0
@@ -28297,7 +28086,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 168361,Murder in New Hampshire: The Pamela Wojas Smart Story,1991-09-23,en,4.6,5.0
 279692,Murder Without Motive: The Edmund Perry Story,1992-01-06,en,0.0,0.0
 29597,Mutator,1989-05-15,en,3.3,4.0
-71687,My Life's in Turnaround,1994-06-17,en,6.0,2.0
 4645,Ödipussi,1988-03-10,de,6.7,36.0
 52653,Jinn,2014-04-04,en,3.7,31.0
 287793,Cam2Cam,2014-08-22,en,3.8,14.0
@@ -28371,7 +28159,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 46106,キャタピラー,2010-08-14,ja,7.6,7.0
 74666,Kalat Hayam,2009-06-10,he,5.0,6.0
 73329,Let the Women Wait,1998-01-01,en,6.2,3.0
-250376,Beside Still Waters,2013-10-12,en,0.0,0.0
 143144,Justice Is Mind,2013-08-18,en,0.0,0.0
 37413,Down Three Dark Streets,1954-09-02,en,6.0,1.0
 43773,Istgah-Matrouk,2002-01-01,fa,6.3,3.0
@@ -28438,7 +28225,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 39408,The Creature Walks Among Us,1956-04-26,en,5.5,12.0
 251671,Hartenstraat,2014-03-13,nl,6.7,7.0
 102016,Swimming Upstream,2002-01-01,en,0.0,0.0
-45302,The Chaos Factor,2000-01-01,en,5.0,2.0
 86326,Phantom of the Mall: Eric's Revenge,1989-12-01,en,2.5,2.0
 124042,Buried Secrets,1996-11-04,en,4.0,2.0
 202722,"Inara, the Jungle Girl",2012-01-26,en,4.0,8.0
@@ -28652,7 +28438,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 333594,Echoes Of War,2015-05-15,en,6.5,15.0
 285783,The Walk,2015-09-30,en,6.9,1151.0
 300671,13 Hours: The Secret Soldiers of Benghazi,2016-01-13,en,7.0,963.0
-324670,Spectral,2016-12-09,en,6.3,453.0
 273169,Sous les jupes des filles,2014-06-04,fr,5.6,127.0
 74645,Mondo Candido,1975-02-21,en,4.5,2.0
 134679,Pronto ad uccidere,1976-10-08,it,5.0,1.0
@@ -28691,7 +28476,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 23509,Italians,2009-01-01,en,5.3,48.0
 73869,L'ultimo terrestre,2011-09-09,it,5.5,5.0
 46128,La bella società,2009-05-21,it,4.0,2.0
-57713,La scuola è finita,2010-11-12,it,6.8,3.0
 77944,La peggior settimana della mia vita,2011-10-27,it,5.9,96.0
 58518,La vita facile,2011-03-04,it,6.1,21.0
 22182,Lezioni di cioccolato,2007-11-23,en,5.8,42.0
@@ -28755,7 +28539,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 57110,Il portaborse,1991-04-05,it,7.2,6.0
 58714,Due partite,2009-01-01,it,6.6,15.0
 62349,Alza la testa,2009-11-06,it,6.8,3.0
-84739,Liberi,2003-01-01,en,6.0,3.0
 42675,Genitori & figli:) - Agitare bene prima dell'uso,2010-02-26,it,5.4,39.0
 56994,La seconda notte di nozze,2005-11-11,it,6.4,8.0
 51917,Tutta la vita davanti,2008-03-28,it,6.5,65.0
@@ -28780,9 +28563,7 @@ movie_id,title,release_date,language,vote_average,vote_count
 257975,After Death,2012-10-05,en,4.3,2.0
 301748,Opposite Sex,2014-11-08,en,4.1,9.0
 82115,Skew,2011-04-19,en,4.4,21.0
-89847,Modus Operandi,2010-09-10,en,6.1,5.0
 273084,Bipolar,2014-05-30,en,9.0,1.0
-128625,Rudyland,2001-08-10,en,0.0,0.0
 191094,The Employer,2013-06-07,en,3.5,12.0
 38162,Top of the World,1998-01-01,en,0.0,0.0
 290235,Find Me,2014-09-01,en,4.5,8.0
@@ -28837,7 +28618,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 28450,The Rift,1990-03-09,en,4.4,11.0
 166161,Jacob,2011-09-30,en,3.7,5.0
 211528,Get Lucky,2013-08-08,en,5.9,12.0
-40012,Raising Jeffrey Dahmer,2006-04-13,en,5.0,1.0
 82136,This Is Not a Movie,2011-01-28,en,5.9,8.0
 238358,Fear Lives Here,2013-05-16,en,3.8,2.0
 226792,Complicity,2013-10-07,en,3.3,3.0
@@ -28915,7 +28695,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 61638,Don Giovanni,1979-11-06,it,6.1,4.0
 77939,La fausse suivante,2000-03-08,fr,9.0,1.0
 55853,La bande des quatre,1989-02-08,fr,6.5,2.0
-44508,Spin the Bottle,2000-05-04,en,6.7,3.0
 103753,다른 나라에서,2012-05-30,ko,6.6,30.0
 214699,Le nozze di Figaro,1975-01-01,en,0.0,0.0
 142373,Jeanne la Pucelle I - Les batailles,1994-02-09,fr,7.7,6.0
@@ -28926,11 +28705,9 @@ movie_id,title,release_date,language,vote_average,vote_count
 54734,Small Potatoes: Who Killed the USFL?,2009-10-20,en,7.4,7.0
 54743,The Legend of Jimmy the Greek,2009-11-10,en,6.1,4.0
 54744,The U,2009-12-12,en,8.1,6.0
-54731,"Run, Ricky Run",2010-04-27,en,6.9,5.0
 54685,Little Big Men,2010-08-31,en,6.4,4.0
 54746,Unmatched,2010-09-14,en,4.3,2.0
 54677,Four Days in October,2010-10-05,en,6.6,4.0
-54692,Once Brothers,2010-10-12,en,6.4,7.0
 54694,Pony Excess,2010-12-11,en,7.6,6.0
 142161,9.79*,2012-10-09,en,8.9,4.0
 149255,You Don't Know Bo,2012-12-08,en,7.5,12.0
@@ -29102,7 +28879,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 197297,Hudutların Kanunu,1966-10-04,tr,5.6,4.0
 257249,The Human Experiment,2013-11-23,en,6.0,6.0
 342052,"Return to the Philippines, the Leon Cooper Story",2015-05-25,en,0.0,0.0
-108497,Autumn Tale,2000-09-18,tr,6.0,1.0
 244776,The Sleepwalker,2014-01-20,en,4.1,7.0
 339065,The True Cost,2015-05-29,en,7.7,60.0
 289510,الفيل الأزرق,2014-07-28,ar,6.5,18.0
@@ -29123,7 +28899,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 117168,The Year That Trembled,2002-03-22,en,0.0,0.0
 280459,Bad Behavior,2013-10-22,en,5.7,3.0
 57479,What the Deaf Man Heard,1997-11-23,en,3.3,4.0
-76477,Saint Maybe,1998-11-22,en,6.5,2.0
 52044,Insane,2010-02-09,en,3.1,7.0
 115451,Spirit Stalkers,2012-06-16,en,2.0,2.0
 326262,Biology 101,2011-04-01,en,6.5,2.0
@@ -29157,7 +28932,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 312131,The Phoenix Project,2015-01-16,en,3.4,13.0
 109695,Cocaine Unwrapped,2012-12-03,en,4.0,1.0
 348857,Eugene Mirman: Vegan on His Way to the Complain Store,2015-07-15,en,9.0,2.0
-67362,The Last Lullaby,2008-03-28,en,0.0,0.0
 262987,Filomena Marturano,1951-01-01,it,0.0,0.0
 311615,Smosh: The Movie,2015-07-24,en,4.8,89.0
 8460,The Skulls II,2002-04-09,en,5.3,21.0
@@ -29203,7 +28977,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 211711,小时代2：青木时代,2013-08-07,zh,4.7,16.0
 270842,小时代3：刺金时代,2014-07-17,zh,3.1,13.0
 317720,"English, August",1994-09-16,en,9.0,1.0
-306758,有一个地方只有我们知道,2015-02-14,zh,6.2,5.0
 272875,后会无期,2014-07-24,zh,6.6,19.0
 320132,衝上雲霄,2015-02-19,cn,3.9,4.0
 148652,The Eleventh Victim,2012-11-03,en,3.9,5.0
@@ -29276,7 +29049,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 50339,La Petite Jérusalem,2005-05-16,en,6.5,2.0
 338676,Extinction,2015-08-07,en,5.5,207.0
 27412,Hollywood Chainsaw Hookers,1988-03-01,en,5.4,26.0
-209413,L'intrepido,2013-09-06,en,6.3,15.0
 104242,J'irai comme un cheval fou,1973-11-22,fr,7.8,5.0
 140208,Bad Boy Street,2012-10-22,en,5.5,10.0
 210923,Bhuvan Shome,1969-05-12,hi,5.0,1.0
@@ -29301,7 +29073,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 133603,공모자들,2012-08-28,en,6.5,12.0
 250374,Matar a un hombre,2014-08-01,es,5.7,14.0
 145312,Dear Santa,2011-08-11,en,6.8,18.0
-49672,Inside Hana's Suitcase: A Journey in 18 Chapters,2012-04-18,en,0.0,0.0
 192911,Monster High: Scaris City of Frights,2013-03-03,en,6.4,8.0
 102831,Chameleon Street,1989-05-01,en,8.5,2.0
 238925,Il terzo tempo,2013-11-21,it,4.7,3.0
@@ -29434,7 +29205,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 20183,"Puff, the Magic Dragon",1978-10-30,en,7.0,2.0
 23331,Planet Outlaws,1953-01-01,en,4.7,3.0
 225958,Walk the Proud Land,1956-08-31,en,5.6,6.0
-39015,Sailor Beware,1952-02-08,en,6.4,7.0
 85827,Island of the Blue Dolphins,1964-09-10,en,5.7,3.0
 56067,The Biscuit Eater,1972-03-22,en,5.9,5.0
 128795,Fatal Bond,1991-10-28,en,7.5,2.0
@@ -29467,7 +29237,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 38666,The Wild and the Innocent,1959-05-27,en,6.2,5.0
 155685,Apache Rifles,1964-11-26,en,4.7,3.0
 107427,Drums Across the River,1954-06-01,en,4.0,4.0
-105687,Cuore di cane,1976-01-23,it,4.0,1.0
 15531,Get Smart's Bruce and Lloyd Out of Control,2008-07-01,en,5.3,32.0
 347528,"Chronic-Con, Episode 420: A New Dope",2015-07-03,en,3.7,5.0
 234931,Russell Brand - From Addiction to Recovery,2012-10-01,en,8.0,1.0
@@ -29574,7 +29343,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 261036,Match,2014-04-18,en,5.6,16.0
 44320,Clandestinos,2007-01-01,es,4.2,5.0
 268917,The Past Is a Grotesque Animal,2014-06-15,en,5.5,2.0
-347035,Swallows and Amazons,2016-08-19,en,6.9,24.0
 262782,Do Lado de Fora,2014-05-15,pt,0.0,0.0
 258034,Cuatro Lunas,2014-03-21,es,7.7,45.0
 60850,Reine Geschmacksache,2007-08-08,de,6.6,8.0
@@ -29723,7 +29491,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 68115,Terminal Justice,1996-04-01,en,6.0,4.0
 21836,Humanity's End,2009-01-01,en,2.3,10.0
 206461,すべてが狂ってる,1960-10-08,ja,6.8,5.0
-49978,Az én XX. századom,1989-01-01,hu,4.0,3.0
 42132,Megáll az idő,1982-10-07,hu,5.0,1.0
 318922,Kill Your Friends,2015-11-06,en,5.9,121.0
 323694,Nina Forever,2015-03-14,en,5.5,48.0
@@ -29743,7 +29510,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 29008,El séptimo día,2004-04-23,en,6.4,7.0
 319373,あん,2015-05-30,ja,7.0,82.0
 290316,Mon amie Victoria,2014-12-31,fr,6.1,6.0
-336655,Dégradé,2015-05-17,ar,7.7,3.0
 295111,Chrieg,2014-09-21,en,5.0,4.0
 260313,Loreak,2014-10-10,eu,6.7,22.0
 284048,Los tontos y los estúpidos,2014-10-03,es,8.0,1.0
@@ -29772,7 +29538,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 12448,The Hunchback of Notre Dame II,2002-02-05,en,5.1,156.0
 204342,HK/変態仮面,2013-04-13,ja,6.3,34.0
 91973,Lollipop Monster,2011-02-14,de,6.9,5.0
-293828,Starve,2014-10-03,en,5.2,9.0
 20947,Moskva-Kassiopeya,1973-09-23,en,4.0,4.0
 347096,Mythica: The Darkspore,2015-06-24,en,5.4,41.0
 208242,Assassins Tale,2013-01-01,en,4.8,15.0
@@ -29823,7 +29588,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 50715,SoulBoy,2010-06-04,en,6.3,13.0
 115616,Hawks,1988-08-05,en,5.1,4.0
 146949,돌아오지 않는 해병,1963-04-11,ko,5.0,1.0
-91691,"Ga, Ga - Chwała bohaterom",1986-09-26,pl,5.7,3.0
 323272,War Room,2015-08-28,en,6.9,92.0
 180900,藁の楯,2013-04-25,ja,6.0,35.0
 284290,Retour à Ithaque,2014-10-30,fr,5.5,6.0
@@ -29923,7 +29687,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 326441,Pernicious,2015-06-15,en,4.7,26.0
 273261,Red Knot,2014-05-31,en,5.6,7.0
 333344,Dirty Weekend,2015-09-04,en,5.2,30.0
-242462,The Activist,2014-03-07,en,4.0,2.0
 356216,The Rise of the Krays,2015-08-29,en,4.5,19.0
 296503,Dude Bro Party Massacre III,2015-06-13,en,6.2,21.0
 233490,Underdog Kids,2015-06-07,en,4.1,7.0
@@ -30199,7 +29962,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 219435,Hubad sa Ilalim ng Buwan,1999-09-08,en,8.3,3.0
 18557,Acolytes,2008-09-20,en,5.5,18.0
 103066,Ushiro kara mae kara,2010-02-27,ja,4.5,2.0
-72850,Babes in Toyland,1997-01-01,en,4.8,5.0
 43481,Black River,2001-07-06,en,5.6,11.0
 55612,Varg Veum - Svarte får,2011-01-21,no,6.1,10.0
 322740,Beira-Mar,2015-06-21,pt,6.9,41.0
@@ -30265,7 +30027,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 289039,فتاة المصنع,2013-12-08,ar,6.5,2.0
 298721,รักที่ขอนแก่น,2015-09-02,th,4.4,50.0
 322614,Crumbs,2015-01-27,en,6.4,4.0
-336805,Much Loved,2015-09-16,fr,6.0,41.0
 341077,Tiger House,2015-08-24,en,5.5,87.0
 74718,O Costa d'África,1954-09-19,en,8.0,5.0
 278718,Звезда,2014-06-18,ru,5.9,13.0
@@ -30278,7 +30039,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 126227,Desolation Canyon,2006-01-06,en,6.0,2.0
 20361,"Une corde, un Colt...",1969-01-25,it,6.5,10.0
 295314,L'Oranais,2014-11-19,fr,8.2,6.0
-337730,Un Français,2015-06-10,fr,5.9,35.0
 95807,Ricochet,2011-11-30,en,3.7,3.0
 336149,Arthur & Merlin,2015-04-17,en,5.4,14.0
 32707,Breaking Dawn,2004-10-16,en,5.0,8.0
@@ -30354,7 +30114,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 45722,No mires para abajo,2008-03-07,es,5.6,11.0
 253112,Sheila Levine is Dead and Living in New York,1975-12-01,en,0.0,0.0
 49954,Orson Welles: The One-Man Band,1995-10-08,en,6.0,1.0
-123691,Dream Deceivers: The Story Behind James Vance vs. Judas Priest,1992-08-06,en,10.0,1.0
 346401,Daft Punk Unchained,2015-06-24,fr,7.1,54.0
 207273,Chilling Visions: 5 Senses of Fear,2013-05-15,en,4.9,17.0
 33352,Lad de små børn...,2004-03-26,da,6.2,5.0
@@ -30386,7 +30145,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 3145,The Horror of Frankenstein,1970-11-08,en,5.6,14.0
 46581,Contes immoraux,1974-08-17,fr,5.4,34.0
 31927,Ehad Mishelanu,1989-01-01,he,5.0,1.0
-136146,Inside,2002-06-01,en,7.0,10.0
 157161,I Didn't Come Here to Die,2010-10-04,en,4.7,7.0
 36550,Jack and the Beanstalk,2009-11-06,en,5.8,22.0
 339530,Tremors 5: Bloodlines,2015-10-06,en,5.2,96.0
@@ -30427,8 +30185,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 47211,"Deprisa, deprisa",1981-03-25,es,5.7,10.0
 318954,Beyond the Mask,2015-04-06,en,5.7,24.0
 297762,Wonder Woman,2017-05-30,en,7.2,5025.0
-252983,Sly Cooper,2017-12-31,en,0.0,0.0
-302349,Iron Sky: The Coming Race,2018-03-01,en,0.0,0.0
 340488,Salt and Fire,2016-11-17,en,5.8,15.0
 339988,The Circle,2017-04-27,en,5.4,1015.0
 68730,Silence,2016-12-22,en,7.0,754.0
@@ -30439,7 +30195,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 67337,Zhui hun biao,1968-05-09,en,6.3,6.0
 46636,Nanga Parbat,2010-01-14,de,6.6,9.0
 296098,Bridge of Spies,2015-10-15,en,7.2,2633.0
-353616,Pitch Perfect 3,2017-12-21,en,0.0,3.0
 158675,Les Misérables in Concert - The 25th Anniversary,2010-10-03,en,8.0,24.0
 171759,The Lost Medallion: The Adventures of Billy Stone,2013-03-01,en,5.6,13.0
 71374,If I Die Before I Wake,2001-04-24,en,7.5,2.0
@@ -30508,7 +30263,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 353446,American Beach House,2015-07-02,en,4.3,9.0
 323792,L.A. Slasher,2015-06-12,en,3.7,10.0
 359471,Swat: Unit 887,2015-09-29,en,3.6,10.0
-248633,Zombie Killers: Elephant's Graveyard,2015-02-03,en,2.5,10.0
 258665,A Prayer for Rain,2013-10-18,en,5.9,12.0
 113391,Private Practices: The Story of a Sex Surrogate,1986-09-26,en,6.0,1.0
 80105,Fuga de cerebros 2,2011-12-02,es,5.4,24.0
@@ -30554,7 +30308,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 158848,The Falls,2012-01-12,en,6.1,13.0
 197754,Winnie the Pooh Discovers the Seasons,1981-09-05,en,6.0,2.0
 267428,Buttwhistle,2014-04-25,en,4.0,1.0
-41809,Under the Radar,2004-01-01,en,5.5,2.0
 360339,Eden,2015-10-22,en,5.5,20.0
 188560,The Secret Lives of Second Wives,2008-06-28,en,2.0,1.0
 44250,Cruel World,2005-09-01,en,4.8,6.0
@@ -30637,7 +30390,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 70553,Sleepaway Camp IV: The Survivor,1992-03-22,en,1.9,11.0
 61656,Meet Prince Charming,2002-01-01,en,5.0,3.0
 58106,The Boy Next Door,2008-06-01,en,5.3,10.0
-44848,The Decline of Western Civilization Part III,1998-01-01,en,6.6,8.0
 20381,The Hitcher II: I've Been Waiting,2003-07-15,en,4.3,19.0
 97108,The Life and Times of Rosie the Riveter,1980-09-27,en,5.0,1.0
 91001,The Marriage Chronicles,2012-02-14,en,0.0,0.0
@@ -30746,7 +30498,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 107976,검은 집,2007-06-21,ko,6.1,14.0
 18060,証人,2008-11-27,cn,6.6,23.0
 210966,Qing Cheng,2011-05-09,zh,5.8,6.0
-77504,강력 3반,2005-09-29,ko,6.9,6.0
 32229,Bau lit do see,2004-01-01,cn,6.4,7.0
 32162,黑白戰場,2005-01-01,cn,7.0,5.0
 71620,체포왕,2011-05-04,ko,6.5,11.0
@@ -30828,7 +30579,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 75931,고양이 : 죽음을 보는 두 개의 눈,2011-07-07,ko,6.2,23.0
 124294,알투비:리턴투베이스,2012-08-14,ko,5.8,27.0
 284063,소녀괴담,2014-07-03,ko,6.5,14.0
-70131,열혈남아,2006-11-19,ko,6.8,10.0
 16313,Coming Soon,2008-10-28,th,5.8,26.0
 68252,초능력자,2010-11-10,ko,6.2,21.0
 32272,고사: 피의 중간고사,2008-08-06,ko,6.6,37.0
@@ -30953,7 +30703,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 106629,Dolfje Weerwolfje,2011-11-30,nl,5.3,6.0
 323370,The Diabolical,2015-03-16,en,4.3,75.0
 319993,Aferim!,2015-01-22,ro,7.5,28.0
-51935,House of Boys,2009-11-20,en,5.3,10.0
 128848,A Time For Dying,1969-12-31,en,6.5,2.0
 149895,The Red Ball Express,1952-05-24,en,6.0,1.0
 125666,Killer Shark,1950-03-19,en,5.0,1.0
@@ -31017,7 +30766,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 339312,A Nightingale Falling,2014-09-12,en,6.8,3.0
 266639,Jem and the Holograms,2015-10-22,en,5.4,132.0
 293646,The 33,2015-08-06,en,6.0,386.0
-314400,Sangue del mio sangue,2015-09-09,it,5.8,13.0
 334991,岸辺の旅,2015-09-30,ja,6.7,13.0
 253273,Patrick's Day,2014-03-08,en,7.0,2.0
 48615,Devot,2003-02-08,de,5.5,2.0
@@ -31057,7 +30805,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 53689,Monopol,1996-11-29,sv,5.6,4.0
 314462,Silsile,2014-03-07,tr,5.5,2.0
 77241,Bir Avuç Deniz,2011-03-11,tr,0.0,0.0
-52183,Gecenin Kanatları,2009-01-01,tr,3.3,3.0
 239534,Beni Unutma,2011-11-11,tr,0.0,0.0
 236317,Benim Dünyam,2013-10-25,tr,7.9,16.0
 171160,Kelebeğin Rüyası,2013-02-21,en,7.6,18.0
@@ -31143,7 +30890,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 238781,24 jours,2014-04-30,fr,6.7,25.0
 247720,Ghosts of Ole Miss,2012-10-30,en,7.0,3.0
 20323,Long Weekend,2009-08-14,en,5.4,38.0
-60278,Xiang Gang you ge He Li Huo,2001-09-02,cn,7.2,6.0
 352157,Marguerite,2015-09-16,fr,6.4,100.0
 111170,Rubberneck,2013-02-22,en,5.5,6.0
 17038,Lake Placid 2,2007-04-28,en,4.0,22.0
@@ -31317,7 +31063,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 21462,Masoom,1983-01-10,hi,4.2,3.0
 62803,Hero,1983-01-01,en,7.0,2.0
 54256,Rang Birangi,1983-04-23,hi,4.8,2.0
-122895,Purana Mandir,1984-10-15,hi,4.0,1.0
 188719,Khamosh,1985-01-01,en,7.5,1.0
 96112,Arjun,1985-04-20,hi,5.3,3.0
 96159,चमेली की शादी,1986-02-21,hi,0.0,0.0
@@ -31872,7 +31617,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 52255,"Bi, đừng sợ",2010-05-19,vi,6.8,3.0
 353285,Taikon,2015-10-02,sv,7.7,3.0
 237960,Starring Adam West,2013-03-13,en,8.0,3.0
-323679,Manson Family Vacation,2015-03-16,en,5.6,19.0
 257088,Point Break,2015-12-03,en,5.5,795.0
 119482,Poppies Are Also Flowers,1966-10-16,en,4.0,2.0
 68865,Le guerriere dal seno nudo,1973-12-15,it,5.8,2.0
@@ -31932,7 +31676,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 79825,Falling Overnight,2011-11-11,en,6.7,6.0
 292177,My Little Pony: Equestria Girls - Rainbow Rocks,2014-09-27,en,6.6,19.0
 349158,My Little Pony: Equestria Girls - Friendship Games,2015-09-26,fr,3.9,11.0
-171277,The House Across the Street,2015-04-10,en,1.0,3.0
 369165,The Ties That Bind,2015-11-27,en,7.3,3.0
 105098,L'uomo dagli occhi di ghiaccio,1971-04-10,en,4.9,4.0
 158079,Centomila dollari per Ringo,1965-11-18,it,5.0,1.0
@@ -32021,7 +31764,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 353257,Earthfall,2015-06-22,en,3.3,15.0
 302666,10.0 Earthquake,2014-10-15,en,4.3,28.0
 246594,Mega Shark vs. Mecha Shark,2014-01-28,en,3.1,29.0
-340275,Chi-Raq,2015-12-04,en,5.8,56.0
 197599,Fateful Findings,2013-05-25,en,4.0,10.0
 10124,Heartstopper,2006-01-01,en,4.3,8.0
 221801,Naked as We Came,2013-09-13,en,5.1,7.0
@@ -32050,7 +31792,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 15706,Another Gay Sequel: Gays Gone Wild!,2008-11-06,en,5.2,26.0
 301816,Christmas Icetastrophe,2014-12-20,en,4.9,13.0
 338438,L'invincible cavaliere mascherato,1963-03-29,it,0.0,0.0
-107100,Seattle Superstorm,2012-03-31,fr,3.3,14.0
 81409,L'ira di Achille,1962-09-23,it,6.7,3.0
 74082,Roma l'altra faccia della violenza,1976-07-27,it,6.0,1.0
 106155,Italia a mano armata,1976-11-27,it,6.6,5.0
@@ -32195,7 +31936,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 150677,Lo chiamavano King,1971-05-18,it,6.3,4.0
 270646,Haganenet,2014-04-19,en,6.3,8.0
 157239,阿虎,2000-11-21,cn,4.2,3.0
-52776,72家租客,2010-02-11,en,5.6,8.0
 29960,Vampire Circus,1972-04-30,en,5.7,26.0
 357681,Hitting the Apex,2015-09-02,en,8.4,19.0
 259694,How to Be Single,2016-01-21,en,5.9,1225.0
@@ -32244,7 +31984,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 360551,검은 사제들,2015-11-05,ko,6.1,21.0
 359460,탐정: 더 비기닝,2015-09-24,ko,6.9,8.0
 69985,El gato desaparece,2011-04-21,es,5.8,4.0
-268854,La delgada línea amarilla,2015-03-06,es,8.5,10.0
 312993,Les Maîtres du suspense,2014-12-19,fr,6.0,1.0
 52116,Hände weg von Mississippi,2007-03-22,de,6.9,7.0
 80041,The Runway,2010-07-10,en,5.0,2.0
@@ -32256,7 +31995,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 282069,寄生獣,2014-11-29,ja,6.6,42.0
 282070,寄生獣 完結編,2015-04-25,ja,5.9,27.0
 373541,Dark Awakening,2014-09-10,en,4.2,5.0
-252028,Halfweg,2014-02-26,nl,7.0,1.0
 299585,Mr. Miracle,2014-12-06,en,7.3,2.0
 36771,Uuno Turhapuro – This Is My Life,2004-09-10,fi,5.0,5.0
 55254,Uuno Turhapuro - pisnismies,1998-08-28,fi,6.7,3.0
@@ -32290,7 +32028,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 63011,Assume the Position with Mr. Wuhl,2007-10-09,en,0.0,0.0
 63160,Successful Alcoholics,2010-01-22,en,5.9,5.0
 20363,The Pee-wee Herman Show,1981-01-01,en,6.4,9.0
-83728,The Broken Tower,2012-04-27,en,6.3,9.0
 55534,Dreamkeeper,2003-12-28,en,6.0,9.0
 125464,A Cosmic Christmas,1977-12-04,en,0.0,0.0
 358532,The Monster of Mangatiti,2015-09-06,en,6.8,4.0
@@ -32570,9 +32307,7 @@ movie_id,title,release_date,language,vote_average,vote_count
 287344,Gaston's War,1997-10-23,nl,0.0,0.0
 374698,Vallen,2001-10-24,nl,0.0,0.0
 218238,Blinker,1999-01-01,en,6.0,1.0
-73222,Swooni,2011-08-24,en,0.0,0.0
 142085,Lost Persons Area,2009-05-16,en,0.0,0.0
-75578,Mariken,2000-12-07,nl,4.0,1.0
 52260,De Leeuw van Vlaanderen,1985-03-14,en,6.5,3.0
 15994,Los,2008-09-17,en,5.0,1.0
 36712,Alles Moet weg,1996-12-04,en,0.0,0.0
@@ -32597,7 +32332,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 152393,The Fiction Makers,1968-12-08,en,9.3,2.0
 178189,"Inner Worlds, Outer Worlds",2012-12-19,en,5.3,3.0
 325712,Cool Cat Saves the Kids,2015-02-01,en,3.0,8.0
-317198,Bad Hair Day,2015-02-13,en,6.3,39.0
 84105,Frenemies,2012-01-13,en,5.2,83.0
 286987,How to Build a Better Boy,2014-08-17,en,5.7,71.0
 271954,Su ve Ateş,2013-11-15,tr,6.6,7.0
@@ -32814,7 +32548,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 48431,Trouble,2005-03-09,de,7.0,1.0
 63654,Ko,2011-04-22,ta,6.7,11.0
 71918,కింగ్,2008-12-25,te,6.3,4.0
-156981,Old 37,2015-03-21,en,4.3,10.0
 284514,Anacleto: Agente secreto,2015-09-04,es,5.7,72.0
 351145,El desconocido,2015-09-25,es,6.8,111.0
 38057,宝葫芦的秘密,2007-06-29,zh,4.5,3.0
@@ -33090,7 +32823,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 205221,Rugged Gold,1994-12-10,en,4.0,1.0
 356057,Polycarp,2015-06-24,en,5.5,1.0
 266038,Titli,2015-05-06,hi,6.3,6.0
-135713,Beware of Christians,2011-01-14,en,0.0,0.0
 43735,The Nanny Express,2009-01-02,en,4.9,7.0
 298986,Torneranno i prati,2014-11-06,it,5.9,12.0
 333888,Tempo instabile con probabili schiarite,2015-04-02,it,3.6,9.0
@@ -33179,7 +32911,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 365187,Nannaku Prematho,2016-01-13,te,7.8,7.0
 360387,Blunt Force Trauma,2015-10-05,en,4.3,31.0
 366249,Napapiirin sankarit 2,2015-09-30,fi,7.2,6.0
-78340,Tout le monde n'a pas eu la chance d'avoir des parents communistes,1993-12-01,fr,5.2,3.0
 125414,The Final Member,2012-05-01,en,5.4,13.0
 168228,Some Call It Loving,1973-11-16,en,4.5,2.0
 361183,Terug naar morgen,2015-09-30,nl,10.0,1.0
@@ -33201,7 +32932,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 329809,L'Hermine,2015-11-18,fr,6.1,61.0
 358403,Taj Mahal,2015-12-02,fr,5.1,14.0
 336199,Asphalte,2015-05-17,fr,6.1,35.0
-337107,La Vallée de l'amour,2015-06-17,fr,5.6,27.0
 315865,L'Ombre des femmes,2015-05-14,fr,5.0,11.0
 352025,Un plus une,2015-12-09,fr,5.8,64.0
 329682,Les Anarchistes,2015-11-11,fr,5.5,24.0
@@ -33226,12 +32956,10 @@ movie_id,title,release_date,language,vote_average,vote_count
 211317,Standing Army,2010-01-10,en,4.5,2.0
 278514,Hungry,2014-01-01,en,0.0,0.0
 100669,Shark Swarm,2008-01-01,en,2.8,9.0
-257450,Piranha Sharks,2015-08-06,en,5.0,4.0
 165404,Humraaz,2002-07-26,en,5.7,5.0
 49518,Aap Mujhe Achche Lagne Lage,2002-01-01,hi,3.0,2.0
 166258,Road,2002-09-27,hi,5.0,1.0
 59372,Sur,2002-09-13,en,7.0,1.0
-117142,EK Chotti Si Love Story,2002-09-06,en,4.5,2.0
 97437,Hum Kisi Se Kum Nahin,2002-05-31,hi,5.0,4.0
 83902,ना तुम जानो ना हम,2002-05-09,hi,4.4,5.0
 134841,Makdee,2002-11-22,hi,6.0,4.0
@@ -33336,7 +33064,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 248543,Boa Sorte,2014-05-30,pt,7.5,12.0
 56992,Mar nero,2009-01-30,it,7.0,1.0
 36301,The Tangerine Bear: Home in Time for Christmas!,2000-01-01,en,6.1,8.0
-60498,The Legend of the Candy Cane,2001-06-01,en,0.0,0.0
 50934,Pinocchio's Christmas,1980-12-03,en,9.0,1.0
 202172,The Conspiracy to Rule the World: From 911 to the Illuminati,2009-08-11,en,6.0,2.0
 278771,Infliction,2012-01-01,en,5.0,2.0
@@ -33397,14 +33124,12 @@ movie_id,title,release_date,language,vote_average,vote_count
 166225,Khel,2003-11-11,en,5.0,1.0
 71920,LOC: Kargil,2003-12-12,en,5.0,3.0
 354547,Hawa,2003-07-04,en,0.0,0.0
-41901,Ishq Vishk,2003-04-10,en,5.2,6.0
 345426,Khushi,2003-02-07,hi,5.8,4.0
 101783,Zameen,2003-09-26,hi,3.5,3.0
 86576,Paap,2003-12-20,hi,6.4,4.0
 46428,Gangaajal,2003-08-29,en,5.8,10.0
 257087,The Veil,2016-04-21,en,4.4,123.0
 217605,A sírásó,2010-01-01,en,5.0,1.0
-49098,Gadające głowy,1980-01-01,pl,8.3,8.0
 104548,修羅,1971-02-13,ja,8.6,11.0
 313108,국제시장,2014-12-17,ko,7.4,15.0
 382155,Pitbull. Nowe porządki,2016-01-22,pl,6.7,20.0
@@ -33538,7 +33263,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 84848,Sangre,2006-02-01,es,3.7,3.0
 52701,Smirennaya zhizn,1997-05-22,en,6.0,2.0
 10749,Sophiiiie!,2003-02-28,de,6.0,1.0
-131398,Spass ohne Grenzen,1998-01-01,en,9.0,1.0
 62759,Stille dage i Clichy,1970-06-01,da,4.4,10.0
 336970,Syskonsalt,2000-09-13,sv,8.0,2.0
 155052,Tikhiye stranitsy,1994-02-11,ru,8.5,2.0
@@ -33594,7 +33318,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 35451,恋する日曜日,2006-07-22,ja,7.0,1.0
 271667,Krajinka,2000-04-01,sk,5.0,1.0
 123406,Krišana,2005-07-05,lv,5.0,1.0
-125795,Kruh in mleko,2001-03-31,sl,5.5,2.0
 49695,Kusa-meikyu,1979-01-01,ja,8.0,6.0
 79860,Kyoshin,2006-11-05,ja,6.3,4.0
 350765,Langsamer Sommer,1976-01-01,en,5.0,3.0
@@ -33667,7 +33390,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 361980,Me Rosvolat,2015-03-27,fi,0.0,0.0
 163077,Dias de Nietzsche em Turim,2001-05-04,pt,0.0,0.0
 143959,Risto Räppääjä ja Viileä Venla,2012-02-20,fi,0.0,0.0
-65120,Días de Santiago,2004-01-29,es,6.0,4.0
 293313,Risto Räppääjä ja liukas Lennart,2014-02-07,en,0.0,0.0
 140278,Dogville Confessions,2004-06-27,en,6.2,9.0
 353641,Risto Räppääjä ja Sevillan saituri,2015-02-13,fi,0.0,0.0
@@ -33783,7 +33505,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 97707,Tod für fünf Stimmen,1995-06-06,de,7.0,4.0
 100250,Tussenland,2002-04-27,en,0.0,0.0
 342686,Ubitye molniey,2002-06-27,en,8.0,1.0
-125727,Uttara,2000-08-30,hi,0.0,0.0
 99495,Verano de Goliat,2011-07-08,es,5.0,1.0
 270024,Verboden te zuchten,2001-02-21,en,0.0,0.0
 100017,Verfolgt,2006-08-06,de,4.8,7.0
@@ -33863,7 +33584,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 88395,Estate violenta,1959-11-13,it,6.7,10.0
 69016,Eve's Christmas,2004-12-06,en,4.5,3.0
 83299,フィーメイル,2005-01-01,ja,5.7,3.0
-44517,La fiebre del loco,2001-10-04,es,8.0,2.0
 61699,Flipping Out - Israel's Drug Generation,2008-01-01,en,6.0,1.0
 182768,幻夢戦記レダ,1985-01-16,ja,5.8,2.0
 96497,De Gulle Minnaar,1990-07-06,nl,5.0,3.0
@@ -33972,7 +33692,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 250919,Der Struwwelpeter,1955-01-23,de,7.0,1.0
 31319,Taiji Ga Mitsuryô Suru Toki,1966-07-01,ja,6.2,9.0
 60616,Le tango des Rashevski,2003-09-03,fr,7.0,1.0
-123707,Terminus paradis,1998-09-09,fr,8.0,7.0
 227481,La Tranchée des espoirs,2003-11-10,fr,8.0,2.0
 105572,Trois places pour le 26,1988-11-23,en,6.5,2.0
 354023,Trying to Kiss the Moon,1994-08-11,en,0.0,0.0
@@ -33983,7 +33702,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 89722,Visions of Suffering,2006-09-26,en,3.0,1.0
 19759,Vynález zkázy,1958-08-21,cs,6.4,14.0
 185354,Wojna swiatów - nastepne stulecie,1981-09-29,pl,6.5,4.0
-64190,The Wooden Camera,2004-07-28,en,7.0,3.0
 41039,The World's Greatest Sinner,1962-06-01,en,6.5,2.0
 64935,Une Affaire privée,2002-04-30,fr,4.1,4.0
 2764,All Stars,1997-05-01,nl,6.8,6.0
@@ -33991,7 +33709,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 17302,The Art of Football from A to Z,2007-01-01,en,6.0,1.0
 326305,Aung San Suu Kyi - Lady of No Fear,2010-11-05,en,0.0,0.0
 57983,Bláznova kronika,1964-05-05,cs,7.0,2.0
-48489,Choo,2004-05-14,th,6.0,3.0
 78539,De l'amour,2001-04-11,fr,5.8,3.0
 296225,Drei weiße Birken,1961-09-27,de,4.0,1.0
 369366,Last Day of Freedom,2015-04-11,en,7.3,3.0
@@ -34001,7 +33718,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 71496,Le festin de la mante,2004-03-10,fr,5.3,3.0
 53472,De Flat,1994-04-21,de,7.0,2.0
 3048,The Great Global Warming Swindle,2007-03-08,en,6.7,18.0
-78072,Nails,2003-10-01,en,5.5,1.0
 201214,Hammer & Tickle,2007-01-08,en,8.3,3.0
 45064,Hata Göteborg,2007-05-04,en,8.0,1.0
 180555,Critique de la Séparation,1961-03-25,fr,7.0,4.0
@@ -34039,7 +33755,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 334495,The Barkley Marathons: The Race That Eats Its Young,2014-10-26,en,8.1,25.0
 292214,Killer Cop,2002-10-15,en,0.0,0.0
 78202,Impressionen unter Wasser,2002-08-21,de,6.6,5.0
-73123,In Oranje,2004-04-28,nl,7.0,6.0
 107767,Je suis une nymphomane,1971-08-11,fr,3.7,3.0
 220154,The King's Beard,2002-10-02,fr,0.0,0.0
 119816,Kiss and Run,2002-10-25,de,0.0,0.0
@@ -34062,7 +33777,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 53524,Roald Dahl's Danny the Champion of the World,1989-04-29,en,4.9,8.0
 70119,Le roman de Georgette,2003-01-01,fr,6.0,1.0
 267415,Rot ist die Liebe,1957-01-17,de,5.0,1.0
-85690,Scherbentanz,2002-10-31,de,5.7,3.0
 21070,Le septième juré,1962-04-16,fr,6.6,12.0
 38553,Shelter Island,2003-02-01,en,4.5,4.0
 15201,Skin,2008-03-13,en,6.6,5.0
@@ -34227,7 +33941,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 116318,Yousei furorensu,1985-01-01,en,3.3,2.0
 128061,De ontmaagding van Eva van End,2012-09-09,nl,4.5,3.0
 211158,Ein Teil von mir,2009-10-14,de,0.0,0.0
-361131,Hate Story 3,2015-04-12,hi,6.5,12.0
 105304,La Clé des Champs,2011-12-19,fr,7.0,2.0
 64437,L'Été en pente douce,1987-04-29,fr,6.8,5.0
 357959,Տարեթիվ,1974-08-30,hy,5.0,1.0
@@ -34378,7 +34091,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 338065,Dil Dhadakne Do,2015-06-05,hi,6.7,43.0
 333352,Eye in the Sky,2015-09-11,en,7.2,532.0
 367524,Kareem: Minority of One,2015-11-03,en,7.8,4.0
-63224,La vérité sur Bébé Donge,1952-02-13,fr,6.0,3.0
 98302,La française et l'amour,1960-09-23,fr,6.0,1.0
 359025,Camino,2016-03-04,en,4.8,15.0
 347752,Road Games,2016-03-04,en,5.9,23.0
@@ -34408,7 +34120,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 37754,"Cornbread, Earl and Me",1975-05-21,en,0.0,0.0
 41383,少林五祖,1974-12-25,zh,7.3,11.0
 224339,ஓநாயும் ஆட்டுக்குட்டியும்,2013-09-27,ta,7.4,6.0
-65270,Kenny Chesney: Summer In 3D,2010-08-21,en,10.0,1.0
 34462,Women in Cages,1971-10-19,en,5.6,15.0
 257004,The Stalker,2013-03-01,it,1.0,2.0
 177622,I Dream Of Wires,2014-11-10,en,6.9,7.0
@@ -34442,7 +34153,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 41988,DC Showcase: Jonah Hex,2010-07-27,en,6.5,23.0
 347689,Pee-wee's Big Holiday,2016-03-18,en,5.8,69.0
 339984,Miracles from Heaven,2016-03-17,en,6.8,191.0
-54566,Millipilleri,1966-08-26,fi,0.0,0.0
 55495,Noin 7 veljestä,1968-08-22,fi,6.0,1.0
 379925,The Answers,2015-02-06,en,8.4,8.0
 347881,The Confirmation,2016-03-18,en,6.3,52.0
@@ -34499,7 +34209,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 224951,Evil Feed,2013-10-23,en,4.4,10.0
 242546,ベヨネッタ ブラッディフェイト,2013-11-23,ja,5.2,19.0
 300403,Shana: The Wolf's Music,2014-08-17,en,6.3,2.0
-228109,Two-Bit Waltz,2014-11-21,en,5.4,11.0
 302688,My Big Fat Greek Wedding 2,2016-03-23,en,5.6,328.0
 327528,Born to Be Blue,2015-09-13,en,6.7,58.0
 367108,Arrêt Pipi,2015-10-31,nl,6.7,3.0
@@ -34522,7 +34231,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 387054,Jimmy Carr: Funny Business,2016-03-18,en,6.9,24.0
 42291,The Buddha,2010-04-17,en,6.0,3.0
 31184,1724 기방난동사건,2008-12-03,ko,3.5,2.0
-359440,Barista,2015-11-06,en,6.7,6.0
 297806,I Saw the Light,2016-02-05,en,5.9,48.0
 186759,Get a Job,2016-03-25,en,5.2,217.0
 356326,Sorgenfri,2015-09-29,da,5.7,35.0
@@ -34567,7 +34275,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 36818,Smorgasbord,1983-04-13,en,3.9,4.0
 242631,So This Is Love,1953-07-15,en,5.0,1.0
 207178,The Lion and the Horse,1952-05-16,en,5.0,1.0
-66060,休暇,2008-06-07,ja,0.0,0.0
 86497,Sängkamrater,1974-12-18,en,4.0,5.0
 376716,День выборов 2,2016-02-18,ru,7.0,12.0
 383535,They're Watching,2016-03-25,en,5.5,50.0
@@ -34772,7 +34479,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 244852,Poseidon Rex,2014-04-18,en,3.4,14.0
 270909,Refugiado,2014-05-18,es,6.0,3.0
 117023,Sharkman,2001-01-01,en,2.0,1.0
-322746,Sweet Micky for President,2015-01-23,en,0.0,0.0
 101320,The Spiral Staircase,2000-04-02,en,4.0,1.0
 67021,Xiao nian Su Qi Er,1985-01-01,en,5.4,4.0
 217324,Trail Guide,1952-02-15,en,0.0,0.0
@@ -34801,13 +34507,11 @@ movie_id,title,release_date,language,vote_average,vote_count
 332739,In Transit,2015-04-16,en,0.0,0.0
 317954,City of Gold,2016-03-11,en,5.7,13.0
 107641,鬼龍院花子の生涯,1982-06-05,ja,8.5,2.0
-122270,Die Niklashauser Fart,1970-10-26,de,8.0,2.0
 3102,Мой сводный брат Франкенштейн,2005-03-13,en,3.3,3.0
 62729,Дневник его жены,2000-06-06,en,4.5,5.0
 255733,Our Mr. Sun,1956-11-19,en,0.0,0.0
 101715,Unguarded,2011-11-01,en,9.5,1.0
 112558,The Young Stranger,1957-02-01,en,5.0,1.0
-356090,2 Nights Till Morning,2015-08-31,fi,7.5,4.0
 290188,The Brittany Murphy Story,2014-09-06,en,4.4,10.0
 87992,Där vi en gång gått,2010-10-28,sv,3.5,2.0
 54440,The Education of Sonny Carson,1974-07-17,en,7.3,2.0
@@ -34844,7 +34548,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 361841,Tjuvheder,2015-10-16,sv,8.0,4.0
 24450,Pretty Ugly People,2009-09-18,en,4.1,12.0
 318054,No Men Beyond This Point,2015-01-27,en,6.3,8.0
-366901,Despite the Falling Snow,2016-01-29,en,4.7,16.0
 161143,Madly Madagascar,2013-01-29,en,5.9,39.0
 85693,Hammy's Boomerang Adventure,2006-10-17,en,5.9,13.0
 118251,First Flight,2006-03-12,en,5.8,10.0
@@ -34867,7 +34570,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 45232,Eat My Dust,1976-04-01,en,5.8,6.0
 7237,Wizards of the Lost Kingdom II,1989-03-01,en,2.5,2.0
 62880,Smokey Bites the Dust,1981-10-01,en,7.0,1.0
-332283,Mary Shelley,2018-04-25,en,0.0,1.0
 103073,अर्ध सत्य,1983-08-19,hi,6.7,5.0
 58792,BreadCrumbs,2011-01-25,en,3.0,13.0
 375572,Veloce come il vento,2016-04-07,it,7.7,187.0
@@ -35111,7 +34813,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 9547,Old Shatterhand,1964-04-30,de,5.8,17.0
 65887,La Horse,1970-02-22,fr,7.0,2.0
 210615,Le fils,1973-03-30,it,0.0,0.0
-66187,La Race des Seigneurs,1974-04-10,fr,7.0,1.0
 271919,La Cage,1975-06-10,fr,5.7,3.0
 12266,Une étrange affaire,1981-12-23,fr,4.2,3.0
 334889,Inbrottet,2016-02-05,sv,0.0,0.0
@@ -35150,7 +34851,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 176915,Dead Shadows,2012-09-09,de,3.9,10.0
 380254,"로봇, 소리",2016-01-27,ko,8.0,3.0
 208556,Prora,2012-03-24,en,5.5,3.0
-132166,Le petit théâtre de Jean Renoir,1970-12-15,fr,5.0,1.0
 126234,蔓延,2004-10-21,zh,7.3,3.0
 245917,劇場版 銀魂 完結篇 万事屋よ永遠なれ,2013-07-04,ja,7.7,13.0
 257291,Prater,2007-02-10,en,5.0,1.0
@@ -35264,7 +34964,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 161463,Citizen King,2004-01-01,en,0.0,0.0
 108176,Daniel Tosh: Completely Serious,2007-06-17,en,6.5,16.0
 58494,Daniel Tosh: Happy Thoughts,2011-03-08,en,6.8,12.0
-36607,Dave Attell's Insomniac Tour: Uncensored!,2005-02-04,en,9.0,1.0
 100813,Koch Brothers Exposed,2012-03-07,en,5.0,1.0
 56100,Lisa Lampanelli: Take It Like a Man,2005-08-30,en,5.0,3.0
 139846,Soundtrack for a Revolution,2009-01-01,en,8.0,1.0
@@ -35338,7 +35037,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 295273,太平轮(下),2015-07-30,zh,5.3,11.0
 294550,The Outrageous Sophie Tucker,2014-05-02,en,0.0,0.0
 85327,Rich Kids,1979-08-01,en,6.1,5.0
-55134,Mickybo and Me,2005-03-25,en,7.6,9.0
 299582,A Royal Christmas,2014-11-21,en,6.1,37.0
 371451,陀地驱魔人,2015-11-26,zh,6.0,16.0
 334557,踏血尋梅,2015-11-13,cn,6.1,15.0
@@ -35429,7 +35127,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 290773,The Connection,2014-09-01,en,5.8,3.0
 53104,Orgasm Inc.,2009-05-02,en,6.5,2.0
 117407,They Call It Myanmar: Lifting the Curtain,2012-09-21,en,6.9,5.0
-119430,Owned & Operated,2012-07-02,en,0.0,1.0
 297400,소셜포비아,2015-03-12,ko,7.1,11.0
 310952,A Little Game,2014-04-26,en,6.2,6.0
 296370,Dance-Off,2014-01-01,en,5.5,33.0
@@ -35542,7 +35239,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 385581,The Brainwashing of My Dad,2015-07-29,en,6.0,3.0
 101916,"Live Once, Die Twice",2006-02-20,en,1.5,2.0
 80520,Second Nature,2003-06-22,en,5.3,2.0
-55916,One Way Out,2002-02-01,en,4.0,4.0
 126076,The Pilot's Wife,2005-08-17,en,0.0,0.0
 56491,In Her Line of Fire,2006-04-21,en,3.3,9.0
 60505,Blind Side,1993-01-30,en,3.2,3.0
@@ -35596,7 +35292,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 362699,Remainder,2015-10-08,en,6.6,11.0
 118792,Будет ласковый дождь,1984-01-01,ru,7.0,7.0
 396292,Ali Wong: Baby Cobra,2016-05-06,en,8.0,21.0
-299782,The Other Side of the Wind,2018-12-31,en,0.0,1.0
 24398,Bodysong,2003-12-05,en,5.0,2.0
 46178,Bytte Bytte Købmand,2010-09-27,da,6.5,2.0
 345069,Crush the Skull,2015-06-11,en,6.7,12.0
@@ -35749,7 +35444,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 32790,The Good Witch,2008-01-19,en,5.6,34.0
 30641,Grizzly Rage,2007-06-07,en,3.6,8.0
 257345,The Darkness,2016-05-13,en,4.5,162.0
-256771,De Poel,2014-05-01,en,6.3,7.0
 34598,Fast Getaway,1991-03-14,en,6.2,5.0
 41962,マルサの女２,1988-01-15,ja,6.3,3.0
 110283,ミンボーの女,1992-05-16,ja,4.5,1.0
@@ -35884,7 +35578,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 397003,The Asian Connection,2016-05-13,en,4.1,13.0
 138705,Vares – Uhkapelimerkki,2012-03-16,fi,5.7,7.0
 150208,Vares – Pimeyden tango,2012-10-05,fi,6.1,7.0
-61123,Vares – Huhtikuun tytöt,2011-04-20,fi,5.3,11.0
 80256,Vares – Sukkanauhakäärme,2011-08-05,fi,5.7,10.0
 41454,Oldboys,2009-12-25,da,5.4,7.0
 381080,The Art of Organized Noize,2016-03-15,en,8.0,5.0
@@ -35918,11 +35611,9 @@ movie_id,title,release_date,language,vote_average,vote_count
 55424,Essaye-moi,2006-03-06,fr,5.8,12.0
 175331,Brudermord,2005-07-31,en,6.0,3.0
 302699,Central Intelligence,2016-06-15,en,6.2,1699.0
-72152,Aarakshan,2011-08-12,en,5.6,11.0
 94798,অভিযান,1962-09-27,bn,8.0,5.0
 139582,Chakravyuh,2012-10-24,hi,4.8,3.0
 14751,Dasvidaniya,2008-11-07,hi,7.0,6.0
-53284,Do Dooni Chaar,2010-10-08,hi,4.0,4.0
 63006,Dum Maaro Dum,2011-04-22,hi,5.4,7.0
 379275,Tri muškarca Melite Žganjer,1998-01-01,hr,4.0,1.0
 305309,Redemption Trail,2013-10-06,en,0.0,0.0
@@ -35967,7 +35658,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 267977,Kyokon Densetsu: Utsukushiki Nazo,1983-04-01,ja,5.5,2.0
 401442,Internet Famous,2016-06-21,fr,4.0,24.0
 400605,Dead Rising: Endgame,2016-06-20,en,5.0,56.0
-46548,Header,2006-08-12,en,5.8,4.0
 70859,Wild Palms,1993-05-16,en,5.9,7.0
 76474,Doc Martin,2001-01-01,en,5.6,9.0
 377213,Te3n,2016-06-10,hi,6.8,23.0
@@ -36121,7 +35811,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 364051,Les Innocentes,2016-02-10,fr,7.1,87.0
 349441,Ha'milim ha'tovot,2015-05-28,en,5.0,1.0
 373479,Eat that Question: Frank Zappa in His Own Words,2016-05-03,en,8.3,3.0
-373922,三人行,2016-06-02,cn,5.8,19.0
 359641,Zonda: folclore argentino,2015-09-26,es,3.3,2.0
 357799,Presenting Princess Shaw,2016-05-27,en,6.7,3.0
 119637,Celui qui doit mourir,1957-05-03,en,4.5,5.0
@@ -36176,7 +35865,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 405621,The Miki Howard Story,2016-06-12,en,5.0,1.0
 103396,"Nachts, wenn der Teufel kam",1957-09-19,de,6.8,4.0
 130957,Die Söhne der großen Bärin,1966-02-18,de,5.0,1.0
-54893,One Day Like Rain,2007-06-15,en,4.7,3.0
 98644,Here,2011-01-21,en,6.3,9.0
 393834,Goldstone,2016-07-07,en,6.4,21.0
 366514,Un homme à la hauteur,2016-05-04,fr,6.0,199.0
@@ -36191,7 +35879,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 28406,La furia del Hombre Lobo,1972-02-07,en,6.7,3.0
 362765,The Sound and the Shadow,2014-10-19,en,0.0,0.0
 368620,My Friend Rockefeller,2015-07-04,en,6.2,9.0
-50186,Tabor Ukhodit v Nebo,1976-04-04,en,7.0,5.0
 362876,Califórnia,2015-12-03,pt,7.7,11.0
 361249,Nil Battey Sannata,2016-04-22,hi,6.8,8.0
 4279,Les Mariés de l'an deux,1971-04-07,fr,5.8,11.0
@@ -36201,7 +35888,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 349086,Bitcoin: The End of Money as We Know It,2015-07-18,en,6.6,13.0
 257026,The Irish Pub,2013-10-04,en,8.6,5.0
 86320,Cabra Marcado Para Morrer,1984-12-03,pt,7.0,3.0
-86531,Café Com Leite,2007-03-16,pt,5.6,8.0
 397278,Fender Bender,2016-05-23,en,5.0,33.0
 67303,Estória do Gato e da Lua,1997-01-01,pt,7.0,3.0
 68895,The King of the Kickboxers,1990-11-01,en,5.9,15.0
@@ -36267,7 +35953,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 282024,Поддубный,2014-07-10,ru,6.2,14.0
 42498,প্রতি দ্বন্দ্বী,1970-10-27,bn,7.7,5.0
 257006,Incontro con gli umanoidi (L'ultimo s.o.s.) (Uragano sulle Bermude),1979-04-04,it,0.0,0.0
-367816,Ghostheads,2016-04-23,en,6.4,8.0
 347647,Traders,2016-03-11,en,6.2,19.0
 407036,On the Brain,2016-07-12,en,4.0,4.0
 46658,Night of the Sharks,1989-01-01,fr,3.0,1.0
@@ -36278,7 +35963,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 192868,The Sporting Club,1971-02-28,en,0.0,0.0
 159942,Epizoda u životu berača željeza,2013-10-10,ro,7.3,7.0
 356626,Black,2015-11-11,fr,6.4,33.0
-253343,Dear Eleanor,2016-07-05,en,6.2,25.0
 247845,The Great Martian War 1913 - 1917,2013-12-08,en,6.5,4.0
 332806,I Am Belfast,2016-04-08,en,7.5,4.0
 376426,Tony Robbins: I Am Not Your Guru,2016-07-15,en,6.6,23.0
@@ -36346,7 +36030,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 333846,Enklava,2015-03-03,sr,7.1,9.0
 340224,"Hello, My Name Is Frank",2014-01-01,en,0.0,0.0
 288504,Bridge and Tunnel,2014-04-30,en,0.0,0.0
-405653,The Death and Life of Otto Bloom,2016-07-28,en,10.0,1.0
 403119,47 Meters Down,2017-06-15,en,5.1,548.0
 380762,樹大招風,2016-04-07,cn,7.0,16.0
 370178,Scare Campaign,2016-03-17,en,6.2,36.0
@@ -36378,7 +36061,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 340119,Nomi e cognomi,2015-05-14,it,1.5,2.0
 62009,Bimboland,1998-12-23,fr,4.3,18.0
 54107,"Splash, Too",1988-05-01,en,2.0,3.0
-49855,End of the Line,1987-08-28,en,5.5,2.0
 408140,Blood Moon,2016-07-25,en,0.0,0.0
 369605,Sky Line,2015-11-20,en,6.0,1.0
 378607,Huset,2016-01-20,no,6.4,4.0
@@ -36583,7 +36265,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 266400,Downhill,2014-05-30,en,8.0,2.0
 401123,Beta Test,2016-07-22,en,5.3,29.0
 56552,The Valley of Light,2007-01-28,en,5.3,3.0
-42560,American Fusion,2005-01-01,en,0.0,0.0
 319092,The Russian Woodpecker,2015-01-31,en,6.5,11.0
 404117,"Down the Deep, Dark Web",2016-06-23,en,6.0,1.0
 377516,The Rack Pack,2016-01-17,en,7.0,11.0
@@ -36789,7 +36470,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 77147,Nel continente nero,1993-01-01,it,7.0,2.0
 46028,Puerto Escondido,1992-12-17,it,6.5,17.0
 58773,Turné,1990-04-06,it,7.3,7.0
-41583,Marrakech Express,1989-11-01,it,7.3,22.0
 124202,I Carabbinieri,1981-04-24,it,6.0,1.0
 73755,Il Ras del quartiere,1983-12-29,it,4.3,3.0
 38289,Eccezzziunale... veramente,1982-01-01,it,5.9,41.0
@@ -36820,14 +36500,12 @@ movie_id,title,release_date,language,vote_average,vote_count
 55430,Break Blade 2: Ketsubetsu no Michi,2010-06-26,en,6.1,4.0
 55435,Break Blade 4: Sanka no Chi,2010-10-29,en,5.2,3.0
 55437,Break Blade 5: Shisen no Hate,2011-01-21,en,5.2,3.0
-55438,Break Blade 6: Doukoku no Toride,2011-03-25,en,8.2,3.0
 225745,劇場版 STEINS;GATE 負荷領域のデジャヴ,2013-04-20,ja,7.2,44.0
 40627,Cuisine et dépendances,1993-04-06,en,6.3,12.0
 20072,Agathe Cléry,2008-11-11,fr,4.8,54.0
 357390,亜人　第１部「衝動」,2015-11-27,ja,7.5,8.0
 296917,劇場版 サイコパス,2015-01-09,ja,7.2,40.0
 412214,Äkkilähtö,2016-02-26,fi,0.0,0.0
-357837,Dancin' It's On,2015-10-16,cs,4.3,2.0
 316784,The Black Hole,2015-05-26,en,3.2,10.0
 98370,Wonder Women!: The Untold Story of American Superheroines,2012-03-10,en,6.0,2.0
 33714,Я остаюсь,2007-04-19,ru,5.8,6.0
@@ -36923,7 +36601,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 22240,Ripoux contre Ripoux,1990-02-07,fr,6.1,19.0
 22623,Ripoux 3,2003-12-10,en,5.1,16.0
 36162,Винни-Пух и день забот,1972-01-01,ru,6.7,18.0
-375573,Chasing Great,2016-09-01,en,9.3,3.0
 336212,Nahid,2016-01-07,fa,7.3,8.0
 114499,The Vanishing Prairie,1954-08-17,en,8.0,3.0
 111326,"Joshua Tree, 1951: A Portrait of James Dean",2012-05-23,en,5.3,3.0
@@ -37025,7 +36702,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 362430,Night of the Wild,2015-10-03,en,3.5,12.0
 408546,David Cross: Making America Great Again,2016-08-06,en,7.0,8.0
 18825,Espace détente,2005-02-02,en,4.1,19.0
-64109,Paanch,2003-01-01,en,6.3,3.0
 133569,Febre do Rato,2012-06-22,pt,0.0,0.0
 371449,Other People,2016-09-09,en,6.7,58.0
 414632,The First Annual 'On Cinema' Oscar Special,2013-02-24,en,0.0,0.0
@@ -37058,7 +36734,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 56709,Legacy,1998-10-09,en,6.0,1.0
 77946,Shiloh 2: Shiloh Season,1999-07-02,en,6.2,6.0
 60085,Final Flesh,2009-11-17,en,6.8,4.0
-43422,Gringuito,1998-01-01,en,0.0,0.0
 197725,John Henry,2000-05-27,en,7.1,18.0
 245003,Lorenzo,2004-03-06,en,6.8,14.0
 105325,How to Hook Up Your Home Theater,2007-12-21,en,7.8,17.0
@@ -37129,7 +36804,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 56391,Приключения пингвинёнка Лоло,1987-06-26,ru,6.3,7.0
 405040,Warkop DKI Reborn: Jangkrik Boss! Part 1,2016-10-08,id,7.0,3.0
 56109,Swamp Devil,2008-07-04,en,3.6,8.0
-355066,Kötü Kedi Şerafettin,2016-02-05,tr,7.1,12.0
 24007,More Things That Happened,2007-08-14,en,9.2,5.0
 46149,Nusumareta yokujo,1958-09-30,ja,6.0,5.0
 162899,Ten Thousand Talents,1960-12-31,en,0.0,0.0
@@ -37150,8 +36824,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 29233,Horton Hears a Who!,1970-01-01,en,6.6,7.0
 394412,Fiore,2016-05-25,it,6.2,32.0
 390669,Un bacio,2016-03-31,it,7.1,88.0
-412093,La ragazza del mondo,2016-11-10,it,6.6,11.0
-352199,Per amor vostro,2015-09-03,it,6.0,6.0
 375167,Assolo,2016-01-05,it,5.0,21.0
 393857,Le confessioni,2016-04-21,it,5.5,25.0
 365707,The Queen of Ireland,2015-10-22,en,5.0,2.0
@@ -37213,7 +36885,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 170967,The House of Suh,2010-05-05,en,4.0,2.0
 413017,من سالوادور نیستم,2016-01-01,fa,5.0,2.0
 399621,Kalashnikov,2014-02-10,en,0.0,0.0
-339116,Maximum Ride,2016-09-30,en,4.5,69.0
 382511,Radin!,2016-09-28,fr,5.4,222.0
 91045,Money Play$,1998-08-21,en,5.0,2.0
 57924,Auschwitz,2011-02-11,de,3.3,5.0
@@ -37241,7 +36912,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 200119,Going Attractions: The Definitive Story of the American Drive-in Movie,2013-06-07,en,8.0,5.0
 325385,Poesía sin fin,2016-03-23,es,7.7,27.0
 336776,ラブ＆ピース,2015-06-26,ja,7.0,9.0
-311215,Papeles en el viento,2015-01-08,es,6.1,8.0
 250278,セブンス・コード,2013-11-13,ja,6.0,4.0
 68972,Docteur Popaul,1972-09-29,fr,6.5,2.0
 286313,Szabadesés,2014-09-25,hu,4.0,3.0
@@ -37308,11 +36978,9 @@ movie_id,title,release_date,language,vote_average,vote_count
 48508,여행자,2009-10-29,ko,6.8,20.0
 211029,Neal Cassady,2007-10-11,en,5.5,2.0
 391486,Crossing Point,2016-05-03,en,5.7,8.0
-345924,The Night Stalker,2016-07-01,en,6.2,10.0
 292022,After Midnight,2014-01-01,en,1.1,4.0
 321779,Ztraceni v Mnichově,2015-10-22,cs,8.0,5.0
 411009,Amanda Knox,2016-09-10,en,6.7,138.0
-295886,Brotherly Love,2015-04-24,en,6.9,21.0
 253154,Imperial Dreams,2014-01-20,en,6.7,39.0
 402529,All Eyez on Me,2017-06-12,en,6.3,436.0
 159432,You & Me Forever,2012-09-13,da,5.1,6.0
@@ -37348,7 +37016,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 322455,El Proceso De Burgos,1979-08-31,es,0.0,0.0
 382170,リップヴァンウィンクルの花嫁,2016-03-26,ja,6.7,11.0
 84195,A Busca,2013-03-15,pt,7.1,15.0
-377492,Dirty 30,2016-09-23,en,6.2,19.0
 411638,Tarde para la ira,2016-09-09,es,6.7,105.0
 241639,夜莺,2014-02-26,zh,7.8,10.0
 280030,Farewell Baghdad,2014-04-10,en,10.0,1.0
@@ -37361,7 +37028,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 390376,Тряпичный союз,2015-12-30,ru,7.3,3.0
 370203,The Swedish Theory of Love,2015-11-15,sv,6.9,8.0
 185564,A Crush on You,2011-06-11,en,6.4,5.0
-352917,Víkend,2015-01-01,hu,6.0,2.0
 402612,Gondolj rám,2016-01-21,hu,0.0,0.0
 363383,Az éjszakám a nappalod,2015-10-26,hu,10.0,1.0
 29211,Muhammad Ali - The Greatest,1969-11-21,en,5.4,6.0
@@ -37434,7 +37100,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 57309,เฉือน,2009-10-22,fr,6.4,10.0
 36113,Luo ye gui gen,2007-01-01,zh,6.7,9.0
 358808,Tharlo,2015-09-04,zh,6.7,3.0
-371181,"Murder, She Baked: A Peach Cobbler Mystery",2016-01-10,en,8.6,8.0
 145132,A Heartland Christmas,2010-12-10,en,7.4,14.0
 41281,Moondance Alexander,2007-04-22,en,6.0,13.0
 105768,Flicka: Country Pride,2012-05-01,en,6.3,12.0
@@ -37517,7 +37182,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 194757,The Sidelong Glances of a Pigeon Kicker,1970-12-01,en,0.0,0.0
 148753,常在我心,2001-09-25,en,0.0,0.0
 126820,Baseball,1994-09-18,en,8.5,4.0
-417877,Baked in Brooklyn,2016-10-14,en,5.4,27.0
 331642,Nacida para ganar,2016-05-06,es,3.8,11.0
 394822,London Town,2017-08-03,en,6.3,16.0
 100179,London in the Raw,1965-04-23,en,0.0,0.0
@@ -37595,7 +37259,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 292510,The Vagabond King,1956-08-28,en,6.0,1.0
 52949,An Evening of Edgar Allan Poe,1970-01-01,en,7.8,8.0
 285814,The Butterfly Ball,1977-04-01,en,0.0,0.0
-42100,That Was Rock,1984-01-01,en,0.0,0.0
 159538,The Strange Case of Alice Cooper,1979-04-09,en,6.8,3.0
 97128,El ángel de Budapest,2011-12-22,es,5.0,1.0
 359805,21 nuits avec Pattie,2015-11-25,fr,5.7,28.0
@@ -37631,7 +37294,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 291356,In a Valley of Violence,2016-10-21,en,5.7,115.0
 121111,The Telephone Book,1971-10-03,en,5.1,6.0
 421958,Terror - Ihr Urteil,2016-10-17,de,7.6,5.0
-333072,Z Airando,2015-05-16,ja,0.0,0.0
 269057,Bang Bang Baby,2014-09-08,en,6.6,8.0
 385722,Bling,2016-11-24,ko,4.8,12.0
 346388,Black Mountain Poets,2016-04-01,en,6.6,7.0
@@ -37661,7 +37323,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 43022,King of the Roaring 20's: The Story of Arnold Rothstein,1961-06-11,en,0.0,0.0
 179057,No Sad Songs for Me,1950-04-27,en,6.0,1.0
 282225,الإختيار,1970-01-02,en,5.0,1.0
-72394,The Ring,1996-10-20,en,4.0,2.0
 50699,Trancers 6: Life After Deth,2002-07-23,en,5.4,4.0
 421854,Joe Rogan: Triggered,2016-10-21,en,7.4,9.0
 333318,Scherzo Diabolico,2015-04-16,es,6.0,8.0
@@ -37699,7 +37360,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 164827,Τι έκανες στο πόλεμο Θανάση,1971-09-23,el,9.0,4.0
 185111,"Θου-Βου Φαλακρός Πράκτωρ, Επιχείρηση: Γης Μαδιάμ",1969-04-11,el,7.1,4.0
 296344,Πολυτεχνίτης και Ερημοσπίτης,1963-09-30,el,8.0,4.0
-300321,RWD,2015-09-26,en,3.6,5.0
 407799,The Genius of Marie Curie: The Woman Who Lit up the World,2013-05-03,en,0.0,0.0
 294409,Hollywood Without Make-Up,1963-07-01,en,6.0,1.0
 403450,In guerra per amore,2016-10-27,it,7.8,116.0
@@ -37739,7 +37399,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 168647,Sounder,2003-01-19,en,4.0,1.0
 419330,Somnus,2016-10-04,en,4.9,8.0
 413471,The Late Bloomer,2016-10-07,en,5.2,92.0
-413361,Ice Guardians,2016-09-12,en,9.3,3.0
 355065,Der Staat gegen Fritz Bauer,2015-09-13,de,6.5,33.0
 289180,H.,2014-08-28,en,6.5,4.0
 348896,Dare to Be Wild,2015-08-13,en,5.3,3.0
@@ -37807,7 +37466,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 16766,日本沈没,2006-07-15,ja,4.2,9.0
 358924,Miss Sharon Jones!,2015-09-11,en,8.0,3.0
 362579,Anabel,2015-10-11,es,8.6,8.0
-336271,The Dark Stranger,2016-07-15,en,5.2,10.0
 396004,The Evil in Us,2016-08-19,en,4.9,22.0
 208327,Manzan benigaki,2001-10-25,en,0.0,0.0
 394684,Que Dios nos perdone,2016-10-28,es,6.9,77.0
@@ -37937,7 +37595,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 387558,My Feral Heart,2016-03-05,en,0.0,0.0
 167644,Laulu koti-ikävästä,2012-09-23,en,5.5,2.0
 59853,Il toro,1994-01-01,it,6.5,4.0
-73077,Cose dell'altro mondo,2011-09-03,it,5.1,13.0
 150065,Yelling To The Sky,2012-12-14,en,4.9,6.0
 49927,冬春的日子,1994-02-19,zh,6.5,2.0
 129383,の・ようなもの,1981-09-12,ja,5.0,1.0
@@ -38000,11 +37657,9 @@ movie_id,title,release_date,language,vote_average,vote_count
 41973,"Thelonious Monk: Straight, No Chaser",1988-10-25,en,7.7,3.0
 276578,The Good Sister,2014-05-10,en,4.0,2.0
 27211,Kibar Feyzo,1978-01-01,tr,6.6,5.0
-345470,Hector,2015-12-11,en,7.0,2.0
 419471,The Unbidden,2016-04-22,en,3.0,1.0
 355506,Siren,2016-12-02,pt,5.4,53.0
 421313,Eliminators,2016-12-01,en,6.0,36.0
-140491,Alienate,2016-02-22,en,4.3,12.0
 26370,638 Ways to Kill Castro,2006-11-28,en,5.3,6.0
 376866,Jackie,2016-12-02,en,6.5,737.0
 74493,BALLAD 名もなき恋のうた,2009-09-05,ja,6.0,2.0
@@ -38070,7 +37725,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 75450,Enemies of the People,2009-11-24,en,6.8,4.0
 25021,The Alien Saga,2002-01-01,en,8.3,2.0
 74302,Köyden İndim Şehire,1974-01-01,tr,7.7,6.0
-42496,Millhouse,1971-01-01,en,5.0,1.0
 274870,Passengers,2016-12-21,en,6.7,4134.0
 78174,"Moi, Van Gogh",2009-03-25,en,4.8,2.0
 296633,제보자,2014-10-02,ko,7.6,8.0
@@ -38103,7 +37757,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 16359,Vox Populi,2008-10-23,en,7.3,3.0
 408203,Tyttö nimeltä Varpu,2016-09-23,fi,7.5,4.0
 210052,Wolfskinder,2013-08-28,de,7.1,5.0
-344039,Len and Company,2015-09-11,en,6.5,4.0
 332979,Bleed for This,2016-11-04,en,6.7,192.0
 187897,雙俠,1971-12-22,zh,6.5,6.0
 424889,Norman Television,2016-12-06,en,6.3,3.0
@@ -38143,7 +37796,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 418691,Shadows of the Dead,2016-10-22,en,6.2,6.0
 210653,El Hombre Sin Rostro,1950-07-29,es,8.0,2.0
 412213,ישמח חתני,2016-09-29,he,7.5,4.0
-406431,The Hurt Business,2016-01-01,en,5.6,10.0
 389044,L'effet aquatique,2016-06-29,fr,6.3,21.0
 345727,Pentatonix: On My Way Home,2015-06-18,en,6.9,8.0
 230031,Evacuate Earth,2012-12-02,en,7.2,3.0
@@ -38333,12 +37985,10 @@ movie_id,title,release_date,language,vote_average,vote_count
 266500,Dr. Cabbie,2014-09-19,en,5.7,14.0
 308919,Wishin' and Hopin',2014-11-23,en,4.0,1.0
 381707,Nuestros amantes,2016-02-08,es,6.9,33.0
-379441,Greater,2016-08-26,en,7.5,25.0
 381289,A Dog's Purpose,2017-01-19,en,6.6,657.0
 247446,At' žije republika,1965-11-05,en,8.3,3.0
 266558,Casus Belli,2010-12-09,en,7.0,3.0
 334890,The Schoolboy,2015-04-11,en,0.0,0.0
-37376,The Cube,1969-02-23,en,7.4,11.0
 393521,שבוע ויום,2016-12-14,he,6.9,7.0
 360814,दंगल,2016-12-23,hi,8.0,140.0
 261439,Hamlet at Elsinore,1964-11-15,en,0.0,0.0
@@ -38454,7 +38104,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 340481,La Fille inconnue,2016-10-05,fr,5.9,62.0
 382501,Eternity,2016-09-07,fr,5.4,36.0
 173189,Brian Posehn: The Fartist,2013-03-01,en,7.4,4.0
-134680,Billy Gardell: Halftime,2011-02-05,en,0.0,0.0
 375872,Cuerpo de élite,2016-08-26,es,4.5,40.0
 404791,Hundraettåringen som smet från notan och försvann,2016-12-25,sv,6.5,31.0
 369698,Викинг,2016-12-29,ru,5.1,29.0
@@ -38546,7 +38195,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 270529,The Sklar Brothers: What Are We Talking About?,2014-04-29,en,4.0,1.0
 334679,All Work All Play: The Pursuit of eSports Glory Live,2015-04-20,en,5.9,9.0
 108177,Demetri Martin. Person.,2007-01-14,en,6.9,9.0
-45782,Jeff Foxworthy: Totally Committed,1998-05-16,en,0.0,0.0
 102053,Them Idiots: Whirled Tour,2012-03-12,en,6.9,4.0
 38323,Ma-ma,1976-12-10,ru,5.8,7.0
 289171,Le Grimoire d'Arkandias,2014-10-22,fr,5.6,27.0
@@ -38586,7 +38234,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 76535,Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer,2011-10-25,en,7.0,72.0
 427045,A December Bride,2016-11-20,en,5.9,9.0
 420967,Girlfriends of Christmas Past,2016-10-25,en,0.0,0.0
-421623,A Nutcracker Christmas,2016-12-10,en,6.2,5.0
 410315,The Mistletoe Promise,2016-11-04,en,6.5,11.0
 382207,Late Bloomer,2016-08-06,en,6.7,3.0
 421626,Sleigh Bells Ring,2016-12-18,en,5.7,3.0
@@ -38597,7 +38244,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 367206,三少爷的剑,2016-12-02,zh,6.8,12.0
 28670,The Secret of Blood Island,1964-12-01,en,0.0,0.0
 242049,Beautiful Noise,2014-05-17,en,6.6,4.0
-48346,Special Delivery,1978-01-01,en,7.3,4.0
 61341,Ferocious Planet,2011-04-09,en,3.8,20.0
 72268,Bäst i Sverige!,2002-03-26,sv,3.3,3.0
 158273,Max and Mona,2004-09-11,en,8.0,1.0
@@ -38608,7 +38254,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 228987,Gossip,2000-12-24,sv,3.0,1.0
 362584,傷物語　第二部〈Ⅱ熱血篇〉,2016-08-19,ja,8.9,11.0
 116988,Cadena perpetua,1979-08-09,es,7.3,6.0
-42467,Tüzoltó utca 25.,1973-09-27,en,5.0,1.0
 226236,Perry Mason: The Case of the Telltale Talk Show Host,1993-05-21,en,6.0,1.0
 267466,가시,2014-04-10,ko,6.9,14.0
 91618,Terminal Island,1973-06-01,en,6.0,10.0
@@ -38719,7 +38364,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 385261,해어화,2016-04-13,ko,7.7,5.0
 178614,Happy Anniversary and Goodbye,1974-11-19,en,5.0,1.0
 44519,Mughal-e-Azam,1960-01-01,hi,7.7,7.0
-380124,Boo! A Madea Halloween,2016-10-21,en,5.3,219.0
 388235,Spring Broke,2016-03-22,en,6.0,2.0
 18955,Coco,2009-07-21,en,4.4,121.0
 72822,Olé !,2005-12-07,fr,4.9,15.0
@@ -38764,7 +38408,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 174487,True Love and Chaos,1997-05-22,en,0.0,0.0
 123846,Prime Mover,2009-02-08,en,4.0,1.0
 371806,I Remember You,2015-11-13,en,5.2,5.0
-394723,El Hilo Rojo,2016-05-19,es,6.6,24.0
 416680,"Gilda, No Me Arrepiento de Este Amor",2016-09-15,es,5.8,4.0
 132298,Dibu: La Película,1997-07-10,es,0.0,0.0
 127021,Dibu 2: La venganza de Nasty,1998-07-02,es,0.0,0.0
@@ -38986,7 +38629,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 167858,Skazka Stranstviy,1983-09-04,ru,5.4,4.0
 364379,Cat Sick Blues,2015-10-29,en,6.0,9.0
 89403,Dear God No!,2011-10-21,en,3.4,15.0
-388410,Edgar Allan Poe's Lighthouse Keeper,2016-03-16,en,5.4,8.0
 359245,Even Lambs Have Teeth,2015-10-03,en,5.8,11.0
 120115,The Origin of Stitch,2005-08-30,en,6.0,1.0
 206899,悲愁物語,1977-01-01,ja,6.7,3.0
@@ -39047,7 +38689,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 429732,"Ana, mon amour",2017-03-03,fr,0.0,3.0
 437623,Hostages,2017-08-02,en,9.0,3.0
 36140,Loin du Vietnam,1967-01-01,en,5.6,4.0
-422972,Kill Ratio,2016-12-09,en,3.9,13.0
 362409,Trash Fire,2016-11-03,en,6.2,19.0
 32532,Everything Will Be OK,2006-01-10,en,8.2,19.0
 24140,Der Bockerer,1981-11-13,de,6.8,8.0
@@ -39243,7 +38884,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 439263,Kaunis Veera eli ballaadi Saimaalta,1950-09-22,fi,5.0,1.0
 442752,Petos,1988-03-18,fi,7.0,1.0
 393732,Mean Dreams,2016-10-21,en,6.5,22.0
-427451,Banking on Bitcoin,2016-12-30,en,7.0,17.0
 378018,The Void,2016-10-21,en,5.8,207.0
 22817,Disaster!,2006-07-20,en,4.6,11.0
 360328,Dartmoor Killing,2015-09-18,en,5.8,4.0
@@ -39258,7 +38898,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 47291,雞同鴨講,1988-07-14,cn,7.0,6.0
 173577,NY77: The Coolest Year in Hell,2007-07-09,en,8.6,5.0
 433082,Fuglene over sundet,2016-10-27,da,6.8,4.0
-42539,Brzezina,1970-11-10,pl,6.6,5.0
 110001,La fuga de Segovia,1981-11-07,es,6.5,1.0
 381009,Donald Cried,2017-03-03,en,8.0,2.0
 24948,Zombies! Zombies! Zombies!,2008-09-09,en,3.6,14.0
@@ -39291,7 +38930,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 75944,La Totale!,1991-12-18,fr,6.2,15.0
 56947,La crise,1992-12-02,it,7.7,14.0
 327231,I nöd eller lust,2015-03-06,sv,3.1,4.0
-416166,The Institute,2017-03-03,en,3.8,32.0
 352845,Lead with Your Heart,2015-09-19,en,3.0,2.0
 430128,Internet - O Filme,2017-02-23,pt,4.2,52.0
 240733,Shame the Devil,2013-12-02,de,3.5,3.0
@@ -39369,7 +39007,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 115161,Fish Heads,1980-01-01,en,8.0,1.0
 305470,Power Rangers,2017-03-23,en,6.3,1321.0
 126889,Alien: Covenant,2017-05-09,en,5.7,2677.0
-419522,Beata ignoranza,2017-02-23,it,5.6,65.0
 173631,Bremer Freiheit,1972-12-12,de,6.5,2.0
 154718,Wildwechsel,1973-01-09,de,7.0,3.0
 334521,Free Fire,2017-03-31,en,6.3,232.0
@@ -39404,11 +39041,9 @@ movie_id,title,release_date,language,vote_average,vote_count
 243764,Wie man sieht,1986-01-01,en,5.0,1.0
 255635,Tamam Mıyız?,2013-11-29,tr,6.0,8.0
 300490,Unutursam Fısılda,2014-10-29,tr,7.9,8.0
-439695,Saattokeikka,2017-03-10,fi,0.0,0.0
 371899,Синдром Петрушки,2015-11-05,ru,7.0,2.0
 47616,The Yellow Rolls-Royce,1964-12-31,en,4.9,10.0
 167618,Der Fall Wilhelm Reich,2013-01-17,de,6.0,1.0
-99343,Next Floor,2008-10-03,en,6.7,23.0
 351863,The Shaman,2015-04-18,en,7.3,7.0
 126919,The Scapegoat,1959-08-06,en,8.0,2.0
 2459,Un éléphant ça trompe énormément,1976-09-22,fr,6.8,20.0
@@ -39451,10 +39086,8 @@ movie_id,title,release_date,language,vote_average,vote_count
 356200,Ein Atem,2016-01-28,de,5.8,5.0
 408219,Population Zero,2016-04-26,en,5.0,10.0
 1848,Poodle Springs,1998-07-25,en,6.4,4.0
-412302,Gemini,2017-03-12,en,0.0,0.0
 270822,Junior,2011-01-01,en,0.0,0.0
 421962,Lily  & the Snowman,2015-12-13,en,0.0,0.0
-392790,Ma' Rosa,2016-11-09,tl,6.0,2.0
 440767,Trevor Noah: Afraid of the Dark,2017-02-21,en,7.6,16.0
 27551,The Barbarians,1987-03-01,en,5.2,9.0
 81472,Kill Squad,1982-06-01,en,4.6,4.0
@@ -39578,7 +39211,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 397415,Vengeance: A Love Story,2017-03-16,en,5.5,37.0
 239395,Arbeiter verlassen die Fabrik,1995-01-01,de,5.7,3.0
 54911,The Amazing Truth About Queen Raquela,2008-03-07,en,5.0,1.0
-64403,Princesa,2001-06-01,en,0.0,0.0
 133964,명왕성,2012-10-05,ko,7.3,7.0
 27969,Turk 182!,1985-02-15,en,6.1,27.0
 74336,조용한 가족,1998-04-25,ko,7.2,37.0
@@ -39619,12 +39251,10 @@ movie_id,title,release_date,language,vote_average,vote_count
 429662,Viceroy's House,2017-03-03,en,6.5,58.0
 66628,地球[テラ]へ...,1980-04-25,en,7.5,4.0
 54970,Весна на Заречной улице,1956-11-26,ru,6.6,8.0
-446076,嫌疑人X的献身,2017-03-31,zh,8.0,2.0
 289222,The Zookeeper's Wife,2017-03-31,en,7.1,160.0
 3427,Max et les ferrailleurs,1971-02-17,fr,6.3,10.0
 125313,Окраина,1998-10-04,ru,6.5,4.0
 121688,Дикое поле,2008-09-05,ru,5.0,4.0
-52400,Yoroi: Samurai zombie,2008-06-30,en,5.0,1.0
 135561,Mangue Negro,2008-07-28,pt,5.9,7.0
 6107,Murder in Three Acts,1986-09-30,en,5.4,5.0
 440777,Female Fight Club,2017-03-16,en,7.2,5.0
@@ -39697,7 +39327,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 404584,From a House on Willow Street,2017-03-24,en,5.1,43.0
 36968,Life-Size,2000-03-05,en,5.4,90.0
 180093,Stilleben,1997-05-23,en,5.0,1.0
-348375,Adama,2015-10-21,fr,6.0,12.0
 153272,Taxandria,1994-01-01,en,7.0,4.0
 34057,In Memory of My Father,2005-06-03,en,0.0,0.0
 37049,The Mouse and His Child,1977-11-18,en,5.8,5.0
@@ -39738,7 +39367,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 397442,Win It All,2017-03-11,en,5.7,61.0
 268531,Captain Underpants: The First Epic Movie,2017-06-01,en,6.5,159.0
 346034,3 Idiotas,2017-04-02,es,6.2,14.0
-426230,Band Aid,2017-06-02,en,6.5,25.0
 418078,It Comes at Night,2017-06-09,en,5.6,357.0
 424488,Megan Leavey,2017-06-09,en,7.1,101.0
 413998,My Cousin Rachel,2017-06-08,en,5.7,91.0
@@ -39838,7 +39466,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 401689,Mythica: The Godslayer,2016-12-17,en,5.3,14.0
 156045,凶榜,1981-11-05,zh,7.2,3.0
 220669,Королёв,2007-10-29,ru,1.0,1.0
-271404,Beyond Skyline,2017-10-20,en,0.0,30.0
 321757,Punching Henry,2017-02-24,en,6.2,13.0
 61708,Shake! Otis at Monterey,1987-10-16,en,6.9,4.0
 49160,The Time Travelers,1964-10-29,en,5.7,14.0
@@ -39920,18 +39547,14 @@ movie_id,title,release_date,language,vote_average,vote_count
 64468,Çalgı Çengi,2011-02-18,tr,7.8,15.0
 296901,Ateş Böceği,1975-09-16,en,10.0,1.0
 236041,En Büyük Şaban,1983-02-21,en,7.3,3.0
-48763,Eyyvah Eyvah,2010-02-26,tr,6.6,14.0
 452606,Sultan,1978-12-01,tr,0.0,0.0
 65010,Gülen Gözler,1977-03-01,tr,9.0,2.0
 101217,Hanzo,1975-04-01,en,6.3,3.0
-53206,Neseli günler,1978-01-01,tr,8.2,5.0
 236053,Japon İşi,1987-11-29,tr,6.3,2.0
 123592,Korkusuz Korkak,1979-01-01,tr,7.0,3.0
 109671,Maskeli Beşler İntikam Peşinde,2005-10-28,tr,8.3,2.0
-69319,Mavi Boncuk,1974-01-01,tr,8.3,4.0
 110029,Oh Olsun,1973-01-01,tr,7.0,2.0
 38614,Romantik Komedi,2010-02-05,en,5.3,7.0
-74171,Sahte Kabadayı,1976-09-01,tr,7.0,3.0
 327935,Şabaniye,1984-06-02,tr,6.8,2.0
 110040,Salako,1974-12-12,tr,6.3,4.0
 123601,Sosyete Şaban,1985-01-01,tr,6.3,3.0
@@ -39983,7 +39606,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 63414,డార్లింగ్,2010-04-23,te,4.9,8.0
 145051,The Kinematograph,2009-01-01,en,6.4,5.0
 455363,The Rise and Fall of a Jungle Giant,1958-01-01,en,0.0,0.0
-390396,Command and Control,2016-09-14,en,5.1,6.0
 455368,David Lean and His Dedicated Maniacs,2009-10-03,en,0.0,0.0
 63958,Даун Хаус,2001-06-06,ru,5.9,11.0
 60068,ССД: Смерть Советским Детям,2008-09-04,ru,4.5,8.0
@@ -40036,7 +39658,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 441652,Final Offer,1985-11-26,en,0.0,0.0
 34325,Dead Kennedys: The Early Years,1987-01-01,en,0.0,0.0
 34521,Paul Mooney: Analyzing White America,2002-01-01,en,4.3,2.0
-439998,Omicidio all'italiana,2017-03-02,it,6.3,69.0
 77534,Тупой жирный заяц,2007-03-29,ru,3.9,4.0
 20543,Steven Wright: When the Leaves Blow Away,2006-10-21,en,5.6,4.0
 72386,Lenny Bruce in 'Lenny Bruce',1967-03-19,en,7.0,1.0
@@ -40061,7 +39682,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 143883,День Радио (Спектакль),2001-03-24,ru,9.0,5.0
 61672,Titeuf - le film,2011-04-06,fr,5.5,35.0
 227334,"Gahan Wilson: Born Dead, Still Weird",2013-10-11,en,0.0,0.0
-44265,Lurking Fear,1994-07-27,en,4.3,13.0
 430161,El faro de las orcas,2016-12-16,es,6.9,30.0
 315371,Живая мишень,1990-06-06,ru,5.0,1.0
 21947,A.P.E.X.,1994-02-01,en,5.0,8.0
@@ -40176,7 +39796,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 406099,快手枪手快枪手,2016-07-15,en,7.0,1.0
 310933,Bleeding Hearts,2013-06-01,en,2.0,1.0
 395452,Dans les forêts de Sibérie,2016-06-15,fr,7.3,34.0
-44055,ラブデス,2006-02-24,ja,7.0,1.0
 50108,Khun krabii hiiroh,2004-12-16,th,5.7,11.0
 54400,"Wax, or the Discovery of Television Among the Bees",1991-10-21,en,2.5,2.0
 22939,Spider-Plant Man,2005-03-11,en,5.5,12.0
@@ -40257,7 +39876,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 49579,Сумасшедшая помощь,2009-06-10,ru,4.8,6.0
 38332,Коля - перекати поле,2005-10-13,ru,6.2,3.0
 49574,Облако-рай,1990-12-04,ru,5.9,7.0
-126555,Zlatovláska,1973-01-28,cs,6.0,2.0
 78595,Trois huit,2001-03-14,fr,7.0,1.0
 57204,Touch and Go,1986-08-22,en,7.1,8.0
 152989,La stratégie de la poussette,2012-11-10,fr,5.4,36.0
@@ -40291,7 +39909,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 55738,Shut Up and Kiss Me!,2004-03-05,en,4.3,3.0
 55734,Second String,2002-12-18,en,7.0,1.0
 82377,Secret Santa,2003-12-14,en,5.1,7.0
-44762,Short Track,2008-08-30,en,6.5,2.0
 318348,Reverse Runner,2013-02-21,en,5.4,4.0
 20473,Not Quite Human,1987-06-19,en,5.3,12.0
 20564,Nearing Grace,2005-06-18,en,5.5,6.0
@@ -40302,7 +39919,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 24881,Love Hurts,2009-11-13,en,5.3,13.0
 55694,Miracle Beach,1992-09-15,en,5.6,9.0
 59807,Love and Mary,2007-01-01,en,5.3,6.0
-39084,Once a Thief,1996-09-29,en,4.8,6.0
 71288,Meant To Be,2010-04-24,sv,4.4,5.0
 55769,Man Maid,2009-10-28,en,7.0,1.0
 44593,Perfect Opposites,2004-02-06,en,4.8,5.0
@@ -40312,7 +39928,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 393196,Meet The Santas,2005-12-17,en,4.2,5.0
 41301,Nature of the Beast,2007-10-21,en,5.3,5.0
 30118,Outside Sales,2006-06-01,en,8.0,1.0
-76059,Oesje!,1997-10-29,en,7.5,2.0
 387999,The High Schooler's Guide to College Parties,2016-03-16,en,5.0,6.0
 26264,George of the Jungle 2,2003-08-18,en,3.9,97.0
 256109,Last Call,2012-04-12,en,3.7,6.0
@@ -40421,7 +40036,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 37851,Na Igre 2. Novyy Uroven,2010-04-15,ru,5.1,14.0
 36699,My Iz Budushchego 2,2010-02-18,en,5.2,9.0
 53268,World Builder,2007-01-01,en,7.0,7.0
-62732,Любовь-морковь 2,2008-12-23,ru,3.9,9.0
 47812,Lyubov V Bolshom Gorode 2,2010-02-25,ru,5.9,5.0
 36698,Запрещeнная реальность,2009-10-08,ru,4.4,6.0
 37656,Na Igre,2009-11-26,ru,6.0,13.0
@@ -40473,12 +40087,10 @@ movie_id,title,release_date,language,vote_average,vote_count
 118144,아들,2007-05-01,ko,7.0,3.0
 40886,PiCNiC,1996-06-15,ja,6.2,12.0
 264356,Simon's Cat,2012-10-19,en,7.0,7.0
-80617,Mythbusters Holiday Special,2006-12-06,en,7.5,88.0
 294682,リトル・フォレスト 夏・秋,2014-08-30,ja,8.3,16.0
 74535,Приключения капитана Врунгеля,1979-06-06,ru,7.6,7.0
 81213,S@motnosc w sieci,2006-01-01,en,4.0,3.0
 415132,Arès,2016-11-23,fr,6.5,41.0
-56147,Gli amori di Ercole,1960-08-19,it,4.2,10.0
 67742,S&Man,2006-03-10,en,4.9,8.0
 384371,Adopte un veuf,2016-04-20,fr,6.3,133.0
 17101,劇場版BLEACH The DiamondDust Rebellion もう一つの氷輪丸,2007-12-22,ja,6.5,33.0
@@ -40507,7 +40119,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 406107,Dead Awake,2017-05-12,en,5.3,20.0
 29361,Антикиллер Д.К.: Любовь без памяти,2009-12-03,ru,4.6,5.0
 56820,Живи и помни,2008-06-26,ru,4.3,3.0
-71322,Платон,2008-11-28,ru,4.8,4.0
 57779,Особенности национальной подледной ловли или Отрыв по полной,2007-01-01,ru,5.7,3.0
 56759,Notre Dame de Paris,1998-09-18,fr,8.0,26.0
 59290,Polar Opposites,2008-01-01,fr,3.0,2.0
@@ -40538,8 +40149,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 197057,А поутру они проснулись,2003-12-04,ru,4.5,3.0
 143005,Львиная доля,2001-01-01,ru,4.0,2.0
 53086,Paragraf 78 - Film Pervyy,2007-02-21,ru,6.3,12.0
-62997,Nulevoy Kilometr,2007-10-25,en,4.0,2.0
-62731,Любовь-морковь,2007-03-01,ru,3.6,11.0
 336484,Каменная башка,2008-09-18,ru,4.0,2.0
 160046,Вовка в Тридевятом царстве,1965-01-01,ru,4.9,7.0
 90001,"Фильм, фильм, фильм",1968-01-01,ru,6.1,10.0
@@ -40567,7 +40176,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 68954,Longitude,2000-01-13,en,7.3,12.0
 19312,The Black Hole,2006-06-10,en,3.4,15.0
 57207,Potseluy Skvoz Stenu,2011-01-25,ru,4.0,5.0
-62787,Заблудившийся,2009-09-01,ru,3.0,3.0
 51275,Поп,2009-04-04,ru,5.7,6.0
 111332,Avatar: Creating the World of Pandora,2010-02-07,en,5.8,5.0
 34417,Good Intentions,2010-03-09,en,5.0,6.0
@@ -40634,7 +40242,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 134732,Daddy-O,1958-03-01,en,2.0,2.0
 43241,The Amazing Colossal Man,1957-10-25,en,4.1,13.0
 85854,The Saga of the Viking Women and Their Voyage to the Waters of the Great Sea Serpent,1957-12-01,en,2.0,3.0
-118155,Star Force: Fugitive Alien II,1987-01-01,en,1.0,1.0
 39402,Ercole e la regina di Lidia,1959-02-14,it,5.2,12.0
 42576,Ercole alla conquista di Atlantide,1961-08-19,it,3.9,7.0
 154371,Manhunt in Space,1956-01-01,en,1.0,1.0
@@ -40758,7 +40365,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 67840,Classic Albums : The Who - Who's Next,1999-10-21,en,7.5,2.0
 135787,The Silver Screen: Color Me Lavender,1997-11-01,en,0.0,0.0
 260666,El Super,1979-04-28,en,7.0,2.0
-327253,The Gracefield Incident,2017-07-21,en,4.7,26.0
 154727,銀河英雄伝説外伝／新たなる戦いの序曲（オーヴァチュア）,1993-12-18,ja,7.2,5.0
 423360,Молот,2016-11-03,ru,6.0,2.0
 11930,Autobahnraser,2004-02-19,de,4.3,13.0
@@ -40773,7 +40379,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 447236,Kincsem,2017-03-16,hu,5.3,3.0
 110131,Az aranyember,1962-12-13,hu,7.8,2.0
 41075,Sose halunk meg!,1993-01-15,hu,5.0,1.0
-37587,Willy The Sparrow,1988-03-09,en,5.3,5.0
 41055,Csapd le csacsi!,1992-02-21,hu,7.8,3.0
 8776,"Isten hozta, őrnagy úr!",1969-11-29,hu,5.9,4.0
 41689,Abigél,1978-01-01,hu,6.5,2.0
@@ -40790,7 +40395,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 431251,목숨 건 연애,2016-12-14,ko,7.7,3.0
 124505,アフロ田中,2012-02-18,ja,3.2,3.0
 133977,ライアーゲーム -再生-,2012-03-03,ja,5.8,6.0
-39827,The Who: Thirty Years of Maximum R&B,1994-08-15,en,0.0,0.0
 277396,Three Sisters,1970-04-01,en,2.0,1.0
 49168,Urs al-Jalil,1988-01-01,ar,5.5,4.0
 356167,Jimi Hendrix: Electric Church,2015-09-04,en,7.2,3.0
@@ -40834,7 +40438,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 401359,Breakdown Lane,2017-01-05,en,4.0,8.0
 382589,Rock'n Roll,2017-02-15,fr,5.4,194.0
 76812,Black Butterfly,2017-05-26,en,6.5,93.0
-430448,I Am Jane Doe,2017-02-10,en,6.7,10.0
 419601,Поэма о крыльях,1979-07-06,ru,0.0,0.0
 59738,Girls Nite Out,1982-06-20,en,4.7,3.0
 66526,முதல்வன்,1999-11-07,ta,6.3,6.0
@@ -40932,7 +40535,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 83481,Herois,2010-10-22,ca,7.6,11.0
 51424,Zítra vstanu a opařím se čajem,1977-06-01,cs,6.3,10.0
 327982,ДухLess 2,2015-03-05,ru,4.4,11.0
-453053,Dumb: The Story of Big Brother Magazine,2017-06-03,en,6.0,1.0
 176167,Parsifal,1982-04-30,de,8.3,3.0
 264389,Carmín Tropical,2014-10-16,en,6.0,3.0
 377278,L'économie du couple,2016-06-08,fr,5.9,38.0
@@ -40942,7 +40544,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 4049,Die gläserne Zelle,1978-04-05,de,5.0,1.0
 402919,Das Versprechen,2016-10-27,de,4.5,3.0
 413992,Sweet Virginia,2017-11-17,en,0.0,1.0
-412059,Mobile Homes,2018-04-04,en,0.0,1.0
 436305,The Farthest,2017-02-26,en,8.3,6.0
 181564,Za Posledney Chertoy,1991-07-09,ru,5.3,2.0
 151652,Шал,2012-01-01,ru,4.0,4.0
@@ -40957,10 +40558,8 @@ movie_id,title,release_date,language,vote_average,vote_count
 49578,Zhivye i Myortvye,1963-06-06,en,5.0,1.0
 115788,ラブホテル,1985-08-03,ja,5.0,1.0
 383526,Nunca vas a estar solo,2016-02-13,es,7.6,11.0
-367966,Harold and Lillian: A Hollywood Love Story,2015-11-17,en,10.0,1.0
 408616,The Journey,2017-03-30,en,7.4,5.0
 419192,McLaren,2017-05-25,en,8.0,13.0
-44105,Kader,2006-01-01,tr,7.7,8.0
 142881,Коммунист,1958-02-03,ru,6.7,3.0
 392794,La Danseuse,2016-09-28,fr,6.3,66.0
 17725,Grow Your Own,2007-06-15,en,6.2,6.0
@@ -40975,7 +40574,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 72811,Зимняя вишня,1985-10-21,ru,4.0,2.0
 73545,Ехали в трамвае Ильф и Петров,1972-08-19,ru,6.0,1.0
 63299,Blondinka za Uglom,1983-06-06,en,6.0,3.0
-63584,Usatyy Nyan,1977-06-06,en,8.5,2.0
 195503,Влюблен по собственному желанию,1982-11-01,ru,3.5,2.0
 448879,Приключения Домовёнка,1986-03-25,ru,9.0,1.0
 37174,Карнавал,1982-02-17,ru,8.3,4.0
@@ -41205,7 +40803,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 68623,Baau lit ying ging,1999-08-05,cn,6.7,3.0
 91902,Ecstasy,2011-09-10,en,4.9,12.0
 332788,Kocan Kadar Konuş,2015-03-20,tr,6.4,7.0
-432607,Dina,2017-10-20,en,0.0,2.0
 441881,Tubelight,2017-06-23,hi,6.4,20.0
 448847,The Hatton Garden Job,2017-04-14,en,6.1,14.0
 441728,Hampstead,2017-06-23,en,7.3,9.0
@@ -41236,12 +40833,9 @@ movie_id,title,release_date,language,vote_average,vote_count
 255391,ペコロスの母に会いに行く,2013-11-16,ja,5.5,3.0
 116336,Island of Lost Women,1959-05-01,en,4.7,3.0
 446345,La révolution n'est pas un dîner de gala,2015-12-01,fr,0.0,0.0
-429200,Good Time,2017-08-11,en,7.3,46.0
 37991,Il compagno Don Camillo,1965-09-17,it,7.2,32.0
 384669,Spicebush,2005-01-01,en,0.0,0.0
-412758,Eat Local,2017-04-06,en,6.3,20.0
 331110,Sicarivs: La noche y el silencio,2015-05-15,es,7.3,4.0
-436882,Tuintje in mijn hart,2017-03-02,nl,4.3,4.0
 445840,Selfie,2017-06-23,es,6.0,1.0
 2286,Kruistocht in Spijkerbroek,2006-11-15,en,6.0,15.0
 438081,乘风破浪,2017-01-28,zh,5.3,3.0
@@ -41257,7 +40851,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 257698,Femmes femmes,1974-11-27,fr,8.5,2.0
 449758,Five Came Back,2017-03-31,en,8.3,8.0
 440143,The Babymoon,2017-02-14,en,5.3,4.0
-433054,Legion of Brothers,2017-01-21,en,5.5,2.0
 381519,攻殻機動隊ＡＲＩＳＥ PYROPHORIC CULT,2015-08-26,ja,7.6,9.0
 438634,Estiu 1993,2017-06-30,ca,6.0,9.0
 50387,Grimm,2003-01-01,nl,5.6,9.0
@@ -41288,7 +40881,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 436450,Addicted to Porn: Chasing the Cardboard Butterfly,2017-02-03,en,5.0,3.0
 399823,"Byron, i balada enos daimonismenou",1998-11-15,el,0.0,0.0
 394260,Fai bei sogni,2016-11-10,it,6.8,37.0
-352494,Ripped,2017-06-23,en,5.0,7.0
 350808,"HIlja, maitotyttö",1953-12-22,fi,0.0,0.0
 463800,Firebase,2017-06-28,en,7.3,28.0
 26147,FC Venus,2005-12-30,fi,5.6,10.0
@@ -41321,15 +40913,12 @@ movie_id,title,release_date,language,vote_average,vote_count
 464819,The Making of 'The Terminator': A Retrospective,1992-01-01,en,0.0,0.0
 428501,City of Ghosts,2017-07-14,en,2.0,3.0
 432615,Chasing Coral,2017-03-16,en,8.7,14.0
-433067,This Is Everything: Gigi Gorgeous,2017-01-24,en,5.3,3.0
 352387,Fool's Day,2013-04-18,en,10.0,1.0
 359749,78/52,2017-11-03,en,0.0,4.0
-430834,Water & Power: A California Heist,2017-01-23,en,7.5,2.0
 415086,What the Health,2017-03-16,en,7.9,46.0
 433084,Joshua: Teenager vs. Superpower,2017-01-20,en,6.9,7.0
 422842,"Hailey Dean Mystery: Murder, With Love",2016-10-23,en,6.0,1.0
 313943,Revolt,2017-07-01,en,6.0,21.0
-455675,Hickok,2017-07-07,en,5.0,9.0
 345916,Do You Take This Man,2017-07-07,en,0.0,0.0
 353491,The Dark Tower,2017-08-03,en,5.7,688.0
 458335,Soundtrack,2017-07-06,pt,0.0,0.0
@@ -41350,7 +40939,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 16839,G:MT Greenwich Mean Time,1999-10-01,en,5.0,6.0
 126314,Final Cut: Hölgyeim és uraim,2012-02-04,hu,7.8,20.0
 18359,To Kill a King,2003-01-01,en,5.5,18.0
-394185,Chokeslam,2016-10-10,en,5.3,3.0
 404733,Overdrive,2017-06-29,en,6.2,76.0
 77519,Le libertin,2000-03-15,fr,6.4,4.0
 32593,Snow White,2001-10-28,en,5.3,52.0
@@ -41379,7 +40967,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 444902,Dirty Dancing,2017-05-24,en,5.3,58.0
 54988,Bird on a Wire,1974-07-05,en,6.0,2.0
 340856,Seinfeld: How It Began,2004-11-23,en,9.0,1.0
-49492,Jogwa - The Awakening,2009-09-25,en,0.0,0.0
 6029,Тайна «Черных дроздов»,1983-01-01,ru,6.8,4.0
 401427,Elegy,2014-09-10,en,0.0,0.0
 14247,Sniper 3,2004-10-18,en,5.2,28.0
@@ -41388,7 +40975,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 83486,Polyoty vo Sne i Nayavu,1982-01-01,ru,5.3,6.0
 314238,Plug,2014-10-25,en,5.6,5.0
 298540,Cru,2014-06-21,en,8.0,2.0
-355193,Devil's Gate,2017-04-24,en,7.0,2.0
 465044,Abduction,2017-06-28,en,0.0,0.0
 390747,Obit,2017-04-26,en,5.3,3.0
 76498,Heartworn Highways,1976-05-01,en,8.3,2.0
@@ -41400,7 +40986,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 425071,Decanted,2016-11-11,en,0.0,0.0
 73799,Tooi Sekai,1999-01-02,en,4.5,2.0
 296779,De wachtkamer,1996-10-09,nl,8.0,3.0
-128268,Veruschka - Die Inszenierung (m)eines Körpers,2005-09-30,en,6.0,1.0
 58763,God of Love,2010-06-12,en,6.7,11.0
 40544,Ghibli et le mystère Miyazaki,2005-01-07,en,7.0,1.0
 152155,Со мною вот что происходит,2012-12-09,ru,5.7,3.0
@@ -41419,7 +41004,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 79728,Nicostratos le pélican,2011-06-29,fr,6.8,12.0
 21044,Surviving Sid,2008-10-20,en,6.2,23.0
 307649,Любит не любит,2014-12-04,ru,7.0,1.0
-63568,A Esli Eto Lyubov?,1961-06-06,ru,5.0,1.0
 75232,Puzzled Love,2010-06-06,es,6.0,1.0
 10524,La Disparue de Deauville,2007-05-23,fr,4.1,7.0
 72363,Je reste !,2003-10-01,fr,5.6,11.0
@@ -41468,7 +41052,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 366071,Enchiridion,2012-10-12,en,0.0,0.0
 204821,Dragstrip Girl,1994-09-02,en,0.0,0.0
 69560,Dying to Belong,1997-02-24,en,6.6,5.0
-41811,Eating,1990-11-30,en,0.0,0.0
 51078,Getting Out,1994-04-25,en,5.5,2.0
 65662,Hit Me,1996-09-09,en,5.5,1.0
 222383,How to Be Louise,1990-01-01,en,0.0,0.0
@@ -41515,7 +41098,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 417870,Girls Trip,2017-07-21,en,7.1,393.0
 419459,Landline,2017-07-21,en,5.1,9.0
 407448,Detroit,2017-07-28,en,7.3,67.0
-414453,Columbus,2017-08-04,en,6.0,4.0
 329005,Autism in Love,2015-04-15,en,5.8,4.0
 213204,The Foxy Merkins,2013-08-09,en,6.0,2.0
 117800,Hourou-ki,1962-09-29,ja,0.0,0.0
@@ -41592,7 +41174,6 @@ movie_id,title,release_date,language,vote_average,vote_count
 59958,Gideon's Daughter,2005-10-21,en,6.0,15.0
 432025,Sztuka kochania. Historia Michaliny Wisłockiej,2017-01-27,pl,6.7,9.0
 36391,Kingsajz,1988-05-02,en,7.3,8.0
-87229,Kóngavegur,2010-03-26,is,0.0,0.0
 383618,Siv sover vilse,2016-09-28,sv,0.0,0.0
 10819,Wesele,2004-10-13,pl,6.6,7.0
 31856,Hydrozagadka,1971-04-30,en,5.3,3.0
