@@ -147,3 +147,22 @@ into all_departments_percent
 from joined_gender_all_departments as jgad
 inner join metadata as md
 	on(md.movie_id=jgad.movie_id)
+
+
+
+combine all gender_calculations with metadata
+
+
+
+-- Flowchart
+
+
+CrewETL
+	- takes credits.csv, explodes, cleans, exports dept_(name)
+
+all_deparments - has new data in old table
+all_gender_calculations = new table
+all_departments_percent = new table
+
+
+
