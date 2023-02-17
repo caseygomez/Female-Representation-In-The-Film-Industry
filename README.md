@@ -68,15 +68,56 @@ Below the obtained supervised models are described:
 
 * Female participation in all departments (Directing, Production, and Writing)
 
+* Linear regression model *
+![all_depart_model](https://github.com/caseygomez/Capstone/blob/accuracy/Images/all_depart_model.png)
+
+* Model calculated error *
+
+![all_depart_error](https://github.com/caseygomez/Capstone/blob/accuracy/Images/all_depart_error.png)
+
+* Residuals graph *
+
+![all_depart_residuals](https://github.com/caseygomez/Capstone/blob/accuracy/Images/all_depart_residuals.png)
 
 * Female participation in the Directing department
 
+* Linear regression model *
+![directing_model](https://github.com/caseygomez/Capstone/blob/accuracy/Images/directing_model.png)
+
+* Model calculated error *
+
+![directing_error](https://github.com/caseygomez/Capstone/blob/accuracy/Images/directing_error.png)
+
+* Residuals graph *
+
+![directing_residuals](https://github.com/caseygomez/Capstone/blob/accuracy/Images/directing_residuals.png)
 
 * Female participation in the Production department
+
+* Linear regression model *
+![production_model](https://github.com/caseygomez/Capstone/blob/accuracy/Images/production_model.png)
+
+* Model calculated error *
+
+![production_error](https://github.com/caseygomez/Capstone/blob/accuracy/Images/production_error.png)
+
+* Residuals graph *
+
+![production_residuals](https://github.com/caseygomez/Capstone/blob/accuracy/Images/production_residuals.png)
 
 
 * Female participation in the Writing department
 
+* Linear regression model *
+![writing_model](https://github.com/caseygomez/Capstone/blob/accuracy/Images/writing_model.png)
+
+* Model calculated error *
+
+![writing_error](https://github.com/caseygomez/Capstone/blob/accuracy/Images/writing_error.png)
+
+* Residuals graph *
+
+![writing_residuals](https://github.com/caseygomez/Capstone/blob/accuracy/Images/writing_residuals.png)
 
 
 
