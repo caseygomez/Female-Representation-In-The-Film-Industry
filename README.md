@@ -41,7 +41,7 @@ There were 272,319 crew members marked as 0, 31,123 members marked as 1 and 160,
 
 ### Database Structure:
 
-The database is hosted on Amazon S3, the cloud allows for quick and easy access for the team. The data has been divided into 8 tables. The structure allows for joins on the movie_id. 
+The database is hosted on Amazon RDS, the cloud allows for quick and easy access for the team. The data has been divided into 8 tables. The structure allows for joins on the movie_id. 
 
 The most important table for this project is the all_departments_percent table. This table has three columns; movie_id, release_date, percent_female. With the release date and percent of female crew members, one is able to track trends in the movie industry over the past 70 years. 
 
@@ -50,3 +50,33 @@ The most important table for this project is the all_departments_percent table. 
 The keywords table has the most rows and one movie_id can have several keywords. It is important to capture the number of occurrences to provide context for the other data sets. 
 
 <img src="https://github.com/caseygomez/Capstone/blob/main/Images/keywords.png" height="250">
+
+## Machine Learning
+
+### Model Selection
+For the assessment of female participation in the film industry through the years supervised a linear regression model was selected. Linear regression allows to evaluate the character and strenght of the association between an independent variable a corresponding dependent variable. The result of the mathematical association between female participation over time would show if the number of women working behind cameras in movies has increased, decreased or stayed relatively constant through the years. This would provide a clear insight on the general behaviour of the dataset with the resources and time allocated for this project.
+
+Additionally, the linear regression equation can be used to predict new values based on the existing data.
+The percentage of female part of the evaluated departments is a continuous numerical value that matches the requirements for the linear regression model.
+As can be showed below, a linear regression model was applied to the following datasets over time:
+* Female participation in all departments (Directing, Production, and Writing)
+* Female participation by individual department (Directing, Production, and Writing)
+
+### Linear Regression Equation and accuracy
+
+Below the obtained supervised models are described: 
+
+* Female participation in all departments (Directing, Production, and Writing)
+
+
+* Female participation in the Directing department
+
+
+* Female participation in the Production department
+
+
+* Female participation in the Writing department
+
+
+
+
