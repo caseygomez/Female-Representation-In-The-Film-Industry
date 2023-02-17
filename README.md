@@ -53,5 +53,70 @@ The keywords table has the most rows and one movie_id can have several keywords.
 
 ## Machine Learning
 
-For the assessment of female participation in the film industry through the years supervised 
+### Model Selection
+For the assessment of female participation in the film industry through the years supervised a linear regression model was selected. Linear regression allows to evaluate the character and strenght of the association between an independent variable a corresponding dependent variable. The result of the mathematical association between female participation over time would show if the number of women working behind cameras in movies has increased, decreased or stayed relatively constant through the years. This would provide a clear insight on the general behaviour of the dataset with the resources and time allocated for this project.
 
+Additionally, the linear regression equation can be used to predict new values based on the existing data.
+The percentage of female part of the evaluated departments is a continuous numerical value that matches the requirements for the linear regression model.
+As can be showed below, a linear regression model was applied to the following datasets over time:
+* Female participation in all departments (Directing, Production, and Writing)
+* Female participation by individual department (Directing, Production, and Writing)
+
+### Linear Regression Equation and accuracy
+
+Below the obtained supervised models are described: 
+
+* Female participation in all departments (Directing, Production, and Writing)
+
+*Linear regression model*
+
+![all_depart_model](https://github.com/caseygomez/Capstone/blob/accuracy/Images/all_depart_model.png)
+
+*Model calculated error*
+
+![all_depart_error](https://github.com/caseygomez/Capstone/blob/accuracy/Images/all_depart_error.png)
+
+*Residuals graph*
+
+![all_depart_residuals](https://github.com/caseygomez/Capstone/blob/accuracy/Images/all_depart_residuals.png)
+
+* Female participation in the Directing department
+
+*Linear regression model*
+
+![directing_model](https://github.com/caseygomez/Capstone/blob/accuracy/Images/directing_model.png)
+
+*Model calculated error*
+
+![directing_error](https://github.com/caseygomez/Capstone/blob/accuracy/Images/directing_error.png)
+
+*Residuals graph*
+
+![directing_residuals](https://github.com/caseygomez/Capstone/blob/accuracy/Images/directing_residuals.png)
+
+* Female participation in the Production department
+
+*Linear regression model*
+![production_model](https://github.com/caseygomez/Capstone/blob/accuracy/Images/production_model.png)
+
+*Model calculated error*
+
+![production_error](https://github.com/caseygomez/Capstone/blob/accuracy/Images/production_error.png)
+
+*Residuals graph*
+
+![production_residuals](https://github.com/caseygomez/Capstone/blob/accuracy/Images/production_residuals.png)
+
+
+* Female participation in the Writing department
+
+*Linear regression model*
+![writing_model](https://github.com/caseygomez/Capstone/blob/accuracy/Images/writing_model.png)
+
+*Model calculated error*
+
+![writing_error](https://github.com/caseygomez/Capstone/blob/accuracy/Images/writing_error.png)
+
+*Residuals graph*
+
+![writing_residuals](https://github.com/caseygomez/Capstone/blob/accuracy/Images/writing_residuals.png)
