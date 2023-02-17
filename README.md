@@ -41,7 +41,7 @@ There were 272,319 crew members marked as 0, 31,123 members marked as 1 and 160,
 
 ### Database Structure:
 
-The database is hosted on Amazon S3, the cloud allows for quick and easy access for the team. The data has been divided into 8 tables. The structure allows for joins on the movie_id. 
+The database is hosted on Amazon RDS, the cloud allows for quick and easy access for the team. The data has been divided into 8 tables. The structure allows for joins on the movie_id. 
 
 The most important table for this project is the all_departments_percent table. This table has three columns; movie_id, release_date, percent_female. With the release date and percent of female crew members, one is able to track trends in the movie industry over the past 70 years. 
 
@@ -50,3 +50,8 @@ The most important table for this project is the all_departments_percent table. 
 The keywords table has the most rows and one movie_id can have several keywords. It is important to capture the number of occurrences to provide context for the other data sets. 
 
 <img src="https://github.com/caseygomez/Capstone/blob/main/Images/keywords.png" height="250">
+
+## Machine Learning
+
+For the assessment of female participation in the film industry through the years supervised 
+
