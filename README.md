@@ -119,8 +119,8 @@ Below the obtained supervised models are described:
 ![writing_residuals](https://github.com/caseygomez/Capstone/blob/accuracy/Images/writing_residuals.png)
 
 ---
-### Tableau 
-Using Tableau connections, all csv files produced from the database were linked via the movie id column from the metadata table. There were key values that were consistently used throughout the dashboard; release date, average percentage female, keyword, countries, companies. 
+### Tableau Visualizations
+Using Tableau connections, all of the .csv files produced in Postgres were linked via the movie id column in the metadata table. The key metrics that were evaluated in the dashboard were movie release date, average percentage female crew members, genre, keyword, production countries, and production companies. 
 
 *Female Percentage for All Departments*
 ![all_departmentes_line](https://github.com/caseygomez/Capstone/blob/main/Images/tableau_all.png)
@@ -130,9 +130,15 @@ Using Tableau connections, all csv files produced from the database were linked 
 
 ---
 ### Future Analysis 
-In the future, the cleaned data could be used to explore deeper connections between keywords, countries, genres, and companies. Additionally, exploring nonlinear regression could better describe the relationship between female crew members and time. 
+* Nonlinear regression could be explored as a way to better describe the relationship between female crew members and time. 
+* The currently cleaned and prepared data could be used to explore deeper connections between female crew members and keywords, genres, and production countries and companies. 
+* The formerly deleted cast column could be cleaned and prepared using the same steps from the current analysis.
+  * The cast data could be used to explore the same relationships proposed for the crew data.
+  * Female cast and crew data could be investigated for possible correlations. 
+* The cleaned files also contain information on average voting scores for each movie, which could be analyzed for relationships between scores and female cast or crew members.
+* The Movies Database API could be scraped for data on movies released between 2017 and present day. This additional data could be used to validate the predictions already made in this analysis, as well as provide additional data points to refine the analysis.
 
 ---
 ### Additional Materials
-[Google Slidedeck - Project Presentation](https://docs.google.com/presentation/d/1cCyO-_hIM7on5ASuPeHfUKymAdPlYvNrsFdtkkTZsNc/edit?usp=sharing)
+* [Google Slidedeck - Project Presentation](https://docs.google.com/presentation/d/1cCyO-_hIM7on5ASuPeHfUKymAdPlYvNrsFdtkkTZsNc/edit?usp=sharing)
 
