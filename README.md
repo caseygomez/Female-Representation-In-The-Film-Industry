@@ -1,6 +1,6 @@
 # Equity and Film 
 
-Movies are a vehicle for audiences to experience different emotions and see new perspectives. The worldview, beliefs and economic interests of those making the movies will inevitably influence the story being told. This is why it is important that women are included in the filmaking process.
+Movies are a vehicle for audiences to experience different emotions and see new perspectives. The worldview, beliefs and economic interests of those making the movies will will be reflected in the stories being told. This is why it is important that women are included in the filmaking process.
 
 
 ## Current Question
