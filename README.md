@@ -1,7 +1,11 @@
 # Equity and Film 
 
+Movies are a vehicle to make audiences experience different emotions and see new perspectives. The worldview, beliefs and economical interests of those making the movies will inevitably be brought into the story being told.
+This is why is important that women are included in the filmaking process.
+
+
 ## Current Question
-How is the percentage of female crew members changing over time? 
+Has there been an increase in the percentage of females employed in the film industry since 1950?
 
 ---
 ### Relevance
