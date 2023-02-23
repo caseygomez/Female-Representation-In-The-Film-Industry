@@ -24,22 +24,26 @@ The model showed that there is a positive correlation between the variables of p
 
 ---
 ## Process
+
+### Data Preparation
 The original dataset required significant cleaning before building a database. 
 
-### Metadata
+#### Metadata
 The metadata file, before cleaning, contained **45,466** rows. First, all adult films and films that had not yet been released were dropped. Then, the columns of unnecessary data were dropped, reducing the total columns from 23 down to 9. The cleaning continued by removing duplicate movie ids and reordering the remaining columns. Then the release date column was transformed from a string to a datetime format, and all movie ids before 01-01-1950 were dropped. In total, the metadata file was reduced down to **34,118** unique movie ids. 
 
-The metadata file also contained information on movie genres, production companies, and the countries the films were produced in. Those columns were each a list of dictionaries that required exploding. All rows with null values were removed, and separate dataframes were created for each of those topics. The genres dataframe resulted in **83,259** rows, the countries dataframe resulted in **45,615** rows, and the companies dataframe resulted in **66,355** rows. 
-
-### Keywords
-The keywords dataset started with **46,419** rows. First, all rows with empty keywords were dropped, taking the dataset down to **31,624** rows. Then, the keyword column, which was a list of dictionaries, was exploded so that there was one dictionary per row. Then each key/value pair was split into separate columns for the movie id and keyword. The resulting dataset contained **158,516** rows and **18,638** unique keywords. This data was further condensed by grouping similar terms under broader keyword phrases (e.g., "dying woman", "man on deathbed", and "presumed dead" were all reclassified as "death and dying"). Rows with overly specific keywords (e.g., "character's point of view camera shot") or keywords indicating film genre were dropped. The final keyword file contained **145,494** rows and **14,243** unique keywords.
-
-### Credits
+#### Credits
 The credits dataset started with **45,476** rows and contained a column of data that contained the details of each cast member and another column with the details of each crew member for each movie id. First, the cast column was dropped and the crew column was exploded, so that the list of dictionaries became one dictionary per row. From there, the key/value pairs in each dictionary were turned into individual columns, and unnecessary columns were dropped. 
 
 The crew dataset contained the gender information, and initial inspection showed that **272,319** crew members were assigned a gender of 0, **31,123** members were assigned a 1, and **160,872** members were assigned a 2. It was determined that 1 indicated female and 2 indicated male, but the dataset did not explain what the assignment of 0 indicated. Further investigation revealed that a subset of people marked as 0 were also listed as either 1 or 2 under different movie ids. By creating separate dataframes for crew members marked as 0, 1, and 2, the intersection of groups 0 and 1 were evaluated to find crew members who could be reassigned gender 1. This yielded an additional **619** matches for gender 1. The same process was repeated for groups 0 and 2, yielding an additional **17,484** matches for gender 2. All gender 0 crew members who could not be assigned to groups 1 or 2 were dropped.
 
 In order to perform the calculations necessary for this project, the gender assignment for females remained 1, but all males were transformed to 0. After the gender assignment process was completed, the clean crew dataset had **194,731** rows. The crew was then separated for further analysis by the target departments, so that there were **25,569** rows in the directing department, **21,558** rows in the writing department, and **15,675** rows in the production department. 
+
+The metadata file also contained information on movie genres, production companies, and the countries the films were produced in. Those columns were each a list of dictionaries that required exploding. All rows with null values were removed, and separate dataframes were created for each of those topics. The genres dataframe resulted in **83,259** rows, the countries dataframe resulted in **45,615** rows, and the companies dataframe resulted in **66,355** rows. 
+
+#### Keywords
+The keywords dataset started with **46,419** rows. First, all rows with empty keywords were dropped, taking the dataset down to **31,624** rows. Then, the keyword column, which was a list of dictionaries, was exploded so that there was one dictionary per row. Then each key/value pair was split into separate columns for the movie id and keyword. The resulting dataset contained **158,516** rows and **18,638** unique keywords. This data was further condensed by grouping similar terms under broader keyword phrases (e.g., "dying woman", "man on deathbed", and "presumed dead" were all reclassified as "death and dying"). Rows with overly specific keywords (e.g., "character's point of view camera shot") or keywords indicating film genre were dropped. The final keyword file contained **145,494** rows and **14,243** unique keywords.
+
+### Data Manipulation
 
 ---
 ### Database Structure
