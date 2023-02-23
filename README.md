@@ -1,9 +1,9 @@
-# Equity and Film 
+# Analysis Of Female Representation In The Film Industry
 
 Movies are a vehicle for audiences to experience different emotions and see new perspectives. The worldview, beliefs and economic interests of those making the movies will will be reflected in the stories being told. This is why it is important that women are included in the filmaking process.
 
-
-## Current Question
+---
+### Current Question
 Has there been an increase in the percentage of females employed in the film industry since 1950?
 
 ---
@@ -39,7 +39,7 @@ There were **272,319** crew members marked as 0, **31,123** members marked as 1 
 The database is hosted on Amazon RDS, the cloud allows for quick and easy access for the team. The structure allows for joins on the movie_id. 
 
 ---
-### Machine Learning
+## Machine Learning
 
 ### Model Selection
 For the assessment of female participation in the film industry through the years a linear regression model was selected. Linear regression evaluates the character and strength of the association between an independent variable a corresponding dependent variable. The result of the mathematical association between female participation over time would show if the number of females working in movies has increased, decreased or stayed relatively constant through the years. This would provide a clear insight on the general behaviour of the dataset with the resources and time allocated for this project.
@@ -49,7 +49,7 @@ As can be showed below, a linear regression model was applied to the following d
 * Female participation in all departments (Directing, Production, and Writing)
 * Female participation by individual department (Directing, Production, and Writing)
 
-### Linear Regression Equation and accuracy
+### Linear Regression Equation And Accuracy
 
 Below the obtained supervised models are described: 
 
@@ -116,4 +116,4 @@ Using Tableau connections, all csv files produced from the database were linked 
 
 ---
 ### Future Analysis 
-In the future the cleaned data could be used to explore deeper connections between keywords, countries and companies. Additionally, exploring nonlinear regression could better describe the relationship between female crew members and time. 
+In the future, the cleaned data could be used to explore deeper connections between keywords, countries and companies. Additionally, exploring nonlinear regression could better describe the relationship between female crew members and time. 
