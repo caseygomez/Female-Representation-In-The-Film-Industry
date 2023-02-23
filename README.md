@@ -39,12 +39,12 @@ The credits dataset started with **45,476** rows and contained a column of data 
 
 The crew dataset contained the gender information, and initial inspection showed that **272,319** crew members were assigned a gender of 0, **31,123** members were assigned a 1, and **160,872** members were assigned a 2. It was determined that 1 indicated female and 2 indicated male, but the dataset did not explain what the assignment of 0 indicated. Further investigation revealed that a subset of people marked as 0 were also listed as either 1 or 2 under different movie ids. By creating separate dataframes for crew members marked as 0, 1, and 2, the intersection of groups 0 and 1 were evaluated to find crew members who could be reassigned gender 1. This yielded an additional **619** matches for gender 1. The same process was repeated for groups 0 and 2, yielding an additional **17,484** matches for gender 2. All gender 0 crew members who could not be assigned to groups 1 or 2 were dropped.
 
-In order to perform the calculations necessary for this project, the gender assignment for females remained 1, but all males were transformed to 0. After the gender assigment process was completed, the clean crew dataset had **194,731** rows. The crew was then divided by department; Directing: **25,569** rows, Writing: **21,558** rows and Production: **15,675**.  
+In order to perform the calculations necessary for this project, the gender assignment for females remained 1, but all males were transformed to 0. After the gender assignment process was completed, the clean crew dataset had **194,731** rows. The crew was then separated for further analysis by the target departments, so that there were **25,569** rows in the directing department, **21,558** rows in the writing department, and **15,675** rows in the production department. 
 
 ---
 ### Database Structure
 
-The database is hosted on Amazon RDS, the cloud allows for quick and easy access for the team. The structure allows for joins on the movie_id. 
+The database was hosted on Amazon RDS. The cloud allowed quick and easy access for all team members, and the structure allowed for joins to be performed on the movie id. 
 
 ---
 ## Machine Learning
