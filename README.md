@@ -27,7 +27,7 @@ The model showed that there is a positive correlation between the variables of p
 The original dataset required significant cleaning before building a database. 
 
 ### Metadata
-The metadata file, before cleaning, contained **45,466** rows. First, all adults films and films that had not yet been released were dropped. Then, the columns of unnecessary data were dropped, reducing the total columns from 23 down to 9. The cleaning continued by removing duplicate movie ids and reordering the remaining columns. Then the release date column was transformed from a string to a datetime format, and all movie ids before 01-01-1950 were dropped. In total, the metadata file was reduced down to **34,118** unique movie ids. 
+The metadata file, before cleaning, contained **45,466** rows. First, all adult films and films that had not yet been released were dropped. Then, the columns of unnecessary data were dropped, reducing the total columns from 23 down to 9. The cleaning continued by removing duplicate movie ids and reordering the remaining columns. Then the release date column was transformed from a string to a datetime format, and all movie ids before 01-01-1950 were dropped. In total, the metadata file was reduced down to **34,118** unique movie ids. 
 
 The metadata file also contained information on movie genres, production companies, and the countries the films were produced in. Those columns were each a list of dictionaries that required exploding. All rows with null values were removed, and separate dataframes were created for each of those topics. The genres dataframe resulted in **83,259** rows, the countries dataframe resulted in **45,615** rows, and the companies dataframe resulted in **66,355** rows. 
 
