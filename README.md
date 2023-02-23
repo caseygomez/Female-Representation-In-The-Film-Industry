@@ -8,24 +8,19 @@ This is why is important that women are included in the filmaking process.
 Has there been an increase in the percentage of females employed in the film industry since 1950?
 
 ---
-### Relevance
-Diversity, equity, inclusion matters (see [slide 6](https://1drv.ms/p/s!AgY9SN2oit84kFzdyb4G3_nUja-r?e=r8Hg0Q)  )
-
----
 ### Resources:
-* Source Code: [Keywords](keyword_ETL.ipynb), [Movies_Metadata](movies_metadata_ETL.ipynb), [Crew Credits](crew_ETL.ipynb)
+
+* Source Code: [Movies_Metadata](movies_metadata_ETL.ipynb), [Crew Credits](crew_ETL.ipynb), [Keywords](keyword_ETL.ipynb).
+
 * Source Data: [The Movies Dataset](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=keywords.csv)
 originally scraped from [TMDB](https://www.themoviesdb.org)
-* Technology: [Python](https://www.python.org/), [Jupyter](https://jupyter.org/), [Amazon S3](https://aws.amazon.com/s3/?did=ap_card&trk=ap_card), [PostgreSQL](https://www.postgresql.org/), [pgAgmin](https://www.pgadmin.org/), [Pandas](https://pandas.pydata.org/), [scikit-learn](https://scikit-learn.org/stable/), [matplotlib](https://matplotlib.org/), [tableau](https://www.tableau.com/), [Excel](https://www.microsoft.com/en-us/?ql=3)
+
+* Technology: [Python](https://www.python.org/), [Jupyter](https://jupyter.org/), [Amazon RDS](https://aws.amazon.com/rds/?did=ap_card&trk=ap_card), [PostgreSQL](https://www.postgresql.org/), [pgAgmin](https://www.pgadmin.org/), [Pandas](https://pandas.pydata.org/), [scikit-learn](https://scikit-learn.org/stable/), [matplotlib](https://matplotlib.org/), [tableau](https://www.tableau.com/), [Excel](https://www.microsoft.com/en-us/?ql=3)
+
 ---
-### Concept:
-The source data includes many files, this project specifically examines the movie credits, keywords, and metadata. All three datasets contain a movie id which will be the unique identifier.
-
-The **credits file** contains information for the crew. The crew data will be loaded into three tables based on department; Directing, Producing, and Writing. Looking at gender will help to answer questions around equity, inclusion and diversity in the film industry. Additionally, this will provide context for relationships between crew members and keywords. 
-
-The **keywords file** will provide context for themes and genres. Utilizing clusters to identify groups with potential for relationships such as female writers and common themes in film. 
-
-The **metadata file** has several columns, this project focuses on; movie id, genre, release date, production company and production country. It will be interesting to compare trends between countries or production companies. 
+### Summary
+A linear regression model was used to describe the percentage of female participation throught time. 
+The model showed that there is a positive correlation between the variables of percentage of females employed and time, thus we can conclude that the number of females has increased since 1950s and will continue to increase.
 
 ---
 ### Analysis: 
