@@ -66,7 +66,7 @@ Below the obtained supervised models are described:
 
 *Linear regression model*
 
-![all_depart_model](https://github.com/caseygomez/Capstone/blob/main/Images/all_depart_model.png)
+![all_depart_model](https://github.com/caseygomez/Capstone/blob/main/Images/all_depart_model.png=250x250)
 
 *Model calculated error*
 
