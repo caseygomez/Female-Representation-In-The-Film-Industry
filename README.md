@@ -108,6 +108,7 @@ Below the obtained supervised models are described:
 * Female participation in the Writing department
 
 *Linear regression model*
+
 ![writing_model](https://github.com/caseygomez/Capstone/blob/main/Images/writing_model.png)
 
 *Model calculated error*
@@ -116,7 +117,7 @@ Below the obtained supervised models are described:
 
 *Residuals graph*
 
-![writing_residuals](https://github.com/caseygomez/Capstone/main/accuracy/Images/writing_residuals.png)
+![writing_residuals](https://github.com/caseygomez/Capstone/main/Images/writing_residuals.png)
 
 ---
 ### Tableau Visualizations
