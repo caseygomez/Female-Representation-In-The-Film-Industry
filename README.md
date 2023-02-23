@@ -67,29 +67,29 @@ Below the obtained supervised models are described:
 
 *Linear regression model*
 
-![all_depart_model](https://github.com/caseygomez/Capstone/blob/accuracy/Images/all_depart_model.png)
+![all_depart_model](https://github.com/caseygomez/Capstone/blob/main/Images/all_depart_model.png)
 
 *Model calculated error*
 
-![all_depart_error](https://github.com/caseygomez/Capstone/blob/accuracy/Images/all_depart_error.png)
+![all_depart_error](https://github.com/caseygomez/Capstone/blob/main/Images/all_depart_error.png)
 
 *Residuals graph*
 
-![all_depart_residuals](https://github.com/caseygomez/Capstone/blob/accuracy/Images/all_depart_residuals.png)
+![all_depart_residuals](https://github.com/caseygomez/Capstone/blob/main/Images/all_depart_residuals.png)
 
 * Female participation in the Directing department
 
 *Linear regression model*
 
-![directing_model](https://github.com/caseygomez/Capstone/blob/accuracy/Images/directing_model.png)
+![directing_model](https://github.com/caseygomez/Capstone/blob/main/Images/directing_model.png)
 
 *Model calculated error*
 
-![directing_error](https://github.com/caseygomez/Capstone/blob/accuracy/Images/directing_error.png)
+![directing_error](https://github.com/caseygomez/Capstone/blob/main/Images/directing_error.png)
 
 *Residuals graph*
 
-![directing_residuals](https://github.com/caseygomez/Capstone/blob/accuracy/Images/directing_residuals.png)
+![directing_residuals](https://github.com/caseygomez/Capstone/blob/main/Images/directing_residuals.png)
 
 * Female participation in the Production department
 
