@@ -1,6 +1,6 @@
 # Analysis Of Female Representation In The Film Industry
 
-Movies are a vehicle for audiences to experience different emotions and see new perspectives. The worldview, beliefs and economic interests of those making the movies will will be reflected in the stories being told. This is why it is important that women are included in the filmaking process.
+Movies are a vehicle for audiences to experience different emotions and see new perspectives. The worldview, beliefs and economic interests of those making the movies will be reflected in the stories being told. This is why it is important that women are included in the filmmaking process.
 
 ---
 ### Current Question
@@ -19,7 +19,8 @@ originally scraped from [TMDB](https://www.themoviesdb.org)
 ---
 ### Summary
 A linear regression model was used to describe the percentage of female crew member participation through time. 
-The model showed that there is a positive correlation between the variables of percentage of females employed and time, thus we can conclude that the percentage of females has increased since 1950s and will continue to increase.
+
+The model showed that there is a positive correlation between the variables of percentage of females employed and time, thus we can conclude that the percentage of females has increased since the 1950s and will continue to increase.
 
 ---
 ### Process
@@ -27,7 +28,7 @@ The original dataset required significant cleaning before building a database. T
 
 The metadata file also contained genres, companies and countries. Those columns were each a list of dictionaries that required exploding. All rows with null values were removed. The genres dataframe resulted in **83,259** rows, the countries dataframe resulted in **45,615** rows and the companies dataframe resulted in **66,355** rows. 
 
-The keywords dataset started with **46,419** rows. First, all rows with empty keywords were dropped, taking the dataset down to **31,624** rows. Then the keyword column, which was a list of dictionaries was exploded leaving one keyword dictionary per row. Then each row was split into columns; movie_id and keyword. Additionally it was important to track the occurrence of each keyword, rows with keywords that occurred less than 20 times were dropped. The resulting dataset is now **103,301** rows. 
+The keywords dataset started with **46,419** rows. First, all rows with empty keywords were dropped, taking the dataset down to **31,624** rows. Then the keyword column, which was a list of dictionaries, was exploded so that there was one keyword dictionary per row. Then each row was split into columns; movie_id and keyword. The resulting dataset is now **103,301** rows. 
 
 Lastly the crew dataset started with **45,476** rows. First the cast column was dropped, then the crew column exploded so that the list of dictionaries became one dictionary per row. From there, each dictionary row was split into many columns and unnecessary columns were dropped. The crew dataset has the gender column, the initial inspection showed there were 0s, 1s and 2s throughout. The 1 matched with females, 2 matched with males but 0 had inconsistencies that needed to be corrected. 
 
@@ -42,7 +43,7 @@ The database is hosted on Amazon RDS, the cloud allows for quick and easy access
 ## Machine Learning
 
 ### Model Selection
-For the assessment of female participation in the film industry through the years a linear regression model was selected. Linear regression evaluates the character and strength of the association between an independent variable a corresponding dependent variable. The result of the mathematical association between female participation over time would show if the number of females working in movies has increased, decreased or stayed relatively constant through the years. This would provide a clear insight on the general behaviour of the dataset with the resources and time allocated for this project.
+For the assessment of female participation in the film industry through the years a linear regression model was selected. Linear regression evaluates the character and strength of the association between an independent variable and a corresponding dependent variable. The result of the mathematical association between female participation over time would show if the number of females working in movies has increased, decreased or stayed relatively constant through the years. This would provide a clear insight on the general behavior of the dataset with the resources and time allocated for this project.
 
 Additionally, the linear regression equation can be used to predict new values based on the existing data. The percentage of female participation within the evaluated departments is a continuous numerical value that matches the requirements for the linear regression model.
 As can be showed below, a linear regression model was applied to the following datasets over time:
