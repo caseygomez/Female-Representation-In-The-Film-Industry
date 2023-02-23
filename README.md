@@ -50,14 +50,16 @@ The database was hosted on Amazon RDS. The cloud allowed quick and easy access f
 ## Machine Learning
 
 ### Model Selection
-For the assessment of female participation in the film industry through the years a linear regression model was selected. Linear regression evaluates the character and strength of the association between an independent variable and a corresponding dependent variable. The result of the mathematical association between female participation over time would show if the number of females working in movies has increased, decreased or stayed relatively constant through the years. This would provide a clear insight on the general behavior of the dataset with the resources and time allocated for this project.
+A linear regression model was selected to assess the percentage of female crew members in the film industry over time. Linear regression evaluates the character and strength of the association between an independent variable and a corresponding dependent variable. The result of the mathematical association between female participation over time shows if the number of females working in movies has increased, decreased, or stayed relatively constant throughout the years. This provided a clear insight as to the general behavior of the dataset within the parameters of the time and resources allocated for the project.
 
 Additionally, the linear regression equation can be used to predict new values based on the existing data. The percentage of female participation within the evaluated departments is a continuous numerical value that matches the requirements for the linear regression model.
-As can be showed below, a linear regression model was applied to the following datasets over time:
-* Female participation in all departments (Directing, Production, and Writing)
-* Female participation by individual department (Directing, Production, and Writing)
 
-### Linear Regression Equation And Accuracy
+### Linear Regression Equation, Accuracy, And Results
+The linear regression model was applied to the following datasets.
+
+* Female participation in all departments (Directing, Production, and Writing)
+* 
+* Female participation by individual department (Directing, Production, and Writing)
 
 Below the obtained supervised models are described: 
 
