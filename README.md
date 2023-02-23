@@ -117,4 +117,4 @@ Using Tableau connections, all csv files produced from the database were linked 
 
 ---
 ### Future Analysis 
-In the future, the cleaned data could be used to explore deeper connections between keywords, countries and companies. Additionally, exploring nonlinear regression could better describe the relationship between female crew members and time. 
+In the future, the cleaned data could be used to explore deeper connections between keywords, countries, genres, and companies. Additionally, exploring nonlinear regression could better describe the relationship between female crew members and time. 
