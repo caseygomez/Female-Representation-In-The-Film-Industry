@@ -33,18 +33,18 @@ Lastly the crew dataset started with 45,476 rows. First the cast column was drop
 
 There were 272,319 crew members marked as 0, 31,123 members marked as 1 and 160,872 members marked as 2. By creating new data frames with crew members marked as 0s, 1s, and 2s the data frames were then merged on the intersection of 1 or 2. This yielded an additional 619 matches for gender 1 and 17,484 matches for gender 2. This project examines the proportion of female crew members so females remained gender '1' and males were transformed to '0'. After removing all remaining rows with unknown gender the clean crew dataset has 194,731 rows. The crew was then divided by department; Directing: 25,770 rows, Writing: 21,686 rows and Producing: 15,767.  
 
+---
 ### Database Structure:
 
 The database is hosted on Amazon RDS, the cloud allows for quick and easy access for the team. The structure allows for joins on the movie_id. 
 
-
-## Machine Learning
+---
+### Machine Learning
 
 ### Model Selection
-For the assessment of female participation in the film industry through the years supervised a linear regression model was selected. Linear regression allows to evaluate the character and strenght of the association between an independent variable a corresponding dependent variable. The result of the mathematical association between female participation over time would show if the number of women working behind cameras in movies has increased, decreased or stayed relatively constant through the years. This would provide a clear insight on the general behaviour of the dataset with the resources and time allocated for this project.
+For the assessment of female participation in the film industry through the years a linear regression model was selected. Linear regression evaluates the character and strength of the association between an independent variable a corresponding dependent variable. The result of the mathematical association between female participation over time would show if the number of females working in movies has increased, decreased or stayed relatively constant through the years. This would provide a clear insight on the general behaviour of the dataset with the resources and time allocated for this project.
 
-Additionally, the linear regression equation can be used to predict new values based on the existing data.
-The percentage of female part of the evaluated departments is a continuous numerical value that matches the requirements for the linear regression model.
+Additionally, the linear regression equation can be used to predict new values based on the existing data. The percentage of female participation within the evaluated departments is a continuous numerical value that matches the requirements for the linear regression model.
 As can be showed below, a linear regression model was applied to the following datasets over time:
 * Female participation in all departments (Directing, Production, and Writing)
 * Female participation by individual department (Directing, Production, and Writing)
@@ -107,3 +107,12 @@ Below the obtained supervised models are described:
 *Residuals graph*
 
 ![writing_residuals](https://github.com/caseygomez/Capstone/blob/accuracy/Images/writing_residuals.png)
+
+---
+### Tableau 
+Using Tableau connections, all csv files produced from the database were linked via the movie id column from the metadata table. There were key values that were consistently used throughout the dashboard; release date, average percentage female, keyword, countries, companies. 
+
+
+---
+### Future Analysis 
+In the future the cleaned data could be used to explore deeper connections between keywords, countries and companies. Additionally, exploring nonlinear regression could better describe the relationship between female crew members and time. 
