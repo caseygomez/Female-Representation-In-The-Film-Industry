@@ -115,7 +115,11 @@ Below the obtained supervised models are described:
 ### Tableau 
 Using Tableau connections, all csv files produced from the database were linked via the movie id column from the metadata table. There were key values that were consistently used throughout the dashboard; release date, average percentage female, keyword, countries, companies. 
 
-*All Departments graph*
+*Female Percentage for All Departments*
+![all_departmentes_line](https://github.com/caseygomez/Capstone/blob/main/Images/tableau_all.png)
+
+*Female Percentage Prediction for All Departments*
+![all_prediction](https://github.com/caseygomez/Capstone/blob/main/Images/tableau_predict_all.png
 
 ---
 ### Future Analysis 
