@@ -58,7 +58,6 @@ Additionally, the linear regression equation can be used to predict new values b
 The linear regression model was applied to the following datasets.
 
 * Female participation in all departments (Directing, Production, and Writing)
-* 
 * Female participation by individual department (Directing, Production, and Writing)
 
 Below the obtained supervised models are described: 
@@ -94,29 +93,29 @@ Below the obtained supervised models are described:
 * Female participation in the Production department
 
 *Linear regression model*
-![production_model](https://github.com/caseygomez/Capstone/blob/accuracy/Images/production_model.png)
+![production_model](https://github.com/caseygomez/Capstone/blob/main/Images/production_error.png)
 
 *Model calculated error*
 
-![production_error](https://github.com/caseygomez/Capstone/blob/accuracy/Images/production_error.png)
+![production_error](https://github.com/caseygomez/Capstone/blob/main/Images/production_error.png)
 
 *Residuals graph*
 
-![production_residuals](https://github.com/caseygomez/Capstone/blob/accuracy/Images/production_residuals.png)
+![production_residuals](https://github.com/caseygomez/Capstone/blob/main/Images/production_residuals.png)
 
 
 * Female participation in the Writing department
 
 *Linear regression model*
-![writing_model](https://github.com/caseygomez/Capstone/blob/accuracy/Images/writing_model.png)
+![writing_model](https://github.com/caseygomez/Capstone/blob/main/Images/writing_model.png)
 
 *Model calculated error*
 
-![writing_error](https://github.com/caseygomez/Capstone/blob/accuracy/Images/writing_error.png)
+![writing_error](https://github.com/caseygomez/Capstone/blob/main/Images/writing_error.png)
 
 *Residuals graph*
 
-![writing_residuals](https://github.com/caseygomez/Capstone/blob/accuracy/Images/writing_residuals.png)
+![writing_residuals](https://github.com/caseygomez/Capstone/main/accuracy/Images/writing_residuals.png)
 
 ---
 ### Tableau Visualizations
