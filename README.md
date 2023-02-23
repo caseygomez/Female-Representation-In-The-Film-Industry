@@ -26,7 +26,7 @@ The model showed that there is a positive correlation between the variables of p
 ## Process
 
 ### Data Preparation
-The original dataset required significant cleaning before building a database. 
+The three files chosen from the original dataset required significant cleaning before they could be used to build the database. 
 
 #### Metadata
 The metadata file, before cleaning, contained **45,466** rows. First, all adult films and films that had not yet been released were dropped. Then, the columns of unnecessary data were dropped, reducing the total columns from 23 down to 9. The cleaning continued by removing duplicate movie ids and reordering the remaining columns. Then the release date column was transformed from a string to a datetime format, and all movie ids before 01-01-1950 were dropped. In total, the metadata file was reduced down to **34,118** unique movie ids. 
