@@ -66,11 +66,11 @@ Below the obtained supervised models are described:
 
 *Linear regression model*
 
-![all_depart_model](https://github.com/caseygomez/Capstone/blob/main/Images/all_depart_model.png =250x250)
+![all_depart_model](https://github.com/caseygomez/Capstone/blob/main/Images/all_depart_model.png)
 
 *Model calculated error*
 
-![all_depart_error](https://github.com/caseygomez/Capstone/blob/main/Images/all_depart_error.png =250x250)
+![all_depart_error](https://github.com/caseygomez/Capstone/blob/main/Images/all_depart_error.png)
 
 *Residuals graph*
 
