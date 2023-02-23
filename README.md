@@ -7,7 +7,7 @@ Movies are a vehicle for audiences to experience different emotions and see new 
 Has there been an increase in the percentage of females employed in the film industry since 1950?
 
 ---
-### Resources:
+### Resources
 
 * Source Code: [Movies_Metadata](movies_metadata_ETL.ipynb), [Crew Credits](crew_ETL.ipynb), [Keywords](keyword_ETL.ipynb).
 
@@ -22,7 +22,7 @@ A linear regression model was used to describe the percentage of female crew mem
 The model showed that there is a positive correlation between the variables of percentage of females employed and time, thus we can conclude that the percentage of females has increased since 1950s and will continue to increase.
 
 ---
-### Process:
+### Process
 The original dataset required significant cleaning before building a database. The metadata file was cleaned from 45,466 rows down to 34,118. First, all films not yet released and adult films were dropped. Then the columns of unnecessary data were dropped from 23 columns down to 9. The cleaning continued by removing duplicate movie ids, and reordering the remaining columns. Then the release_date column was transformed to datetime and all movie id rows with a null value or before 01-01-1950 were dropped. The final row count was 34,118 unique movie ids. 
 
 The metadata file also contained genres, companies and countries. Those columns were each a list of dictionaries that required exploding. All rows with null values were removed. The genres dataframe resulted in 83,259 rows, the countries dataframe resulted in 45,615 rows and the companies dataframe resulted in 66,355 rows. 
@@ -34,7 +34,7 @@ Lastly the crew dataset started with 45,476 rows. First the cast column was drop
 There were 272,319 crew members marked as 0, 31,123 members marked as 1 and 160,872 members marked as 2. By creating new data frames with crew members marked as 0s, 1s, and 2s the data frames were then merged on the intersection of 1 or 2. This yielded an additional 619 matches for gender 1 and 17,484 matches for gender 2. This project examines the proportion of female crew members so females remained gender '1' and males were transformed to '0'. After removing all remaining rows with unknown gender the clean crew dataset has 194,731 rows. The crew was then divided by department; Directing: 25,770 rows, Writing: 21,686 rows and Producing: 15,767.  
 
 ---
-### Database Structure:
+### Database Structure
 
 The database is hosted on Amazon RDS, the cloud allows for quick and easy access for the team. The structure allows for joins on the movie_id. 
 
