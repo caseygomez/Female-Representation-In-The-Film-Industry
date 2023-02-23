@@ -108,13 +108,12 @@ The linear regression model was applied to the following datasets.
 ### Tableau Visualizations
 Using Tableau connections, all of the .csv files produced in Postgres were linked via the movie id column in the metadata table. The key metrics that were evaluated in the dashboard were movie release date, average percentage female crew members, genre, keyword, production countries, and production companies. 
 
-*Female Crew Members by Release Date*
 ![all_departmentes_line](https://github.com/caseygomez/Capstone/blob/main/Images/tableau_all.png)
 
-*Genres by Percentage of Female Crew*
+*Genres By Percentage Of Female Crew*
 ![genres](https://github.com/caseygomez/Capstone/blob/main/Images/tableau_genres.png)
 
-*Keyword by Romance Genre*
+*Keyword By Romance Genre*
 ![Keyword by Romance](https://github.com/caseygomez/Capstone/blob/main/Images/tableau_keywords_romance.png)
 
 ---
