@@ -119,7 +119,7 @@ Using Tableau connections, all csv files produced from the database were linked 
 ![all_departmentes_line](https://github.com/caseygomez/Capstone/blob/main/Images/tableau_all.png)
 
 *Female Percentage Prediction for All Departments*
-![all_prediction](https://github.com/caseygomez/Capstone/blob/main/Images/tableau_predict_all.png
+![all_prediction](https://github.com/caseygomez/Capstone/blob/main/Images/tableau_predict_all.png)
 
 ---
 ### Future Analysis 
