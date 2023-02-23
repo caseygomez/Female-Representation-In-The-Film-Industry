@@ -125,8 +125,8 @@ Using Tableau connections, all of the .csv files produced in Postgres were linke
 *Female Percentage for All Departments*
 ![all_departmentes_line](https://github.com/caseygomez/Capstone/blob/main/Images/tableau_all.png)
 
-*Female Percentage Prediction for All Departments*
-![all_prediction](https://github.com/caseygomez/Capstone/blob/main/Images/tableau_predict_all.png)
+*Genre and Keyword Dashboard*
+![dashboard](https://github.com/caseygomez/Capstone/blob/main/Images/tableau_predict_all.png)
 
 ---
 ### Future Analysis 
@@ -141,4 +141,5 @@ Using Tableau connections, all of the .csv files produced in Postgres were linke
 ---
 ### Additional Materials
 * [Google Slidedeck - Project Presentation](https://docs.google.com/presentation/d/1cCyO-_hIM7on5ASuPeHfUKymAdPlYvNrsFdtkkTZsNc/edit?usp=sharing)
+* [Tableau Story](https://public.tableau.com/app/profile/casey.gomez/viz/FemaleRepresentationinFilmIndustry/Story1)
 
