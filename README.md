@@ -93,6 +93,7 @@ Below the obtained supervised models are described:
 * Female participation in the Production department
 
 *Linear regression model*
+
 ![production_model](https://github.com/caseygomez/Capstone/blob/main/Images/production_error.png)
 
 *Model calculated error*
