@@ -23,12 +23,17 @@ A linear regression model was used to describe the percentage of female crew mem
 The model showed that there is a positive correlation between the variables of percentage of females employed and time. Thus, we can conclude that the percentage of females has increased since the 1950s and will continue to increase.
 
 ---
-### Process
-The original dataset required significant cleaning before building a database. First, all adults films and films that had not yet been released were dropped. Then, the columns of unnecessary data were dropped, reducing the total columns from 23 down to 9. The cleaning continued by removing duplicate movie ids and reordering the remaining columns. Then the release date column was transformed from a string to a datetime format, and all movie ids before 01-01-1950 were dropped. In total, the metadata file was reduced from **45,466** rows down to **34,118** unique movie ids. 
+## Process
+The original dataset required significant cleaning before building a database. 
 
-The metadata file also contained genres, companies, and countries. Those columns were each a list of dictionaries that required exploding. All rows with null values were removed, and separate dataframes were created for each of those topics. The genres dataframe resulted in **83,259** rows, the countries dataframe resulted in **45,615** rows, and the companies dataframe resulted in **66,355** rows. 
+### Metadata
+The metadata file, before cleaning, contained **45,466** rows. First, all adults films and films that had not yet been released were dropped. Then, the columns of unnecessary data were dropped, reducing the total columns from 23 down to 9. The cleaning continued by removing duplicate movie ids and reordering the remaining columns. Then the release date column was transformed from a string to a datetime format, and all movie ids before 01-01-1950 were dropped. In total, the metadata file was reduced down to **34,118** unique movie ids. 
 
-The keywords dataset started with **46,419** rows. First, all rows with empty keywords were dropped, taking the dataset down to **31,624** rows. Then, the keyword column, which was a list of dictionaries, was exploded so that there was one dictionary per row. Then each key/value pair was split into columns the movie_id and keyword. The resulting dataset was **103,301** rows. 
+The metadata file also contained information on movie genres, production companies, and the countries the films were produced in. Those columns were each a list of dictionaries that required exploding. All rows with null values were removed, and separate dataframes were created for each of those topics. The genres dataframe resulted in **83,259** rows, the countries dataframe resulted in **45,615** rows, and the companies dataframe resulted in **66,355** rows. 
+
+### Keywords
+The keywords dataset started with **46,419** rows. First, all rows with empty keywords were dropped, taking the dataset down to **31,624** rows. Then, the keyword column, which was a list of dictionaries, was exploded so that there was one dictionary per row. Then each key/value pair was split into separate columns for the movie id and keyword. The resulting dataset contained **158,516** rows and **18,638** unique keywords. This data was further condensed by grouping similar terms under broader keyword phrases (e.g., "dying woman", "man on deathbed", and "presumed dead" were all reclassified as "death and dying"). Rows with overly specific keywords (e.g., "character's point of view camera shot")
+
 
 Lastly, the crew dataset started with **45,476** rows. First, the cast column was dropped and the crew column exploded so that the list of dictionaries became one dictionary per row. From there, the key/value pairs in each dictionary were turned into individual columns, and unnecessary columns were dropped. The crew dataset contained the gender information, and initial inspection showed that crew members were assigned a 0, 1, or 2 to denote gender. The 1 matched with females, 2 matched with males, but 0 had inconsistencies that needed to be corrected. 
 
