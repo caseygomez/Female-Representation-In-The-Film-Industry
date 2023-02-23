@@ -1,6 +1,6 @@
 # Analysis Of Female Representation In The Film Industry
 
-Movies are a vehicle for audiences to experience different emotions and see new perspectives. The worldview, beliefs and economic interests of those making the movies will be reflected in the stories being told. This is why it is important that women are included in the filmmaking process.
+Movies are a vehicle for audiences to experience different emotions and see new perspectives. The worldview, beliefs, and economic interests of those making the movies will be reflected in the stories being told. As such, it is important that women are included in the filmmaking process so that their voices and stories can be heard.
 
 ---
 ### Current Question
@@ -20,11 +20,11 @@ originally scraped from [TMDB](https://www.themoviesdb.org)
 ### Summary
 A linear regression model was used to describe the percentage of female crew member participation through time. 
 
-The model showed that there is a positive correlation between the variables of percentage of females employed and time, thus we can conclude that the percentage of females has increased since the 1950s and will continue to increase.
+The model showed that there is a positive correlation between the variables of percentage of females employed and time. Thus, we can conclude that the percentage of females has increased since the 1950s and will continue to increase.
 
 ---
 ### Process
-The original dataset required significant cleaning before building a database. The metadata file was cleaned from **45,466** rows down to **34,118**. First, all films not yet released and adult films were dropped. Then the columns of unnecessary data were dropped from 23 columns down to 9. The cleaning continued by removing duplicate movie ids, and reordering the remaining columns. Then the release_date column was transformed to datetime and all movie id rows with a null value or before 01-01-1950 were dropped. The final row count was **34,118** unique movie ids. 
+The original dataset required significant cleaning before building a database. First, all adults films and films that had not yet been released were dropped. Then, the columns of unnecessary data were dropped, reducing the total columns from 23 down to 9. The cleaning continued by removing duplicate movie ids and reordering the remaining columns. Then the release date column was transformed from a string to a datetime format, and all movie ids before 01-01-1950 were dropped. In total, the metadata file was reduced from **45,466** rows down to **34,118** unique movie ids. 
 
 The metadata file also contained genres, companies, and countries. Those columns were each a list of dictionaries that required exploding. All rows with null values were removed, and separate dataframes were created for each of those topics. The genres dataframe resulted in **83,259** rows, the countries dataframe resulted in **45,615** rows, and the companies dataframe resulted in **66,355** rows. 
 
