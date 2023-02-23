@@ -57,66 +57,51 @@ Additionally, the linear regression equation can be used to predict new values b
 ### Linear Regression Equation, Accuracy, And Results
 The linear regression model was applied to the following datasets.
 
-* Female participation in all departments (Directing, Production, and Writing)
+* Female participation in the combined target departments (Directing, Production, and Writing)
 * Female participation by individual department (Directing, Production, and Writing)
 
-Below the obtained supervised models are described: 
+#### Percentage Of Female Crew Across Combined Target Departments (Directing, Production, and Writing) Over Time
 
-* Female participation in all departments (Directing, Production, and Writing)
-
-*Linear regression model*
-
+##### *Linear regression model*
 ![all_depart_model](https://github.com/caseygomez/Capstone/blob/main/Images/all_depart_model.png)
 
-*Model calculated error*
-
+##### *Model calculated error*
 ![all_depart_error](https://github.com/caseygomez/Capstone/blob/main/Images/all_depart_error.png)
 
-*Residuals graph*
-
+##### *Residuals graph*
 ![all_depart_residuals](https://github.com/caseygomez/Capstone/blob/main/Images/all_depart_residuals.png)
 
-* Female participation in the Directing department
+#### Percentage Of Female Crew In The Directing Department Over Time
 
-*Linear regression model*
-
+##### *Linear regression model*
 ![directing_model](https://github.com/caseygomez/Capstone/blob/main/Images/directing_model.png)
 
-*Model calculated error*
-
+##### *Model calculated error*
 ![directing_error](https://github.com/caseygomez/Capstone/blob/main/Images/directing_error.png)
 
-*Residuals graph*
-
+##### *Residuals graph*
 ![directing_residuals](https://github.com/caseygomez/Capstone/blob/main/Images/directing_residuals.png)
 
-* Female participation in the Production department
+#### Percentage Of Female Crew In The Production Department Over Time
 
-*Linear regression model*
-
+##### *Linear regression model*
 ![production_model](https://github.com/caseygomez/Capstone/blob/main/Images/production_error.png)
 
-*Model calculated error*
-
+##### *Model calculated error*
 ![production_error](https://github.com/caseygomez/Capstone/blob/main/Images/production_error.png)
 
-*Residuals graph*
-
+##### *Residuals graph*
 ![production_residuals](https://github.com/caseygomez/Capstone/blob/main/Images/production_residuals.png)
 
+#### Percentage Of Female Crew In The Writing Department Over Time
 
-* Female participation in the Writing department
-
-*Linear regression model*
-
+##### *Linear regression model*
 ![writing_model](https://github.com/caseygomez/Capstone/blob/main/Images/writing_model.png)
 
-*Model calculated error*
-
+##### *Model calculated error*
 ![writing_error](https://github.com/caseygomez/Capstone/blob/main/Images/writing_error.png)
 
-*Residuals graph*
-
+##### *Residuals graph*
 ![writing_residuals](https://github.com/caseygomez/Capstone/blob/main/Images/writing_residuals.png)
 
 ---
