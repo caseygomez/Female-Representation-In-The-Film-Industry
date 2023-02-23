@@ -117,7 +117,7 @@ Below the obtained supervised models are described:
 
 *Residuals graph*
 
-![writing_residuals](https://github.com/caseygomez/Capstone/main/Images/writing_residuals.png)
+![writing_residuals](https://github.com/caseygomez/Capstone/blob/main/Images/writing_residuals.png)
 
 ---
 ### Tableau Visualizations
