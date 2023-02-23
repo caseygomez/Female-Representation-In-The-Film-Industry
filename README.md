@@ -122,11 +122,14 @@ Below the obtained supervised models are described:
 ### Tableau Visualizations
 Using Tableau connections, all of the .csv files produced in Postgres were linked via the movie id column in the metadata table. The key metrics that were evaluated in the dashboard were movie release date, average percentage female crew members, genre, keyword, production countries, and production companies. 
 
-*Female Percentage for All Departments*
+*All Departments Percentage of Female Crew*
 ![all_departmentes_line](https://github.com/caseygomez/Capstone/blob/main/Images/tableau_all.png)
 
-*Genre and Keyword Dashboard*
-![dashboard](https://github.com/caseygomez/Capstone/blob/main/Images/tableau_predict_all.png)
+*Genres by Percentage of Female Crew*
+![genres](https://github.com/caseygomez/Capstone/blob/main/Images/tableau_genres.png)
+
+*Keyword by Romance Genre*
+![Keyword by Romance](https://github.com/caseygomez/Capstone/blob/main/Images/tableau_keywords_romance.png)
 
 ---
 ### Future Analysis 
@@ -141,5 +144,5 @@ Using Tableau connections, all of the .csv files produced in Postgres were linke
 ---
 ### Additional Materials
 * [Google Slidedeck - Project Presentation](https://docs.google.com/presentation/d/1cCyO-_hIM7on5ASuPeHfUKymAdPlYvNrsFdtkkTZsNc/edit?usp=sharing)
-* [Tableau Story](https://public.tableau.com/app/profile/casey.gomez/viz/FemaleRepresentationinFilmIndustry/Story1)
+* [Tableau Story](https://public.tableau.com/shared/NZMPFXXD3?:display_count=n&:origin=viz_share_link)
 
