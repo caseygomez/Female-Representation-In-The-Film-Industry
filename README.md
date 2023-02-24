@@ -87,7 +87,7 @@ The linear regression model was applied to the following datasets.
 #### Percentage Of Female Crew In The Production Department Over Time
 
 ##### *Linear regression model*
-![production_model](https://github.com/caseygomez/Capstone/blob/main/Images/production_error.png)
+![production_model](https://github.com/caseygomez/Capstone/blob/main/Images/production_model.png)
 
 ##### *Model calculated error*
 ![production_error](https://github.com/caseygomez/Capstone/blob/main/Images/production_error.png)
