@@ -18,9 +18,11 @@ originally scraped from [TMDB](https://www.themoviesdb.org)
 
 ---
 ### Summary
-A linear regression model was used to describe the percentage of female crew member participation through time. 
+A linear regression model was used to describe the percentage of female crew member participation through time by film department (directing, writing, and production), as well as the combination of those three departments combined. 
 
-The model showed that there is a positive correlation between the variables of percentage of females employed and time. Thus, we can conclude that the percentage of females has increased since the 1950s and will continue to increase.
+The model showed that there is a positive correlation between the variables of percentage of females employed and time. Thus, we can conclude that the percentage of females has increased since the 1950s and will continue to increase. Using the equations produced in this analysis, we can predict the year that females will make up 50% of film industry crew members in the target departments.
+
+<img width=100% alt="equity_predictions" src="https://user-images.githubusercontent.com/111674383/221101049-d901efe1-1514-489b-9798-3708a21287f9.png">
 
 ---
 ## Process
