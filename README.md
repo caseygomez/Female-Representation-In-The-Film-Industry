@@ -1,6 +1,6 @@
 # Analysis Of Female Representation In The Film Industry
 
-Movies are a vehicle for audiences to experience different emotions and see new perspectives. The worldview, beliefs, and economic interests of those making the movies will be reflected in the stories being told. As such, it is important that women are included in the filmmaking process so that their voices and stories can be heard.
+Movies are a vehicle for audiences to experience different emotions and see new perspectives. The worldview, beliefs, and economic interests of those making the movies will be reflected in the stories being told. As such, it is important that women are included in the filmmaking process so that their voices and stories can be heard. 
 
 ---
 ### Current Question
